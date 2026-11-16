@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023580,
   "last_published_at": "2026-11-16T22:31:57Z",
-  "next_draft_number": 4,
+  "next_draft_number": 5,
   "drafts": [
     {
       "number": 3,
@@ -15,6 +15,17 @@
       "caption": "☁️ <b>GTA 6 запустится даже на Xbox One</b>\n\nMicrosoft подтвердила: в день релиза игра будет в Xbox Cloud Gaming — её можно стримить на старый Xbox One.\n\n🕖 Старт облака: 19 ноября, 07:00 по Варшаве / 09:00 МСК\n🎮 Картинка — как на Xbox Series S\n💰 Игру всё равно нужно купить ($79.99), Game Pass не обязателен — в ряде стран продают отдельное время для облака\n\nНа Series X|S предзагрузка уже открыта.\n\n#GTA6 #новости",
       "channel_message_id": 7,
       "published_at": "2026-11-16T22:31:57Z"
+    },
+    {
+      "number": 4,
+      "status": "pending",
+      "topic": "review-embargo-nov18",
+      "message_id": 11,
+      "media": "posts/2026-11-16-review-embargo.png",
+      "media_type": "photo",
+      "created_at": "2026-11-16T22:33:37Z",
+      "source": "https://beebom.com/gta-6-review-embargo-date-revealed/",
+      "caption": "🔎 <b>Слух: обзоры GTA 6 выйдут 18 ноября</b>\n\nИнсайдер NateTheHate утверждает, что эмбарго на рецензии снимут за день до релиза. Insider Gaming пишет, что независимо подтвердил дату.\n\n📰 Обзоры прессы: 18 ноября (точное время неизвестно)\n🎮 Релиз: 19 ноября, PS5 и Xbox Series X|S\n❗ Rockstar и Take-Two дату пока не подтверждали\n\nЖдёте оценок или берёте вслепую?\n\n#GTA6 #новости"
     }
   ],
   "published_topics": [
