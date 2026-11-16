@@ -1,7 +1,21 @@
 {
-  "last_update_id": 756023574,
+  "last_update_id": 756023579,
   "last_published_at": "2026-11-16T19:04:00Z",
-  "next_draft_number": 3,
-  "drafts": [],
-  "published_topics": ["release-time-by-region"]
+  "next_draft_number": 4,
+  "drafts": [
+    {
+      "number": 3,
+      "status": "pending",
+      "topic": "xbox-one-cloud-gaming",
+      "message_id": 9,
+      "media": "posts/2026-11-16-xbox-one-cloud.png",
+      "media_type": "photo",
+      "created_at": "2026-11-16T21:39:00Z",
+      "source": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/",
+      "caption": "☁️ <b>GTA 6 запустится даже на Xbox One</b>\n\nMicrosoft подтвердила: в день релиза игра будет в Xbox Cloud Gaming — её можно стримить на старый Xbox One.\n\n🕖 Старт облака: 19 ноября, 07:00 по Варшаве / 09:00 МСК\n🎮 Картинка — как на Xbox Series S\n💰 Игру всё равно нужно купить ($79.99), Game Pass не обязателен — в ряде стран продают отдельное время для облака\n\nНа Series X|S предзагрузка уже открыта.\n\n#GTA6 #новости"
+    }
+  ],
+  "published_topics": [
+    "release-time-by-region"
+  ]
 }
