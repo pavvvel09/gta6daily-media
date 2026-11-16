@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023580,
-  "last_published_at": "2026-11-16T22:31:57Z",
+  "last_update_id": 756023581,
+  "last_published_at": "2026-11-16T23:32:16Z",
   "next_draft_number": 5,
   "drafts": [
     {
@@ -18,18 +18,22 @@
     },
     {
       "number": 4,
-      "status": "pending",
+      "status": "published",
       "topic": "review-embargo-nov18",
       "message_id": 11,
       "media": "posts/2026-11-16-review-embargo.png",
       "media_type": "photo",
       "created_at": "2026-11-16T22:33:37Z",
       "source": "https://beebom.com/gta-6-review-embargo-date-revealed/",
-      "caption": "🔎 <b>Слух: обзоры GTA 6 выйдут 18 ноября</b>\n\nИнсайдер NateTheHate утверждает, что эмбарго на рецензии снимут за день до релиза. Insider Gaming пишет, что независимо подтвердил дату.\n\n📰 Обзоры прессы: 18 ноября (точное время неизвестно)\n🎮 Релиз: 19 ноября, PS5 и Xbox Series X|S\n❗ Rockstar и Take-Two дату пока не подтверждали\n\nЖдёте оценок или берёте вслепую?\n\n#GTA6 #новости"
+      "caption": "🔎 <b>Слух: обзоры GTA 6 выйдут 18 ноября</b>\n\nИнсайдер NateTheHate утверждает, что эмбарго на рецензии снимут за день до релиза. Insider Gaming пишет, что независимо подтвердил дату.\n\n📰 Обзоры прессы: 18 ноября (точное время неизвестно)\n🎮 Релиз: 19 ноября, PS5 и Xbox Series X|S\n❗ Rockstar и Take-Two дату пока не подтверждали\n\nЖдёте оценок или берёте вслепую?\n\n#GTA6 #новости",
+      "channel_message_id": 8,
+      "approved_update_id": 756023581,
+      "published_at": "2026-11-16T23:32:16Z"
     }
   ],
   "published_topics": [
     "release-time-by-region",
-    "xbox-one-cloud-gaming"
+    "xbox-one-cloud-gaming",
+    "review-embargo-nov18"
   ]
 }
