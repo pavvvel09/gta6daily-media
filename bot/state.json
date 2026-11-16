@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023581,
   "last_published_at": "2026-11-16T23:32:16Z",
-  "next_draft_number": 5,
+  "next_draft_number": 6,
   "drafts": [
     {
       "number": 3,
@@ -29,6 +29,17 @@
       "channel_message_id": 8,
       "approved_update_id": 756023581,
       "published_at": "2026-11-16T23:32:16Z"
+    },
+    {
+      "number": 5,
+      "status": "pending",
+      "topic": "heists-confirmed",
+      "message_id": 13,
+      "media": "posts/2026-11-17-heists.png",
+      "media_type": "photo",
+      "created_at": "2026-11-16T23:34:46Z",
+      "source": "https://www.gtabase.com/articles/gta-6/gta-6-heists-explained-every-big-score-confirmed-so-far",
+      "caption": "💰 <b>Какие ограбления ждут в GTA 6</b>\n\nДо релиза пара дней — собрали, что уже известно о налётах:\n\n🏪 Магазинчики — ещё в первом трейлере Джейсон и Люсия грабят круглосуточный магазин. Касса там скромная.\n🏦 Банки — в галерее Rockstar к запуску есть кадр с налётом и заложниками.\n💎 Ювелирки, фургоны с ценностями и бандитские базы — по превью прессы, это цели покрупнее. Добычу сбывают скупщикам.\n\nСколько крупных сюжетных ограблений и сколько они приносят — Rockstar не раскрывает.\n\n#GTA6 #факты"
     }
   ],
   "published_topics": [
