@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023599,
-  "last_published_at": "2026-11-17T21:35:03Z",
+  "last_update_id": 756023600,
+  "last_published_at": "2026-11-17T23:32:12Z",
   "next_draft_number": 22,
   "drafts": [
     {
@@ -263,7 +263,7 @@
     },
     {
       "number": 20,
-      "status": "approved",
+      "status": "published",
       "topic": "physical-box-missing-codes",
       "message_id": 43,
       "media": "posts/2026-11-17-physical-box-codes.png",
@@ -273,11 +273,13 @@
       "source_alt": "https://tbreak.com/gta-6-physical-copy-codes-flashlight/ ; https://www.digitalcitizen.life/gta-6-playstation-5-download-codes-will-be-region-locked-while-xbox-codes-remain-global/",
       "note": "practical guide; time-sensitive: before Nov 19",
       "caption": "📦 <b>Коробка GTA 6 без диска — проверь код</b>\n\nВ физическом издании GTA 6 нет диска: внутри только бумажка с кодом на загрузку. Нет кода — нет игры.\n\n😡 Покупатели из GameStop, Best Buy и магазина Rockstar жалуются: кода в коробке нет или он уже активирован. Насколько это массово — неясно, Rockstar проблему официально не подтверждала\n🧾 Что делать: открыть коробку сразу и ввести код до релиза — предзагрузка уже идёт. Проблема с кодом — к продавцу: поддержка PlayStation прямо отправляет к магазину, в том числе за возвратом\n🌍 Коды для PS5 привязаны к региону PSN-аккаунта, для Xbox — работают везде\n🔦 «Трюк с фонариком», которым код якобы видно сквозь коробку, GamesRadar повторить не смог — ни на американской, ни на британской копии\n\nБрали коробку или цифру?\n\n#GTA6 #гайды",
-      "approved_update_id": 756023599
+      "approved_update_id": 756023599,
+      "channel_message_id": 25,
+      "published_at": "2026-11-17T23:32:12Z"
     },
     {
       "number": 21,
-      "status": "pending",
+      "status": "approved",
       "topic": "twitch-ad-tech-mature-gta6",
       "message_id": 45,
       "media": "posts/2026-11-17-twitch-ad-tech.png",
@@ -285,7 +287,8 @@
       "created_at": "2026-11-17T21:35:12Z",
       "source": "https://www.dexerto.com/twitch/twitch-makes-huge-ad-change-so-streamers-can-make-more-money-while-playing-gta-6-3428215",
       "note": "Clancy Bloomberg interview Nov 12; streamers topic",
-      "caption": "💸 <b>Twitch прячет рекламу от жести GTA 6</b>\n\nГлава Twitch Дэн Клэнси рассказал Bloomberg: к релизу платформа сделала технологию, которая не ставит рекламу брендов рядом с теми частями GTA 6, с которыми они не хотят ассоциироваться.\n\n📉 Зачем: рекламодатели сторонились категории GTA — стример Nmplol ещё в сентябре жаловался, что доход с рекламы на GTA-стримах копеечный по сравнению с Just Chatting\n💰 Теперь бренды должны вернуться, а стримеры — больше зарабатывать на взрослых играх\n🎭 Клэнси ждёт, что GTA-ролплей снова взорвёт Twitch в январе–марте\n❓ Когда выйдет GTA 6 Online, на Twitch, по его словам, понятия не имеют\n\nБудете смотреть релиз на Twitch или Kick?\n\n#GTA6 #стримеры"
+      "caption": "💸 <b>Twitch прячет рекламу от жести GTA 6</b>\n\nГлава Twitch Дэн Клэнси рассказал Bloomberg: к релизу платформа сделала технологию, которая не ставит рекламу брендов рядом с теми частями GTA 6, с которыми они не хотят ассоциироваться.\n\n📉 Зачем: рекламодатели сторонились категории GTA — стример Nmplol ещё в сентябре жаловался, что доход с рекламы на GTA-стримах копеечный по сравнению с Just Chatting\n💰 Теперь бренды должны вернуться, а стримеры — больше зарабатывать на взрослых играх\n🎭 Клэнси ждёт, что GTA-ролплей снова взорвёт Twitch в январе–марте\n❓ Когда выйдет GTA 6 Online, на Twitch, по его словам, понятия не имеют\n\nБудете смотреть релиз на Twitch или Kick?\n\n#GTA6 #стримеры",
+      "approved_update_id": 756023600
     }
   ],
   "published_topics": [
@@ -305,7 +308,8 @@
     "launch-day-time-off-drxbox-logitech",
     "game-awards-2026-gta6-8-nominations",
     "bofa-1-5b-launch-weekend-bar",
-    "miami-vice-city-takeover-backlash"
+    "miami-vice-city-takeover-backlash",
+    "physical-box-missing-codes"
   ],
   "owner_feedback": [
     {
