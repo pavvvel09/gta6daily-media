@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023589,
-  "last_published_at": "2026-11-17T11:33:02Z",
+  "last_update_id": 756023590,
+  "last_published_at": "2026-11-17T12:33:24Z",
   "next_draft_number": 12,
   "drafts": [
     {
@@ -106,7 +106,7 @@
     },
     {
       "number": 10,
-      "status": "approved",
+      "status": "published",
       "topic": "nba-2k27-vice-city-season3",
       "message_id": 23,
       "media": "posts/2026-11-17-nba2k27-vice-city.png",
@@ -116,11 +116,13 @@
       "source_alt": "https://www.gematsu.com/2026/11/nba-2k27-x-grand-theft-auto-vi-collaboration-announced",
       "note": "cinematic neon court card",
       "caption": "🏀 <b>NBA 2K27 превращается в Vice City</b>\n\n2K анонсировала кроссовер с GTA 6: третий сезон баскетбольного симулятора целиком посвящён Леониде.\n\n🌴 В режиме The City — пляжный парк с неоновыми отелями и статуей аллигатора\n👕 Награды: форма Burger Shot и Cluckin' Bell, джерси Los Santos, куртка Vice City\n⚔️ Ивенты вроде «Vice City против Los Santos» 5 на 5\n🎟 Подписчики GTA+ играют в NBA 2K27 бесплатно с 27 ноября по 15 января\n\nА 18 ноября, в канун релиза, «Майами Хит» выйдут на матч в форме Vice City.\n\n#GTA6 #новости",
-      "approved_update_id": 756023589
+      "approved_update_id": 756023589,
+      "channel_message_id": 16,
+      "published_at": "2026-11-17T12:33:24Z"
     },
     {
       "number": 11,
-      "status": "pending",
+      "status": "approved",
       "topic": "kurtaj-guilty-plea-nov16",
       "message_id": 25,
       "media": "posts/2026-11-17-hacker-guilty-plea.png",
@@ -129,7 +131,8 @@
       "source": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-hacker-pleads-guilty-to-all-charges/",
       "source_alt": "https://www.notebookcheck.net/GTA-6-leaker-pleads-guilty-to-Rockstar-hack-sentencing-set-for-November-23.1452228.0.html",
       "note": "cinematic hotel-TV terminal card",
-      "caption": "🔒 <b>Хакер, слививший GTA 6, признал вину</b>\n\n21-летний Арион Куртадж из группы Lapsus$ признал в лондонском суде все обвинения — включая взлом Rockstar в 2022 году.\n\n📺 Ломал через Amazon Fire Stick и телевизор в номере отеля, где жил под охраной полиции\n🎬 Слил 90 роликов — почти час геймплея из ранней сборки\n💸 Rockstar оценила ущерб в $5 млн и тысячи часов работы\n⚖️ Приговор — 23 ноября, через 4 дня после релиза\n\nИгра выйдет раньше, чем он узнает свой срок.\n\n#GTA6 #новости"
+      "caption": "🔒 <b>Хакер, слививший GTA 6, признал вину</b>\n\n21-летний Арион Куртадж из группы Lapsus$ признал в лондонском суде все обвинения — включая взлом Rockstar в 2022 году.\n\n📺 Ломал через Amazon Fire Stick и телевизор в номере отеля, где жил под охраной полиции\n🎬 Слил 90 роликов — почти час геймплея из ранней сборки\n💸 Rockstar оценила ущерб в $5 млн и тысячи часов работы\n⚖️ Приговор — 23 ноября, через 4 дня после релиза\n\nИгра выйдет раньше, чем он узнает свой срок.\n\n#GTA6 #новости",
+      "approved_update_id": 756023590
     }
   ],
   "published_topics": [
@@ -140,7 +143,8 @@
     "game-awards-nominees-nov17",
     "weather-channel-leonida-forecast",
     "sensor-tower-preorders-1-45b",
-    "discord-vice-city-theme"
+    "discord-vice-city-theme",
+    "nba-2k27-vice-city-season3"
   ],
   "owner_feedback": [
     {
