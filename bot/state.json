@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023597,
-  "last_published_at": "2026-11-17T19:34:22Z",
+  "last_update_id": 756023598,
+  "last_published_at": "2026-11-17T20:34:43Z",
   "next_draft_number": 20,
   "drafts": [
     {
@@ -232,7 +232,7 @@
     },
     {
       "number": 18,
-      "status": "approved",
+      "status": "published",
       "topic": "bofa-1-5b-launch-weekend-bar",
       "message_id": 39,
       "media": "posts/2026-11-17-bofa-1-5b-weekend.png",
@@ -241,11 +241,13 @@
       "source": "https://www.mensjournal.com/news/gta-6-wall-street-1-5-billion-launch-weekend",
       "note": "analyst bar, not sales; cinematic bar-chart card",
       "caption": "📊 <b>Уолл-стрит назвала планку для GTA 6</b>\n\nBank of America в записке для инвесторов: за первые выходные игра должна собрать $1,5 млрд. Меньше — и продажи за год не дотянут до ожиданий рынка.\n\n🏁 Для сравнения: GTA V в 2013-м заработала $1 млрд за 3 дня — тогда это был рекорд среди всех развлечений\n💬 Глава Take-Two Штраус Зельник: предзаказы идут «намного выше» прогнозов, но праздновать победу рано\n🛒 Это самый предзаказываемый релиз в истории PlayStation Store и Microsoft Store\n🎯 Take-Two ждёт $8–8,2 млрд чистых продаж за финансовый год (до 31 марта 2027)\n\nВозьмёт планку за выходные — или за один день?\n\n#GTA6 #новости",
-      "approved_update_id": 756023597
+      "approved_update_id": 756023597,
+      "channel_message_id": 23,
+      "published_at": "2026-11-17T20:34:43Z"
     },
     {
       "number": 19,
-      "status": "pending",
+      "status": "approved",
       "topic": "miami-vice-city-takeover-backlash",
       "media": "posts/2026-11-17-miami-vice-city-backlash.png",
       "media_type": "photo",
@@ -254,7 +256,8 @@
       "source_alt": "https://mixed-news.com/en/gta-6-vice-city-miami-marketing-officials-disagree/ ; Bloomberg 2026-11-17",
       "note": "cinematic neon skyline card; direction of $3.9M payment unclear in sources - worded as package",
       "caption": "🌴 <b>Майами стал Vice City — и не всем это нравится</b>\n\nОкруг Майами-Дейд заключил с Rockstar рекламный пакет на $3,9 млн: город к релизу GTA 6 превращается в Vice City.\n\n🏟 На крыше арены «Майами Хит» горит вывеска «Welcome to Vice City»\n✈️ Дальше — подсветка аэропорта и морского порта, оформление переходов и даже уличных щитков светофоров\n🎉 Клуб E11EVEN переименовали в NINE1NINE — его аналог из игры — перед вечеринкой 20 ноября\n👮 Шериф округа против: тратить общественные ресурсы на игру с насилием над полицией — плохая идея\n🗣 Комиссар Майами-Бич Дэвид Суарес: связывать бренд города с GTA он «не может с чистой совестью». Его коллега возражает: акция идёт 6 недель и одобрением игры не является\n\nГород правильно делает, что подыгрывает?\n\n#GTA6 #новости",
-      "message_id": 41
+      "message_id": 41,
+      "approved_update_id": 756023598
     }
   ],
   "published_topics": [
@@ -272,7 +275,8 @@
     "kai-cenat-ishowspeed-launch-marathons",
     "metacritic-user-score-6-5-vanished",
     "launch-day-time-off-drxbox-logitech",
-    "game-awards-2026-gta6-8-nominations"
+    "game-awards-2026-gta6-8-nominations",
+    "bofa-1-5b-launch-weekend-bar"
   ],
   "owner_feedback": [
     {
