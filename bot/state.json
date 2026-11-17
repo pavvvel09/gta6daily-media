@@ -1,7 +1,7 @@
 {
-  "last_update_id": 756023595,
-  "last_published_at": "2026-11-17T17:33:23Z",
-  "next_draft_number": 18,
+  "last_update_id": 756023596,
+  "last_published_at": "2026-11-17T18:34:06Z",
+  "next_draft_number": 19,
   "drafts": [
     {
       "number": 3,
@@ -200,7 +200,7 @@
     },
     {
       "number": 16,
-      "status": "approved",
+      "status": "published",
       "topic": "launch-day-time-off-drxbox-logitech",
       "message_id": 35,
       "media": "posts/2026-11-17-launch-day-off.png",
@@ -210,11 +210,13 @@
       "source_alt": "https://news.kununu.com/gta-vi-38-prozent-mehr-urlaubsantraege-in-deutschland-zum-release/ ; https://www.gtaboom.com/logitech-is-giving-all-7000-employees-a-paid-day-off-to-play-games-on-november-19-9dae",
       "note": "time-sensitive: before Nov 19; cinematic doctor's-note card. Next run: Game Awards nominees (stream 17:00Z Nov 17) is a strong follow-up topic",
       "caption": "🤒 <b>Мир берёт отгул ради GTA 6</b>\n\nВ четверг, 19 ноября, многие офисы опустеют — это уже видно по цифрам.\n\n🩺 Xbox и DJ Khaled запустили сайт DrXbox: вводишь имя — получаешь шуточную «справку» с диагнозом «дефицит витамина G». Начальник её, конечно, не примет\n🖱 Logitech дала всем ~7000 сотрудникам, включая стажёров, оплачиваемый «игровой день» — играть можно во что угодно\n🇩🇪 В Германии заявок на отпуск на 19 ноября на 38% больше обычного (данные HR-сервиса Personio)\n🌍 Сервис Remote насчитал +32% по миру, а в Италии — почти вдвое больше\n\nА вы уже отпросились на четверг?\n\n#GTA6 #новости",
-      "approved_update_id": 756023595
+      "approved_update_id": 756023595,
+      "channel_message_id": 21,
+      "published_at": "2026-11-17T18:34:06Z"
     },
     {
       "number": 17,
-      "status": "pending",
+      "status": "approved",
       "topic": "game-awards-2026-gta6-8-nominations",
       "message_id": 37,
       "media": "posts/2026-11-17-game-awards-8-noms.png",
@@ -222,8 +224,21 @@
       "created_at": "2026-11-17T17:35:01Z",
       "source": "https://www.videogameschronicle.com/news/gta-6-is-the-most-nominated-game-at-the-game-awards-2026/",
       "source_alt": "https://noisypixel.net/the-game-awards-2026-nominees-full-list/",
-      "note": "follow-up to #6; caption says 'час назад' — adjust if published much later",
-      "caption": "🏆 <b>GTA 6 — лидер The Game Awards. До релиза</b>\n\nНоминантов объявили час назад: у GTA 6 — 8 номинаций, больше всех. При этом игра выходит только 19 ноября, а обзоров ещё нет.\n\n⭐ Игра года — против 007 First Light, Control Resonant, Phantom Blade Zero, Resident Evil Requiem и ремейка Zelda: Ocarina of Time\n🎬 Ещё: режиссура, сценарий, арт, музыка, звук, лучший экшен/приключение\n🎭 Manni L. Perez (Люсия) — в «Лучшей актёрской игре»\n🗳 Победителей решает жюри (90%) и зрители (10%), голосование — до 9 декабря\n📅 Церемония — 10 декабря в Лос-Анджелесе\n\nЗаслуженно или авансом?\n\n#GTA6 #новости"
+      "note": "follow-up to #6; 'час назад' replaced with 'вечером 17 ноября' since publish is delayed",
+      "caption": "🏆 <b>GTA 6 — лидер The Game Awards. До релиза</b>\n\nНоминантов объявили вечером 17 ноября: у GTA 6 — 8 номинаций, больше всех. При этом игра выходит только 19 ноября, а обзоров ещё нет.\n\n⭐ Игра года — против 007 First Light, Control Resonant, Phantom Blade Zero, Resident Evil Requiem и ремейка Zelda: Ocarina of Time\n🎬 Ещё: режиссура, сценарий, арт, музыка, звук, лучший экшен/приключение\n🎭 Manni L. Perez (Люсия) — в «Лучшей актёрской игре»\n🗳 Победителей решает жюри (90%) и зрители (10%), голосование — до 9 декабря\n📅 Церемония — 10 декабря в Лос-Анджелесе\n\nЗаслуженно или авансом?\n\n#GTA6 #новости",
+      "approved_update_id": 756023596
+    },
+    {
+      "number": 18,
+      "status": "pending",
+      "topic": "bofa-1-5b-launch-weekend-bar",
+      "message_id": 39,
+      "media": "posts/2026-11-17-bofa-1-5b-weekend.png",
+      "media_type": "photo",
+      "created_at": "2026-11-17T18:34:24Z",
+      "source": "https://www.mensjournal.com/news/gta-6-wall-street-1-5-billion-launch-weekend",
+      "note": "analyst bar, not sales; cinematic bar-chart card",
+      "caption": "📊 <b>Уолл-стрит назвала планку для GTA 6</b>\n\nBank of America в записке для инвесторов: за первые выходные игра должна собрать $1,5 млрд. Меньше — и продажи за год не дотянут до ожиданий рынка.\n\n🏁 Для сравнения: GTA V в 2013-м заработала $1 млрд за 3 дня — тогда это был рекорд среди всех развлечений\n💬 Глава Take-Two Штраус Зельник: предзаказы идут «намного выше» прогнозов, но праздновать победу рано\n🛒 Это самый предзаказываемый релиз в истории PlayStation Store и Microsoft Store\n🎯 Take-Two ждёт $8–8,2 млрд чистых продаж за финансовый год (до 31 марта 2027)\n\nВозьмёт планку за выходные — или за один день?\n\n#GTA6 #новости"
     }
   ],
   "published_topics": [
@@ -239,7 +254,8 @@
     "kurtaj-guilty-plea-nov16",
     "ps5-firmware-14-23-before-launch",
     "kai-cenat-ishowspeed-launch-marathons",
-    "metacritic-user-score-6-5-vanished"
+    "metacritic-user-score-6-5-vanished",
+    "launch-day-time-off-drxbox-logitech"
   ],
   "owner_feedback": [
     {
