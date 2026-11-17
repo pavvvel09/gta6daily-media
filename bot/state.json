@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023588,
-  "last_published_at": "2026-11-17T10:32:38Z",
+  "last_update_id": 756023589,
+  "last_published_at": "2026-11-17T11:33:02Z",
   "next_draft_number": 11,
   "drafts": [
     {
@@ -91,7 +91,7 @@
     },
     {
       "number": 9,
-      "status": "approved",
+      "status": "published",
       "topic": "discord-vice-city-theme",
       "message_id": 21,
       "media": "posts/2026-11-17-discord-vice-city-theme.png",
@@ -100,11 +100,13 @@
       "source": "https://www.dexerto.com/gta/discord-teams-up-with-rockstar-for-vice-city-theme-to-celebrate-gta-6-launch-3428758/",
       "note": "time-sensitive: Orbs quest ends Nov 18",
       "caption": "🌴 <b>Discord перекрасился в Vice City</b>\n\nDiscord и Rockstar запустили коллаборацию к релизу GTA 6 — розово-жёлтая тема, иконка приложения и особый стиль ника.\n\n🆓 Бесплатно для всех до 13 декабря, с Nitro — до 20 февраля\n📲 До 22 ноября включается через Quest Home, потом — Настройки → Внешний вид\n🎁 Квест с предзагрузкой GTA 6 даёт Orbs, если успеть до 18 ноября\n💻 Работает на ПК и телефоне\n\nУже перекрасили свой Discord?\n\n#GTA6 #новости",
-      "approved_update_id": 756023588
+      "approved_update_id": 756023588,
+      "channel_message_id": 15,
+      "published_at": "2026-11-17T11:33:02Z"
     },
     {
       "number": 10,
-      "status": "pending",
+      "status": "approved",
       "topic": "nba-2k27-vice-city-season3",
       "message_id": 23,
       "media": "posts/2026-11-17-nba2k27-vice-city.png",
@@ -113,7 +115,8 @@
       "source": "https://www.videogameschronicle.com/news/nba-2k27-is-getting-a-vice-city-edition-as-well-as-numerous-gta-6-themed-items-in-season-3/",
       "source_alt": "https://www.gematsu.com/2026/11/nba-2k27-x-grand-theft-auto-vi-collaboration-announced",
       "note": "cinematic neon court card",
-      "caption": "🏀 <b>NBA 2K27 превращается в Vice City</b>\n\n2K анонсировала кроссовер с GTA 6: третий сезон баскетбольного симулятора целиком посвящён Леониде.\n\n🌴 В режиме The City — пляжный парк с неоновыми отелями и статуей аллигатора\n👕 Награды: форма Burger Shot и Cluckin' Bell, джерси Los Santos, куртка Vice City\n⚔️ Ивенты вроде «Vice City против Los Santos» 5 на 5\n🎟 Подписчики GTA+ играют в NBA 2K27 бесплатно с 27 ноября по 15 января\n\nА 18 ноября, в канун релиза, «Майами Хит» выйдут на матч в форме Vice City.\n\n#GTA6 #новости"
+      "caption": "🏀 <b>NBA 2K27 превращается в Vice City</b>\n\n2K анонсировала кроссовер с GTA 6: третий сезон баскетбольного симулятора целиком посвящён Леониде.\n\n🌴 В режиме The City — пляжный парк с неоновыми отелями и статуей аллигатора\n👕 Награды: форма Burger Shot и Cluckin' Bell, джерси Los Santos, куртка Vice City\n⚔️ Ивенты вроде «Vice City против Los Santos» 5 на 5\n🎟 Подписчики GTA+ играют в NBA 2K27 бесплатно с 27 ноября по 15 января\n\nА 18 ноября, в канун релиза, «Майами Хит» выйдут на матч в форме Vice City.\n\n#GTA6 #новости",
+      "approved_update_id": 756023589
     }
   ],
   "published_topics": [
@@ -123,7 +126,8 @@
     "how-to-buy-in-russia-pinned",
     "game-awards-nominees-nov17",
     "weather-channel-leonida-forecast",
-    "sensor-tower-preorders-1-45b"
+    "sensor-tower-preorders-1-45b",
+    "discord-vice-city-theme"
   ],
   "owner_feedback": [
     {
