@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023594,
   "last_published_at": "2026-11-17T16:32:59Z",
-  "next_draft_number": 16,
+  "next_draft_number": 17,
   "drafts": [
     {
       "number": 3,
@@ -195,6 +195,19 @@
       "note": "time-sensitive: before reviews Nov 18; source says 'on Nov 16' (not explicitly evening) — fix wording if republishing",
       "caption": "📉 <b>GTA 6 получила 6,5 на Metacritic — и та пропала</b>\n\nВечером 16 ноября на странице игры появилась пользовательская оценка 6,5/10. К 17-му её уже не было.\n\n👤 Всего 5 оценок, ни одного отзыва — игру ещё никто не мог пройти\n❓ Почему оценка появилась и исчезла, Metacritic не объяснил\n📰 Настоящие обзоры прессы ждут завтра, 18 ноября (по данным NateTheHate и Insider Gaming; Rockstar дату не подтверждала)\n🏆 Для сравнения: у GTA V и RDR2 — по 97 у критиков, у GTA IV — 98\n\nСколько поставят критики — больше 95?\n\n#GTA6 #новости",
       "approved_update_id": 756023594
+    },
+    {
+      "number": 16,
+      "status": "pending",
+      "topic": "launch-day-time-off-drxbox-logitech",
+      "message_id": 35,
+      "media": "posts/2026-11-17-launch-day-off.png",
+      "media_type": "photo",
+      "created_at": "2026-11-17T16:35:30Z",
+      "source": "https://www.purexbox.com/news/2026/11/xbox-creates-new-website-that-generates-you-a-doctors-note-for-gta-6",
+      "source_alt": "https://news.kununu.com/gta-vi-38-prozent-mehr-urlaubsantraege-in-deutschland-zum-release/ ; https://www.gtaboom.com/logitech-is-giving-all-7000-employees-a-paid-day-off-to-play-games-on-november-19-9dae",
+      "note": "time-sensitive: before Nov 19; cinematic doctor's-note card. Next run: Game Awards nominees (stream 17:00Z Nov 17) is a strong follow-up topic",
+      "caption": "🤒 <b>Мир берёт отгул ради GTA 6</b>\n\nВ четверг, 19 ноября, многие офисы опустеют — это уже видно по цифрам.\n\n🩺 Xbox и DJ Khaled запустили сайт DrXbox: вводишь имя — получаешь шуточную «справку» с диагнозом «дефицит витамина G». Начальник её, конечно, не примет\n🖱 Logitech дала всем ~7000 сотрудникам, включая стажёров, оплачиваемый «игровой день» — играть можно во что угодно\n🇩🇪 В Германии заявок на отпуск на 19 ноября на 38% больше обычного (данные HR-сервиса Personio)\n🌍 Сервис Remote насчитал +32% по миру, а в Италии — почти вдвое больше\n\nА вы уже отпросились на четверг?\n\n#GTA6 #новости"
     }
   ],
   "published_topics": [
