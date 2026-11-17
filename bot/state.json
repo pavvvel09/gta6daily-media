@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023584,
   "last_published_at": "2026-11-16T23:32:16Z",
-  "next_draft_number": 6,
+  "next_draft_number": 7,
   "drafts": [
     {
       "number": 3,
@@ -42,6 +42,18 @@
       "caption": "💰 <b>Какие ограбления ждут в GTA 6</b>\n\nДо релиза пара дней — собрали, что уже известно о налётах:\n\n🏪 Магазинчики — ещё в первом трейлере Джейсон и Люсия грабят круглосуточный магазин. Касса там скромная.\n🏦 Банки — в галерее Rockstar к запуску есть кадр с налётом и заложниками.\n💎 Ювелирки, фургоны с ценностями и бандитские базы — по превью прессы, это цели покрупнее. Добычу сбывают скупщикам.\n\nСколько крупных сюжетных ограблений и сколько они приносят — Rockstar не раскрывает.\n\n#GTA6 #факты",
       "rejected_update_id": 756023582,
       "owner_comment": "нет, слишком скучно; карточки выглядят слишком мультяшно и неинтересно"
+    },
+    {
+      "number": 6,
+      "status": "pending",
+      "topic": "game-awards-nominees-nov17",
+      "message_id": 15,
+      "media": "posts/2026-11-17-game-awards-nominees.png",
+      "media_type": "photo",
+      "created_at": "2026-11-17T06:33:17Z",
+      "source": "https://en.softonic.com/articles/the-game-awards-2026-nominees-arrive-november-17-gta-6-could-still-make-the-ballot",
+      "note": "time-sensitive: publish before 16:00Z Nov 17; new less-cartoony cinematic card style",
+      "caption": "🏆 <b>GTA 6 — игра года? Ответ сегодня вечером</b>\n\nThe Game Awards сегодня объявят номинантов 2026 года.\n\n🕕 Стрим: 18:00 по Варшаве / 20:00 МСК\n✅ GTA 6 проходит по правилам: в зачёт идут игры, вышедшие до 20 ноября, а релиз — 19-го\n🤔 Но жюри голосует почти вслепую — игру толком никто не видел\n🎤 Сама церемония — 10 декабря в Лос-Анджелесе\n\nДадут номинацию на «Игру года» без единого обзора?\n\n#GTA6 #новости"
     }
   ],
   "published_topics": [
