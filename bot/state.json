@@ -47,7 +47,8 @@
   "published_topics": [
     "release-time-by-region",
     "xbox-one-cloud-gaming",
-    "review-embargo-nov18"
+    "review-embargo-nov18",
+    "how-to-buy-in-russia-pinned"
   ],
   "owner_feedback": [
     {
@@ -55,5 +56,11 @@
       "update_id": 756023582,
       "text": "Карточки выглядят слишком мультяшно и неинтересно — изменить стиль. Темы-подборки без новостей скучны."
     }
-  ]
+  ],
+  "pinned": {
+    "channel_message_id": 9,
+    "topic": "how-to-buy-in-russia",
+    "published_at": "2026-11-17T00:48:51Z",
+    "note": "published on owner's direct request in chat; owner adds partner links himself"
+  }
 }
