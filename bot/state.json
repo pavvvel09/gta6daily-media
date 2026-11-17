@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023598,
   "last_published_at": "2026-11-17T20:34:43Z",
-  "next_draft_number": 20,
+  "next_draft_number": 21,
   "drafts": [
     {
       "number": 3,
@@ -258,6 +258,19 @@
       "caption": "🌴 <b>Майами стал Vice City — и не всем это нравится</b>\n\nОкруг Майами-Дейд заключил с Rockstar рекламный пакет на $3,9 млн: город к релизу GTA 6 превращается в Vice City.\n\n🏟 На крыше арены «Майами Хит» горит вывеска «Welcome to Vice City»\n✈️ Дальше — подсветка аэропорта и морского порта, оформление переходов и даже уличных щитков светофоров\n🎉 Клуб E11EVEN переименовали в NINE1NINE — его аналог из игры — перед вечеринкой 20 ноября\n👮 Шериф округа против: тратить общественные ресурсы на игру с насилием над полицией — плохая идея\n🗣 Комиссар Майами-Бич Дэвид Суарес: связывать бренд города с GTA он «не может с чистой совестью». Его коллега возражает: акция идёт 6 недель и одобрением игры не является\n\nГород правильно делает, что подыгрывает?\n\n#GTA6 #новости",
       "message_id": 41,
       "approved_update_id": 756023598
+    },
+    {
+      "number": 20,
+      "status": "pending",
+      "topic": "physical-box-missing-codes",
+      "message_id": 43,
+      "media": "posts/2026-11-17-physical-box-codes.png",
+      "media_type": "photo",
+      "created_at": "2026-11-17T20:35:34Z",
+      "source": "https://www.dexerto.com/gaming/gta-6-players-furious-as-physical-copies-reportedly-arrive-with-missing-or-already-used-codes-3428334/",
+      "source_alt": "https://tbreak.com/gta-6-physical-copy-codes-flashlight/ ; https://www.digitalcitizen.life/gta-6-playstation-5-download-codes-will-be-region-locked-while-xbox-codes-remain-global/",
+      "note": "practical guide; time-sensitive: before Nov 19",
+      "caption": "📦 <b>Коробка GTA 6 без диска — проверь код</b>\n\nВ физическом издании GTA 6 нет диска: внутри только бумажка с кодом на загрузку. Нет кода — нет игры.\n\n😡 Покупатели из GameStop, Best Buy и магазина Rockstar жалуются: кода в коробке нет или он уже активирован. Насколько это массово — неясно, Rockstar проблему официально не подтверждала\n🧾 Что делать: открыть коробку сразу и ввести код до релиза — предзагрузка уже идёт. Проблема с кодом — к продавцу: поддержка PlayStation прямо отправляет к магазину, в том числе за возвратом\n🌍 Коды для PS5 привязаны к региону PSN-аккаунта, для Xbox — работают везде\n🔦 «Трюк с фонариком», которым код якобы видно сквозь коробку, GamesRadar повторить не смог — ни на американской, ни на британской копии\n\nБрали коробку или цифру?\n\n#GTA6 #гайды"
     }
   ],
   "published_topics": [
