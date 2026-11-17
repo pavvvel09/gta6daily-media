@@ -1,7 +1,7 @@
 {
-  "last_update_id": 756023590,
-  "last_published_at": "2026-11-17T12:33:24Z",
-  "next_draft_number": 13,
+  "last_update_id": 756023591,
+  "last_published_at": "2026-11-17T13:39:19Z",
+  "next_draft_number": 14,
   "drafts": [
     {
       "number": 3,
@@ -122,7 +122,7 @@
     },
     {
       "number": 11,
-      "status": "approved",
+      "status": "published",
       "topic": "kurtaj-guilty-plea-nov16",
       "message_id": 25,
       "media": "posts/2026-11-17-hacker-guilty-plea.png",
@@ -132,11 +132,13 @@
       "source_alt": "https://www.notebookcheck.net/GTA-6-leaker-pleads-guilty-to-Rockstar-hack-sentencing-set-for-November-23.1452228.0.html",
       "note": "cinematic hotel-TV terminal card",
       "caption": "🔒 <b>Хакер, слививший GTA 6, признал вину</b>\n\n21-летний Арион Куртадж из группы Lapsus$ признал в лондонском суде все обвинения — включая взлом Rockstar в 2022 году.\n\n📺 Ломал через Amazon Fire Stick и телевизор в номере отеля, где жил под охраной полиции\n🎬 Слил 90 роликов — почти час геймплея из ранней сборки\n💸 Rockstar оценила ущерб в $5 млн и тысячи часов работы\n⚖️ Приговор — 23 ноября, через 4 дня после релиза\n\nИгра выйдет раньше, чем он узнает свой срок.\n\n#GTA6 #новости",
-      "approved_update_id": 756023590
+      "approved_update_id": 756023590,
+      "channel_message_id": 17,
+      "published_at": "2026-11-17T13:39:19Z"
     },
     {
       "number": 12,
-      "status": "pending",
+      "status": "rejected",
       "topic": "nz-trick-psn-bans",
       "message_id": 27,
       "media": "posts/2026-11-17-nz-trick-psn-bans.png",
@@ -145,7 +147,22 @@
       "source": "https://vgtimes.com/gaming-news/174859-gta-vi-early-access-trick-may-put-playstation-accounts-at-risk.html",
       "source_alt": "https://www.vice.com/en/article/gta-6-new-zealand-trick/",
       "note": "rumor (SourceVI); time-sensitive: before NZ unlock 11:00Z Nov 18",
-      "caption": "🔎 <b>Слух: за «трюк с Новой Зеландией» банят PSN</b>\n\nGTA 6 открывается по полуночи каждого региона, и первой — Новая Зеландия. Чтобы играть раньше, многие покупают игру на новозеландском аккаунте PSN. По данным SourceVI, часть таких игроков уже получила блокировку с кодом WS-116331-5.\n\n🕛 Новая Зеландия откроется 18 ноября в 12:00 по Варшаве / 14:00 МСК\n🚫 Вместе с аккаунтом пропадает доступ ко всем покупкам, включая предзаказ\n💳 Возможная причина — оплата через посредников или чужие карты; связь именно с регионом не доказана\n❗ Sony и Rockstar ничего не комментировали, массовых банов пока не видно\n\nРискнёте ради 13 часов форы?\n\n#GTA6 #новости"
+      "caption": "🔎 <b>Слух: за «трюк с Новой Зеландией» банят PSN</b>\n\nGTA 6 открывается по полуночи каждого региона, и первой — Новая Зеландия. Чтобы играть раньше, многие покупают игру на новозеландском аккаунте PSN. По данным SourceVI, часть таких игроков уже получила блокировку с кодом WS-116331-5.\n\n🕛 Новая Зеландия откроется 18 ноября в 12:00 по Варшаве / 14:00 МСК\n🚫 Вместе с аккаунтом пропадает доступ ко всем покупкам, включая предзаказ\n💳 Возможная причина — оплата через посредников или чужие карты; связь именно с регионом не доказана\n❗ Sony и Rockstar ничего не комментировали, массовых банов пока не видно\n\nРискнёте ради 13 часов форы?\n\n#GTA6 #новости",
+      "rejected_update_id": 756023591,
+      "owner_comment": "нет"
+    },
+    {
+      "number": 13,
+      "status": "pending",
+      "topic": "ps5-firmware-14-23-before-launch",
+      "message_id": 29,
+      "media": "posts/2026-11-17-ps5-firmware-14-23.png",
+      "media_type": "photo",
+      "created_at": "2026-11-17T13:39:28Z",
+      "source": "https://beebom.com/second-ps5-firmware-update-drops-before-gta-6/",
+      "source_alt": "https://beebom.com/gta-6-gets-new-ps5-update-before-launch/amp/",
+      "note": "practical pre-launch checklist; time-sensitive: before Nov 19",
+      "caption": "🛠 <b>PS5 обновилась за 2 дня до GTA 6</b>\n\nSony сегодня выпустила прошивку 26.07-14.23.00 (~1,3 ГБ). В списке изменений одна строка — исправления безопасности. Это уже второй такой патч за две недели.\n\n✅ Поставьте её заранее, чтобы в ночь релиза не ждать загрузку\n📦 Сама игра тоже обновилась: патч 1.002 (~1 ГБ) раздают волнами — проверьте, пришёл ли он вам\n💾 Предзагрузка весит до ~212 ГБ — проверьте место на SSD\n❗ Sony не говорила, что прошивка обязательна для запуска GTA 6\n\nУ вас всё уже скачано?\n\n#GTA6 #новости #гайды"
     }
   ],
   "published_topics": [
@@ -157,7 +174,8 @@
     "weather-channel-leonida-forecast",
     "sensor-tower-preorders-1-45b",
     "discord-vice-city-theme",
-    "nba-2k27-vice-city-season3"
+    "nba-2k27-vice-city-season3",
+    "kurtaj-guilty-plea-nov16"
   ],
   "owner_feedback": [
     {
