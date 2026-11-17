@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023587,
   "last_published_at": "2026-11-17T09:32:21Z",
-  "next_draft_number": 9,
+  "next_draft_number": 10,
   "drafts": [
     {
       "number": 3,
@@ -86,6 +86,18 @@
       "note": "cinematic chart card; data as of Nov 16",
       "caption": "💸 <b>GTA 6 заработала $1,45 млрд до релиза</b>\n\nАналитики Sensor Tower оценили цифровые предзаказы на 16 ноября: почти 15 млн копий.\n\n🎮 PS5 — ~11,1 млн копий (74%)\n🟢 Xbox — ~3,8 млн (26%)\n📈 Только за 3 дня до 16.11 — ещё +2,8 млн\n🎯 К релизу ждут до 25 млн предзаказов\n\n❗ Это оценка без учёта дисков — Take-Two цифры не подтверждала.\n\nВы уже в этих 15 миллионах?\n\n#GTA6 #новости",
       "approved_update_id": 756023587
+    },
+    {
+      "number": 9,
+      "status": "pending",
+      "topic": "discord-vice-city-theme",
+      "message_id": 21,
+      "media": "posts/2026-11-17-discord-vice-city-theme.png",
+      "media_type": "photo",
+      "created_at": "2026-11-17T09:34:09Z",
+      "source": "https://www.dexerto.com/gta/discord-teams-up-with-rockstar-for-vice-city-theme-to-celebrate-gta-6-launch-3428758/",
+      "note": "time-sensitive: Orbs quest ends Nov 18",
+      "caption": "🌴 <b>Discord перекрасился в Vice City</b>\n\nDiscord и Rockstar запустили коллаборацию к релизу GTA 6 — розово-жёлтая тема, иконка приложения и особый стиль ника.\n\n🆓 Бесплатно для всех до 13 декабря, с Nitro — до 20 февраля\n📲 До 22 ноября включается через Quest Home, потом — Настройки → Внешний вид\n🎁 Квест с предзагрузкой GTA 6 даёт Orbs, если успеть до 18 ноября\n💻 Работает на ПК и телефоне\n\nУже перекрасили свой Discord?\n\n#GTA6 #новости"
     }
   ],
   "published_topics": [
