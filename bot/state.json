@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023585,
-  "last_published_at": "2026-11-17T07:32:09Z",
+  "last_update_id": 756023587,
+  "last_published_at": "2026-11-17T09:32:21Z",
   "next_draft_number": 9,
   "drafts": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "number": 7,
-      "status": "pending",
+      "status": "published",
       "topic": "weather-channel-leonida-forecast",
       "message_id": 17,
       "media": "posts/2026-11-17-leonida-weather.png",
@@ -68,11 +68,14 @@
       "created_at": "2026-11-17T07:34:04Z",
       "source": "https://www.gtaboom.com/rockstar-just-got-the-weather-channel-to-forecast-gta-6-weather-4cbf",
       "note": "cinematic storm card (less cartoony)",
-      "caption": "⛈ <b>The Weather Channel дал прогноз для Леониды</b>\n\nRockstar объединилась с главным погодным каналом США: тот выложил «прогноз» по шести точкам карты GTA 6 и новые официальные скриншоты.\n\n🌧 Ливни в Кис, грозы над болотами Pelican Valley, морской туман у отелей South Ocean Beach\n🌀 Подтверждены тропические штормы и ураганы\n📍 Погода локальная: в одном районе гроза, в соседнем — солнце\n💨 Ветер треплет волосы, мусор и пальмы, лужи не высыхают сразу, а после дождя бывает радуга\n\nКто первым делом поедет ловить ураган?\n\n#GTA6 #новости #факты"
+      "caption": "⛈ <b>The Weather Channel дал прогноз для Леониды</b>\n\nRockstar объединилась с главным погодным каналом США: тот выложил «прогноз» по шести точкам карты GTA 6 и новые официальные скриншоты.\n\n🌧 Ливни в Кис, грозы над болотами Pelican Valley, морской туман у отелей South Ocean Beach\n🌀 Подтверждены тропические штормы и ураганы\n📍 Погода локальная: в одном районе гроза, в соседнем — солнце\n💨 Ветер треплет волосы, мусор и пальмы, лужи не высыхают сразу, а после дождя бывает радуга\n\nКто первым делом поедет ловить ураган?\n\n#GTA6 #новости #факты",
+      "approved_update_id": 756023586,
+      "channel_message_id": 13,
+      "published_at": "2026-11-17T09:32:21Z"
     },
     {
       "number": 8,
-      "status": "pending",
+      "status": "approved",
       "topic": "sensor-tower-preorders-1-45b",
       "message_id": 18,
       "media": "posts/2026-11-17-preorders-1-45b.png",
@@ -81,7 +84,8 @@
       "source": "https://libertycity.net/news/gta-6/10436-analysts-gta-6-has-nearly-15-million.html",
       "source_alt": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
       "note": "cinematic chart card; data as of Nov 16",
-      "caption": "💸 <b>GTA 6 заработала $1,45 млрд до релиза</b>\n\nАналитики Sensor Tower оценили цифровые предзаказы на 16 ноября: почти 15 млн копий.\n\n🎮 PS5 — ~11,1 млн копий (74%)\n🟢 Xbox — ~3,8 млн (26%)\n📈 Только за 3 дня до 16.11 — ещё +2,8 млн\n🎯 К релизу ждут до 25 млн предзаказов\n\n❗ Это оценка без учёта дисков — Take-Two цифры не подтверждала.\n\nВы уже в этих 15 миллионах?\n\n#GTA6 #новости"
+      "caption": "💸 <b>GTA 6 заработала $1,45 млрд до релиза</b>\n\nАналитики Sensor Tower оценили цифровые предзаказы на 16 ноября: почти 15 млн копий.\n\n🎮 PS5 — ~11,1 млн копий (74%)\n🟢 Xbox — ~3,8 млн (26%)\n📈 Только за 3 дня до 16.11 — ещё +2,8 млн\n🎯 К релизу ждут до 25 млн предзаказов\n\n❗ Это оценка без учёта дисков — Take-Two цифры не подтверждала.\n\nВы уже в этих 15 миллионах?\n\n#GTA6 #новости",
+      "approved_update_id": 756023587
     }
   ],
   "published_topics": [
@@ -89,7 +93,8 @@
     "xbox-one-cloud-gaming",
     "review-embargo-nov18",
     "how-to-buy-in-russia-pinned",
-    "game-awards-nominees-nov17"
+    "game-awards-nominees-nov17",
+    "weather-channel-leonida-forecast"
   ],
   "owner_feedback": [
     {
