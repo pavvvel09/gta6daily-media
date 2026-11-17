@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023584,
-  "last_published_at": "2026-11-16T23:32:16Z",
+  "last_update_id": 756023585,
+  "last_published_at": "2026-11-17T07:32:09Z",
   "next_draft_number": 7,
   "drafts": [
     {
@@ -45,7 +45,7 @@
     },
     {
       "number": 6,
-      "status": "pending",
+      "status": "published",
       "topic": "game-awards-nominees-nov17",
       "message_id": 15,
       "media": "posts/2026-11-17-game-awards-nominees.png",
@@ -53,14 +53,18 @@
       "created_at": "2026-11-17T06:33:17Z",
       "source": "https://en.softonic.com/articles/the-game-awards-2026-nominees-arrive-november-17-gta-6-could-still-make-the-ballot",
       "note": "time-sensitive: publish before 16:00Z Nov 17; new less-cartoony cinematic card style",
-      "caption": "🏆 <b>GTA 6 — игра года? Ответ сегодня вечером</b>\n\nThe Game Awards сегодня объявят номинантов 2026 года.\n\n🕕 Стрим: 18:00 по Варшаве / 20:00 МСК\n✅ GTA 6 проходит по правилам: в зачёт идут игры, вышедшие до 20 ноября, а релиз — 19-го\n🤔 Но жюри голосует почти вслепую — игру толком никто не видел\n🎤 Сама церемония — 10 декабря в Лос-Анджелесе\n\nДадут номинацию на «Игру года» без единого обзора?\n\n#GTA6 #новости"
+      "caption": "🏆 <b>GTA 6 — игра года? Ответ сегодня вечером</b>\n\nThe Game Awards сегодня объявят номинантов 2026 года.\n\n🕕 Стрим: 18:00 по Варшаве / 20:00 МСК\n✅ GTA 6 проходит по правилам: в зачёт идут игры, вышедшие до 20 ноября, а релиз — 19-го\n🤔 Но жюри голосует почти вслепую — игру толком никто не видел\n🎤 Сама церемония — 10 декабря в Лос-Анджелесе\n\nДадут номинацию на «Игру года» без единого обзора?\n\n#GTA6 #новости",
+      "approved_update_id": 756023585,
+      "channel_message_id": 12,
+      "published_at": "2026-11-17T07:32:09Z"
     }
   ],
   "published_topics": [
     "release-time-by-region",
     "xbox-one-cloud-gaming",
     "review-embargo-nov18",
-    "how-to-buy-in-russia-pinned"
+    "how-to-buy-in-russia-pinned",
+    "game-awards-nominees-nov17"
   ],
   "owner_feedback": [
     {
