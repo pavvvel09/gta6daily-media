@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023585,
   "last_published_at": "2026-11-17T07:32:09Z",
-  "next_draft_number": 7,
+  "next_draft_number": 8,
   "drafts": [
     {
       "number": 3,
@@ -57,6 +57,18 @@
       "approved_update_id": 756023585,
       "channel_message_id": 12,
       "published_at": "2026-11-17T07:32:09Z"
+    },
+    {
+      "number": 7,
+      "status": "pending",
+      "topic": "weather-channel-leonida-forecast",
+      "message_id": 17,
+      "media": "posts/2026-11-17-leonida-weather.png",
+      "media_type": "photo",
+      "created_at": "2026-11-17T07:34:04Z",
+      "source": "https://www.gtaboom.com/rockstar-just-got-the-weather-channel-to-forecast-gta-6-weather-4cbf",
+      "note": "cinematic storm card (less cartoony)",
+      "caption": "⛈ <b>The Weather Channel дал прогноз для Леониды</b>\n\nRockstar объединилась с главным погодным каналом США: тот выложил «прогноз» по шести точкам карты GTA 6 и новые официальные скриншоты.\n\n🌧 Ливни в Кис, грозы над болотами Pelican Valley, морской туман у отелей South Ocean Beach\n🌀 Подтверждены тропические штормы и ураганы\n📍 Погода локальная: в одном районе гроза, в соседнем — солнце\n💨 Ветер треплет волосы, мусор и пальмы, лужи не высыхают сразу, а после дождя бывает радуга\n\nКто первым делом поедет ловить ураган?\n\n#GTA6 #новости #факты"
     }
   ],
   "published_topics": [
