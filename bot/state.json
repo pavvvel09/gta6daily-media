@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023595,
   "last_published_at": "2026-11-17T17:33:23Z",
-  "next_draft_number": 17,
+  "next_draft_number": 18,
   "drafts": [
     {
       "number": 3,
@@ -211,6 +211,19 @@
       "note": "time-sensitive: before Nov 19; cinematic doctor's-note card. Next run: Game Awards nominees (stream 17:00Z Nov 17) is a strong follow-up topic",
       "caption": "🤒 <b>Мир берёт отгул ради GTA 6</b>\n\nВ четверг, 19 ноября, многие офисы опустеют — это уже видно по цифрам.\n\n🩺 Xbox и DJ Khaled запустили сайт DrXbox: вводишь имя — получаешь шуточную «справку» с диагнозом «дефицит витамина G». Начальник её, конечно, не примет\n🖱 Logitech дала всем ~7000 сотрудникам, включая стажёров, оплачиваемый «игровой день» — играть можно во что угодно\n🇩🇪 В Германии заявок на отпуск на 19 ноября на 38% больше обычного (данные HR-сервиса Personio)\n🌍 Сервис Remote насчитал +32% по миру, а в Италии — почти вдвое больше\n\nА вы уже отпросились на четверг?\n\n#GTA6 #новости",
       "approved_update_id": 756023595
+    },
+    {
+      "number": 17,
+      "status": "pending",
+      "topic": "game-awards-2026-gta6-8-nominations",
+      "message_id": 37,
+      "media": "posts/2026-11-17-game-awards-8-noms.png",
+      "media_type": "photo",
+      "created_at": "2026-11-17T17:35:01Z",
+      "source": "https://www.videogameschronicle.com/news/gta-6-is-the-most-nominated-game-at-the-game-awards-2026/",
+      "source_alt": "https://noisypixel.net/the-game-awards-2026-nominees-full-list/",
+      "note": "follow-up to #6; caption says 'час назад' — adjust if published much later",
+      "caption": "🏆 <b>GTA 6 — лидер The Game Awards. До релиза</b>\n\nНоминантов объявили час назад: у GTA 6 — 8 номинаций, больше всех. При этом игра выходит только 19 ноября, а обзоров ещё нет.\n\n⭐ Игра года — против 007 First Light, Control Resonant, Phantom Blade Zero, Resident Evil Requiem и ремейка Zelda: Ocarina of Time\n🎬 Ещё: режиссура, сценарий, арт, музыка, звук, лучший экшен/приключение\n🎭 Manni L. Perez (Люсия) — в «Лучшей актёрской игре»\n🗳 Победителей решает жюри (90%) и зрители (10%), голосование — до 9 декабря\n📅 Церемония — 10 декабря в Лос-Анджелесе\n\nЗаслуженно или авансом?\n\n#GTA6 #новости"
     }
   ],
   "published_topics": [
