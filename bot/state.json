@@ -1,7 +1,7 @@
 {
  "last_update_id": 756023609,
  "last_published_at": "2026-11-18T23:32:59Z",
- "next_draft_number": 32,
+ "next_draft_number": 33,
  "drafts": [
   {
    "number": 3,
@@ -463,6 +463,20 @@
    "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@679834a/posts/2026-11-18-twitch-record-3-3m.png",
    "photo_file_id": "AgACAgQAAxkDAANBav4nuyLA_fXamXsecLQRvnOz5JkAAtERaxsxsPVTcKLkLEu7-ToBAAMCAAN5AAM9BA",
    "caption": "📺 <b>GTA 6 побила рекорд Twitch</b>\n\nЕщё до мирового релиза GTA 6 собрала на Twitch 3,3 млн зрителей одновременно — больше, чем любая игра в истории площадки.\n\n🏆 Прошлый рекорд держала League of Legends — 3,1 млн в ноябре 2022 года (по TwitchTracker).\n🌏 В Новой Зеландии игра уже открылась, остальной мир пока ждёт — и смотрит стримы.\n🔎 По предварительным данным Streams Charts, вместе с YouTube и Kick в пике было больше 6 млн зрителей.\n\nТы смотришь стримы или ждёшь релиза, чтобы не ловить спойлеры?\n\n#GTA6 #новости #стримеры"
+  },
+  {
+   "number": 32,
+   "status": "pending",
+   "topic": "first-hours-funny-clips-cat-dog-jetski",
+   "message_id": 66,
+   "media": "posts/2026-11-19-first-clips-funny.png",
+   "media_type": "photo",
+   "created_at": "2026-11-18T23:34:55Z",
+   "source": "https://www.windowscentral.com/gaming/gta-6-players-are-ignoring-crime-to-jet-ski-with-dogs-and-redecorate-their-bedrooms-the-funniest-clips-so-far",
+   "note": "Clips shared by @cantworkitout/@ChizPlays/@Pirat_Nation; Stable Ronaldo 40-min painting",
+   "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@f49b8c1/posts/2026-11-19-first-clips-funny.png",
+   "photo_file_id": "AgACAgQAAxkDAANCav42HyKgUNKbtoaiRSTZCxv5PnYAAv0QaxvPOfVTBAoC7tI1GrgBAAMCAAN5AAM9BA",
+   "caption": "🐶 <b>Что творят игроки в первые часы GTA 6</b>\n\nИгра открывается по миру, а соцсети уже завалены клипами. Самое смешное:\n\n🐈 Угнал машину с котом внутри — кот исцарапал вора и выкинул его в окно.\n🚤 Застрял в море — на помощь приплывает пёс в очках на гидроцикле и может отвезти на «Собачий остров».\n🎨 Перекраска спальни в доме Джейсона поднимает отношения с Люсией. Стример <a href=\"https://www.twitch.tv/stableronaldo\">Stable Ronaldo</a> красил стены 40 минут — и начал заново из-за цвета.\n🕹 В сейфхаусе есть своя консоль JoySystem с мини-играми на телевизоре.\n\nА ты что сделаешь первым делом?\n\n#GTA6 #пасхалки #стримеры"
   }
  ],
  "published_topics": [
@@ -508,7 +522,7 @@
   "note": "published on owner's direct request in chat; owner adds partner links himself"
  },
  "last_run": {
-  "at": "2026-11-18T22:34:00Z",
-  "note": "Owner approved #28, #29, #30. Published #28 (channel msg 33). #30, #29 approved and queued. New draft #31 (Twitch record) sent."
+  "at": "2026-11-18T23:35:30Z",
+  "note": "No new updates. Published #29 (channel msg 34). #30 approved, queued. #31 pending. New draft #32 (funny first clips) sent."
  }
 }
