@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023606,
   "last_published_at": "2026-11-18T13:32:57Z",
-  "next_draft_number": 29,
+  "next_draft_number": 30,
   "drafts": [
     {
       "number": 3,
@@ -411,6 +411,21 @@
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@bda0998/posts/2026-11-18-metacritic-99-record.png",
       "photo_file_id": "AgACAgQAAxkDAAM7av2bMaZHopdxB0fcvJg8ypReydoAAv8QaxsN7uxTa5y6zgksHtwBAAMCAAN5AAM9BA",
       "caption": "🏆 <b>GTA 6 — лучшая игра в истории Metacritic</b>\n\nПосле снятия эмбарго у GTA 6 на PS5 — 99 баллов по 109 рецензиям. Это рекорд площадки: столько же только у Zelda: Ocarina of Time 1998 года.\n\n🥇 По внутреннему подсчёту Metacritic GTA 6 даже чуть выше — и стоит на 1-м месте списка за всё время.\n📊 Для сравнения: GTA 4 — 98, GTA 5 — 97.\n🎮 На Xbox Series тоже 99, но рецензий пока всего несколько.\n\nОценки ещё могут сдвинуться. Релиз — завтра, 19 ноября.\n\n#GTA6 #новости #факты"
+    },
+    {
+      "number": 29,
+      "status": "pending",
+      "topic": "free-codes-twitch-drops-kick-10k",
+      "message_id": 60,
+      "media": "posts/2026-11-18-free-codes-twitch-kick.png",
+      "media_type": "photo",
+      "created_at": "2026-11-18T13:34:58Z",
+      "source": "https://dexerto.com/gta/kick-and-twitch-are-giving-away-thousands-of-gta-6-codes-to-viewers-before-launch-3428151",
+      "source_alt": "https://www.shacknews.com/article/151356/twitch-gta-6-ultimate-edition-code-drop-twitchcon-2026",
+      "note": "Twitch: Clancy at TwitchCon, daily drops launch–end Nov; Kick Sunset Reward Case Nov 12–Dec 7, 10k codes. Not an ad, no partner links.",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@5588650/posts/2026-11-18-free-codes-twitch-kick.png",
+      "photo_file_id": "AgACAgQAAxkDAAM8av2pgispbzsPDDBC0A16BC-CVjkAAhARaxs8G_VTAAG5bhaXuR__AQADAgADeQADPQQ",
+      "caption": "🎁 <b>GTA 6 бесплатно: Twitch и Kick раздают коды</b>\n\nСтриминговые площадки устроили раздачу GTA 6 Ultimate Edition — платить ничего не нужно, только смотреть стримы.\n\n🟣 <b>Twitch</b> — ежедневные «сюрприз-дропы» кодов с релиза 19 ноября до 30 ноября. Сколько всего кодов и какие условия — Twitch не уточнил.\n🟢 <b>Kick</b> — 10 000 кодов для PS5 и Xbox Series до 7 декабря. Смотришь любой стрим 180 минут → открываешь кейс у аватарки. Один кейс в день, это шанс, а не гарантия.\n\n⚠️ Коды PS5 работают только в поддерживаемых регионах PSN, коды Xbox — по всему миру. Любые «раздачи» с просьбой оплатить или ввести данные карты — скам.\n\n#GTA6 #новости #стримеры"
     }
   ],
   "published_topics": [
@@ -454,7 +469,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-18T12:34:00Z",
-    "note": "Owner approved #26 and #27. Published #26 (channel msg 31). #27 approved, waits for interval. Sent draft #28 (Metacritic 99 record)."
+    "at": "2026-11-18T13:35:00Z",
+    "note": "No new updates. Published #27 (channel msg 32). Sent draft #29 (free codes Twitch/Kick). #28 still pending."
   }
 }
