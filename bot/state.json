@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023601,
   "last_published_at": "2026-11-18T01:33:20Z",
-  "next_draft_number": 23,
+  "next_draft_number": 24,
   "drafts": [
     {
       "number": 3,
@@ -307,6 +307,20 @@
       "approved_update_id": 756023601,
       "channel_message_id": "27",
       "published_at": "2026-11-18T01:33:20Z"
+    },
+    {
+      "number": 23,
+      "status": "pending",
+      "topic": "birds-62-species-logbook",
+      "message_id": 49,
+      "media": "posts/2026-11-18-birds-62-species.png",
+      "media_type": "photo",
+      "created_at": "2026-11-18T06:35:18Z",
+      "source": "https://www.pcgamer.com/games/live/news/grand-theft-auto-6-live-launch-coverage/",
+      "source_alt": "https://www.dexerto.com/gta/birdwatchers-are-buying-gta-6-just-to-look-at-birds-3428480/",
+      "note": "62 birds + logbook from previews (Guardian via PC Gamer live 03:45 UTC Nov 18); 170+ species confirmed by Rockstar via Game Informer. Telegram failed to fetch raw.githubusercontent URL this run; jsDelivr @commit URL worked — use it when publishing.",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@2bb03d88efedb339041bb6d08cc6c19c9a6548c9/posts/2026-11-18-birds-62-species.png",
+      "caption": "🦩 <b>В GTA 6 — 62 вида птиц и журнал наблюдений</b>\n\nПока все считают часы до релиза, бёрдвотчеры ждут GTA 6 ради… птиц. Об этом пишут The Guardian и PC Gamer.\n\n🔭 По превью, в Леониде 62 вида птиц — их можно разглядывать в бинокль и отмечать в журнале дикой природы\n🐊 Всего животных — больше 170 видов, подтверждала Rockstar (фламинго, пеликаны, ламантины, аллигаторы)\n🐎 Для сравнения: в RDR2 было 66 видов птиц\n\nНа Reddit в r/birding уже собирают компании, чтобы стримить «орнитологию в Вайс-Сити».\n\nБудете искать всех 62 или сразу в ограбления?\n\n#GTA6 #факты"
     }
   ],
   "published_topics": [
