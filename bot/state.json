@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023604,
   "last_published_at": "2026-11-18T09:33:21Z",
-  "next_draft_number": 26,
+  "next_draft_number": 27,
   "drafts": [
     {
       "number": 3,
@@ -360,6 +360,21 @@
       "approved_update_id": "756023604",
       "channel_message_id": "30",
       "published_at": "2026-11-18T09:33:21Z"
+    },
+    {
+      "number": 26,
+      "status": "pending",
+      "topic": "first-reviews-ign-10-opencritic-99",
+      "message_id": 55,
+      "media": "posts/2026-11-18-first-reviews-ign-10.png",
+      "media_type": "photo",
+      "created_at": "2026-11-18T11:22:24Z",
+      "source": "https://www.tomsguide.com/news/live/gta-6-review-roundup-live-updates",
+      "source_alt": "https://screenrant.com/grand-theft-auto-6-review/",
+      "note": "embargo lifted 11:00Z Nov 18; OpenCritic 99 is early snapshot (~11:06Z) — refresh numbers (and Metacritic) before publishing if stale",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@c8860fe/posts/2026-11-18-first-reviews-ign-10.png",
+      "photo_file_id": "AgACAgQAAxkDAAM3av2KcNqXw1a-oYC7aWi-3PDO5o0AAq8Qaxv2s_VTDINPh5nD_IYBAAMCAAN5AAM9BA",
+      "caption": "⭐ <b>Первые оценки GTA 6: IGN ставит 10/10</b>\n\nВ 12:00 по Варшаве / 14:00 МСК сняли эмбарго — пресса выложила обзоры. Пока все в восторге.\n\n🔟 IGN — 10/10: «самая впечатляющая игра, в которую я играл»\n🏆 VGC — 5/5, «современный шедевр». Giant Bomb — 5/5, «лучшая игра Rockstar»\n📈 Screen Rant — 10/10. OpenCritic на старте — 99, рекомендуют 100% критиков\n😐 Минусы: к финалу сюжет проседает (Screen Rant), есть мелкие проблемы с производительностью (VGC)\n\nMetacritic оценку ещё не вывел — обзоров пока мало, цифры будут меняться.\n\nРелиз — завтра, 19 ноября. Верите в 10/10?\n\n#GTA6 #новости"
     }
   ],
   "published_topics": [
@@ -401,7 +416,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-18T09:40:00Z",
-    "note": "Published #25. No fresh worthy topic (PC Q1 2027 report is from Oct 13; NZ trick rejected #12). Reviews/Metacritic expected 11:00-12:00Z Nov 18 — top candidate for next run."
+    "at": "2026-11-18T11:23:00Z",
+    "note": "No updates. Sent draft #26 (first reviews: IGN 10, VGC 5/5, Giant Bomb 5/5, Screen Rant 10, OpenCritic 99 early)."
   }
 }
