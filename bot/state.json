@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023600,
-  "last_published_at": "2026-11-17T23:32:12Z",
+  "last_update_id": 756023601,
+  "last_published_at": "2026-11-18T00:32:54Z",
   "next_draft_number": 23,
   "drafts": [
     {
@@ -279,20 +279,22 @@
     },
     {
       "number": 21,
-      "status": "approved",
+      "status": "published",
       "topic": "twitch-ad-tech-mature-gta6",
       "message_id": 45,
       "media": "posts/2026-11-17-twitch-ad-tech.png",
       "media_type": "photo",
       "created_at": "2026-11-17T21:35:12Z",
       "source": "https://www.dexerto.com/twitch/twitch-makes-huge-ad-change-so-streamers-can-make-more-money-while-playing-gta-6-3428215",
-      "note": "Clancy Bloomberg interview Nov 12; streamers topic",
+      "note": "Clancy Bloomberg interview Nov 12; streamers topic; published silently (quiet hours)",
       "caption": "💸 <b>Twitch прячет рекламу от жести GTA 6</b>\n\nГлава Twitch Дэн Клэнси рассказал Bloomberg: к релизу платформа сделала технологию, которая не ставит рекламу брендов рядом с теми частями GTA 6, с которыми они не хотят ассоциироваться.\n\n📉 Зачем: рекламодатели сторонились категории GTA — стример Nmplol ещё в сентябре жаловался, что доход с рекламы на GTA-стримах копеечный по сравнению с Just Chatting\n💰 Теперь бренды должны вернуться, а стримеры — больше зарабатывать на взрослых играх\n🎭 Клэнси ждёт, что GTA-ролплей снова взорвёт Twitch в январе–марте\n❓ Когда выйдет GTA 6 Online, на Twitch, по его словам, понятия не имеют\n\nБудете смотреть релиз на Twitch или Kick?\n\n#GTA6 #стримеры",
-      "approved_update_id": 756023600
+      "approved_update_id": 756023600,
+      "channel_message_id": 26,
+      "published_at": "2026-11-18T00:32:54Z"
     },
     {
       "number": 22,
-      "status": "pending",
+      "status": "approved",
       "topic": "gta6-length-50h-story-200h-platinum",
       "message_id": 47,
       "media": "posts/2026-11-18-gta6-length-50h.png",
@@ -301,7 +303,8 @@
       "source": "https://www.notebookcheck.net/Leak-says-GTA-6-story-takes-50-hours-to-complete-and-PS5-platinum-trophy-200-hours.1450952.0.html",
       "source_alt": "https://gamerant.com/gta-6-story-length-mission-count-how-long-to-platinum-leak/",
       "note": "rumor (Insider Gaming, Nov 15); if reviews (Nov 18) confirm/deny length, update before publishing",
-      "caption": "🔎 <b>Слух: сюжет GTA 6 — около 50 часов</b>\n\nИнсайдер Том Хендерсон (Insider Gaming) назвал длину игры — по впечатлениям журналистов, которые уже её прошли.\n\n📖 Основной сюжет — ~50 часов, если не отвлекаться на побочки\n🎬 Около 100 миссий в пяти главах\n🏆 Платина — порядка 200 часов, примерно как в RDR2. Одна из причин — 170 видов животных в Леониде\n⏱ Для сравнения: сюжет GTA V — около 32 часов. А один из руководителей Rockstar North Роб Нельсон рассказывал NYT, что его прохождение с побочками заняло ~80 часов\n\n❗ Официально Rockstar длину не называла — проверим по обзорам.\n\nСколько часов отложили на первую неделю?\n\n#GTA6 #новости"
+      "caption": "🔎 <b>Слух: сюжет GTA 6 — около 50 часов</b>\n\nИнсайдер Том Хендерсон (Insider Gaming) назвал длину игры — по впечатлениям журналистов, которые уже её прошли.\n\n📖 Основной сюжет — ~50 часов, если не отвлекаться на побочки\n🎬 Около 100 миссий в пяти главах\n🏆 Платина — порядка 200 часов, примерно как в RDR2. Одна из причин — 170 видов животных в Леониде\n⏱ Для сравнения: сюжет GTA V — около 32 часов. А один из руководителей Rockstar North Роб Нельсон рассказывал NYT, что его прохождение с побочками заняло ~80 часов\n\n❗ Официально Rockstar длину не называла — проверим по обзорам.\n\nСколько часов отложили на первую неделю?\n\n#GTA6 #новости",
+      "approved_update_id": 756023601
     }
   ],
   "published_topics": [
@@ -322,7 +325,8 @@
     "game-awards-2026-gta6-8-nominations",
     "bofa-1-5b-launch-weekend-bar",
     "miami-vice-city-takeover-backlash",
-    "physical-box-missing-codes"
+    "physical-box-missing-codes",
+    "twitch-ad-tech-mature-gta6"
   ],
   "owner_feedback": [
     {
