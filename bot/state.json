@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023606,
-  "last_published_at": "2026-11-18T13:32:57Z",
+  "last_update_id": 756023609,
+  "last_published_at": "2026-11-18T22:31:56Z",
   "next_draft_number": 31,
   "drafts": [
     {
@@ -399,7 +399,7 @@
     },
     {
       "number": 28,
-      "status": "pending",
+      "status": "published",
       "topic": "metacritic-99-tied-ocarina-record",
       "message_id": 59,
       "media": "posts/2026-11-18-metacritic-99-record.png",
@@ -410,11 +410,14 @@
       "note": "PS5 99 (109 reviews) as of VGC 11:22Z Nov 18; Xbox 99 (9 reviews)",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@bda0998/posts/2026-11-18-metacritic-99-record.png",
       "photo_file_id": "AgACAgQAAxkDAAM7av2bMaZHopdxB0fcvJg8ypReydoAAv8QaxsN7uxTa5y6zgksHtwBAAMCAAN5AAM9BA",
-      "caption": "🏆 <b>GTA 6 — лучшая игра в истории Metacritic</b>\n\nПосле снятия эмбарго у GTA 6 на PS5 — 99 баллов по 109 рецензиям. Это рекорд площадки: столько же только у Zelda: Ocarina of Time 1998 года.\n\n🥇 По внутреннему подсчёту Metacritic GTA 6 даже чуть выше — и стоит на 1-м месте списка за всё время.\n📊 Для сравнения: GTA 4 — 98, GTA 5 — 97.\n🎮 На Xbox Series тоже 99, но рецензий пока всего несколько.\n\nОценки ещё могут сдвинуться. Релиз — завтра, 19 ноября.\n\n#GTA6 #новости #факты"
+      "caption": "🏆 <b>GTA 6 — лучшая игра в истории Metacritic</b>\n\nПосле снятия эмбарго у GTA 6 на PS5 — 99 баллов по 109 рецензиям. Это рекорд площадки: столько же только у Zelda: Ocarina of Time 1998 года.\n\n🥇 По внутреннему подсчёту Metacritic GTA 6 даже чуть выше — и стоит на 1-м месте списка за всё время.\n📊 Для сравнения: GTA 4 — 98, GTA 5 — 97.\n🎮 На Xbox Series тоже 99, но рецензий пока всего несколько.\n\nОценки ещё могут сдвинуться. Релиз — завтра, 19 ноября.\n\n#GTA6 #новости #факты",
+      "approved_update_id": 756023607,
+      "channel_message_id": 33,
+      "published_at": "2026-11-18T22:31:56Z"
     },
     {
       "number": 29,
-      "status": "pending",
+      "status": "approved",
       "topic": "free-codes-twitch-drops-kick-10k",
       "message_id": 60,
       "media": "posts/2026-11-18-free-codes-twitch-kick.png",
@@ -425,11 +428,12 @@
       "note": "Twitch: Clancy at TwitchCon, daily drops launch–end Nov; Kick Sunset Reward Case Nov 12–Dec 7, 10k codes. Not an ad, no partner links.",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@5588650/posts/2026-11-18-free-codes-twitch-kick.png",
       "photo_file_id": "AgACAgQAAxkDAAM8av2pgispbzsPDDBC0A16BC-CVjkAAhARaxs8G_VTAAG5bhaXuR__AQADAgADeQADPQQ",
-      "caption": "🎁 <b>GTA 6 бесплатно: Twitch и Kick раздают коды</b>\n\nСтриминговые площадки устроили раздачу GTA 6 Ultimate Edition — платить ничего не нужно, только смотреть стримы.\n\n🟣 <b>Twitch</b> — ежедневные «сюрприз-дропы» кодов с релиза 19 ноября до 30 ноября. Сколько всего кодов и какие условия — Twitch не уточнил.\n🟢 <b>Kick</b> — 10 000 кодов для PS5 и Xbox Series до 7 декабря. Смотришь любой стрим 180 минут → открываешь кейс у аватарки. Один кейс в день, это шанс, а не гарантия.\n\n⚠️ Коды PS5 работают только в поддерживаемых регионах PSN, коды Xbox — по всему миру. Любые «раздачи» с просьбой оплатить или ввести данные карты — скам.\n\n#GTA6 #новости #стримеры"
+      "caption": "🎁 <b>GTA 6 бесплатно: Twitch и Kick раздают коды</b>\n\nСтриминговые площадки устроили раздачу GTA 6 Ultimate Edition — платить ничего не нужно, только смотреть стримы.\n\n🟣 <b>Twitch</b> — ежедневные «сюрприз-дропы» кодов с релиза 19 ноября до 30 ноября. Сколько всего кодов и какие условия — Twitch не уточнил.\n🟢 <b>Kick</b> — 10 000 кодов для PS5 и Xbox Series до 7 декабря. Смотришь любой стрим 180 минут → открываешь кейс у аватарки. Один кейс в день, это шанс, а не гарантия.\n\n⚠️ Коды PS5 работают только в поддерживаемых регионах PSN, коды Xbox — по всему миру. Любые «раздачи» с просьбой оплатить или ввести данные карты — скам.\n\n#GTA6 #новости #стримеры",
+      "approved_update_id": 756023609
     },
     {
       "number": 30,
-      "status": "pending",
+      "status": "approved",
       "topic": "critics-cons-30fps-no-mission-replay",
       "message_id": 61,
       "media": "posts/2026-11-18-critics-cons.png",
@@ -440,7 +444,8 @@
       "note": "Roundup of critics' cons: 30fps no perf mode, dips, no mission replay (IGN), melee (Wccftech), controls/pacing (Kotaku, Verge).",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@55425b3/posts/2026-11-18-critics-cons.png",
       "photo_file_id": "AgACAgQAAxkDAAM9av23ZdQpwPHUNore3t56YkVWslQAAvkQaxvwBvVTv7qjpL33O_oBAAMCAAN5AAM9BA",
-      "caption": "⚖️ <b>За что критики ругают GTA 6</b>\n\n99 на Metacritic — но и у идеальной игры нашлись минусы. Собрали, на что жалуются обозреватели:\n\n🎞 <b>30 FPS</b> на всех консолях, даже на PS5 Pro — режима производительности нет.\n📉 Просадки кадров в бешеных погонях и крупных перестрелках (Kotaku, Cultured Vultures).\n🔁 Сюжетные миссии нельзя переиграть по отдельности, как в GTA 5 (IGN).\n👊 Рукопашка слабее, чем в RDR2, а мелкое оружие ощущается «ватным» (Wccftech, GamingBolt).\n🎮 Громоздкое управление и выбор оружия в бою, затянутые поздние главы (Kotaku, The Verge).\n\nВердикт всё равно единогласный: 100% критиков на OpenCritic рекомендуют игру. Тебя 30 FPS смущает?\n\n#GTA6 #новости"
+      "caption": "⚖️ <b>За что критики ругают GTA 6</b>\n\n99 на Metacritic — но и у идеальной игры нашлись минусы. Собрали, на что жалуются обозреватели:\n\n🎞 <b>30 FPS</b> на всех консолях, даже на PS5 Pro — режима производительности нет.\n📉 Просадки кадров в бешеных погонях и крупных перестрелках (Kotaku, Cultured Vultures).\n🔁 Сюжетные миссии нельзя переиграть по отдельности, как в GTA 5 (IGN).\n👊 Рукопашка слабее, чем в RDR2, а мелкое оружие ощущается «ватным» (Wccftech, GamingBolt).\n🎮 Громоздкое управление и выбор оружия в бою, затянутые поздние главы (Kotaku, The Verge).\n\nВердикт всё равно единогласный: 100% критиков на OpenCritic рекомендуют игру. Тебя 30 FPS смущает?\n\n#GTA6 #новости",
+      "approved_update_id": 756023608
     }
   ],
   "published_topics": [
@@ -468,7 +473,8 @@
     "patch-1-002-001-before-launch",
     "album-tracklist-leak-34-songs",
     "first-reviews-ign-10-opencritic-99",
-    "pc-version-q1-2027-gamesbeat-rumor"
+    "pc-version-q1-2027-gamesbeat-rumor",
+    "metacritic-99-tied-ocarina-record"
   ],
   "owner_feedback": [
     {
