@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023604,
-  "last_published_at": "2026-11-18T09:33:21Z",
+  "last_update_id": 756023606,
+  "last_published_at": "2026-11-18T12:32:14Z",
   "next_draft_number": 28,
   "drafts": [
     {
@@ -363,7 +363,7 @@
     },
     {
       "number": 26,
-      "status": "pending",
+      "status": "published",
       "topic": "first-reviews-ign-10-opencritic-99",
       "message_id": 55,
       "media": "posts/2026-11-18-first-reviews-ign-10.png",
@@ -374,11 +374,14 @@
       "note": "embargo lifted 11:00Z Nov 18; OpenCritic 99 is early snapshot (~11:06Z) — refresh numbers (and Metacritic) before publishing if stale",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@c8860fe/posts/2026-11-18-first-reviews-ign-10.png",
       "photo_file_id": "AgACAgQAAxkDAAM3av2KcNqXw1a-oYC7aWi-3PDO5o0AAq8Qaxv2s_VTDINPh5nD_IYBAAMCAAN5AAM9BA",
-      "caption": "⭐ <b>Первые оценки GTA 6: IGN ставит 10/10</b>\n\nВ 12:00 по Варшаве / 14:00 МСК сняли эмбарго — пресса выложила обзоры. Пока все в восторге.\n\n🔟 IGN — 10/10: «самая впечатляющая игра, в которую я играл»\n🏆 VGC — 5/5, «современный шедевр». Giant Bomb — 5/5, «лучшая игра Rockstar»\n📈 Screen Rant — 10/10. OpenCritic на старте — 99, рекомендуют 100% критиков\n😐 Минусы: к финалу сюжет проседает (Screen Rant), есть мелкие проблемы с производительностью (VGC)\n\nMetacritic оценку ещё не вывел — обзоров пока мало, цифры будут меняться.\n\nРелиз — завтра, 19 ноября. Верите в 10/10?\n\n#GTA6 #новости"
+      "caption": "⭐ <b>Первые оценки GTA 6: IGN ставит 10/10</b>\n\nВ 12:00 по Варшаве / 14:00 МСК сняли эмбарго — пресса выложила обзоры. Пока все в восторге.\n\n🔟 IGN — 10/10: «самая впечатляющая игра, в которую я играл»\n🏆 VGC — 5/5, «современный шедевр». Giant Bomb — 5/5, «лучшая игра Rockstar»\n📈 Screen Rant — 10/10. OpenCritic на старте — 99, рекомендуют 100% критиков\n😐 Минусы: к финалу сюжет проседает (Screen Rant), есть мелкие проблемы с производительностью (VGC)\n\nMetacritic оценку ещё не вывел — обзоров пока мало, цифры будут меняться.\n\nРелиз — завтра, 19 ноября. Верите в 10/10?\n\n#GTA6 #новости",
+      "approved_update_id": 756023605,
+      "channel_message_id": 31,
+      "published_at": "2026-11-18T12:32:14Z"
     },
     {
       "number": 27,
-      "status": "pending",
+      "status": "approved",
       "topic": "pc-version-q1-2027-gamesbeat-rumor",
       "message_id": 56,
       "media": "posts/2026-11-18-pc-q1-2027-rumor.png",
@@ -389,7 +392,8 @@
       "note": "rumor; sources count differs between outlets (4 vs 5), caption says 'несколько'",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@b049c9e/posts/2026-11-18-pc-q1-2027-rumor.png",
       "photo_file_id": "AgACAgQAAxkDAAM4av2NDZIGjiaWYbAnstVhs4o2ZzUAAqgQaxuHbPRTC-JRvacaNLEBAAMCAAN5AAM9BA",
-      "caption": "🔎 <b>Слух: GTA 6 на ПК — уже в начале 2027</b>\n\nПо данным GamesBeat, ПК-версия выйдет в первом квартале 2027 года — то есть через считаные месяцы после консольного релиза 19 ноября. Ссылаются на несколько инсайдеров из индустрии.\n\n⏳ Для сравнения: GTA 5 добралась до ПК почти через 1,5 года после консолей.\n🤐 Rockstar на запрос не ответила — официально ПК-версию пока не анонсировали.\n\nБерёте на консоли или ждёте ПК?\n\n#GTA6 #новости"
+      "caption": "🔎 <b>Слух: GTA 6 на ПК — уже в начале 2027</b>\n\nПо данным GamesBeat, ПК-версия выйдет в первом квартале 2027 года — то есть через считаные месяцы после консольного релиза 19 ноября. Ссылаются на несколько инсайдеров из индустрии.\n\n⏳ Для сравнения: GTA 5 добралась до ПК почти через 1,5 года после консолей.\n🤐 Rockstar на запрос не ответила — официально ПК-версию пока не анонсировали.\n\nБерёте на консоли или ждёте ПК?\n\n#GTA6 #новости",
+      "approved_update_id": 756023606
     }
   ],
   "published_topics": [
@@ -415,7 +419,8 @@
     "gta6-length-50h-story-200h-platinum",
     "birds-62-species-logbook",
     "patch-1-002-001-before-launch",
-    "album-tracklist-leak-34-songs"
+    "album-tracklist-leak-34-songs",
+    "first-reviews-ign-10-opencritic-99"
   ],
   "owner_feedback": [
     {
