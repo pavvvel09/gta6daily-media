@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023602,
-  "last_published_at": "2026-11-18T07:32:32Z",
+  "last_update_id": 756023603,
+  "last_published_at": "2026-11-18T08:32:52Z",
   "next_draft_number": 25,
   "drafts": [
     {
@@ -327,7 +327,7 @@
     },
     {
       "number": 24,
-      "status": "pending",
+      "status": "published",
       "topic": "patch-1-002-001-before-launch",
       "message_id": 51,
       "media": "posts/2026-11-18-patch-1-002-001.png",
@@ -338,7 +338,10 @@
       "note": "Sizes from trackers (not Rockstar). Reviews reportedly go live ~12:00-13:00 CET Nov 18 — strong next topic. Telegram couldn't fetch raw/jsDelivr full-sha URL; jsDelivr short-sha @da278b9 worked after ~1 min. Use photo_file_id to publish.",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@da278b9/posts/2026-11-18-patch-1-002-001.png",
       "photo_file_id": "AgACAgQAAxkDAAMzav1Wm3_D7jpUPGnLFSep_6MxkaAAAoEQaxsI1_VTrzyV9QF_ZMkBAAMCAAN5AAM9BA",
-      "caption": "⬇️ <b>Перед релизом проверь патч 1.002.001</b>\n\nПока Rockstar молчит, на консоли тихо приехало уже второе обновление GTA 6 до запуска — без него игра не стартует.\n\n📦 PS5 — около 602 МБ, Xbox Series X|S — около 1,6 ГБ (данные трекеров, не Rockstar)\n📝 Патчноутов нет ни к этому, ни к первому апдейту (~1 ГБ, 13 ноября)\n💾 Вся игра — до 212 ГБ. Оставьте ещё несколько гигабайт свободными: консоли нужно место для установки патчей\n🕛 Старт — 19 ноября в полночь по местному времени: и в Варшаве, и в Москве\n\nНе удаляйте предзагрузку: перекачка 212 ГБ на 100 Мбит/с — почти 5 часов. И не исключено, что в день релиза прилетит ещё один патч.\n\nОбновились уже?\n\n#GTA6 #гайды"
+      "caption": "⬇️ <b>Перед релизом проверь патч 1.002.001</b>\n\nПока Rockstar молчит, на консоли тихо приехало уже второе обновление GTA 6 до запуска — без него игра не стартует.\n\n📦 PS5 — около 602 МБ, Xbox Series X|S — около 1,6 ГБ (данные трекеров, не Rockstar)\n📝 Патчноутов нет ни к этому, ни к первому апдейту (~1 ГБ, 13 ноября)\n💾 Вся игра — до 212 ГБ. Оставьте ещё несколько гигабайт свободными: консоли нужно место для установки патчей\n🕛 Старт — 19 ноября в полночь по местному времени: и в Варшаве, и в Москве\n\nНе удаляйте предзагрузку: перекачка 212 ГБ на 100 Мбит/с — почти 5 часов. И не исключено, что в день релиза прилетит ещё один патч.\n\nОбновились уже?\n\n#GTA6 #гайды",
+      "approved_update_id": "756023603",
+      "channel_message_id": "29",
+      "published_at": "2026-11-18T08:32:52Z"
     }
   ],
   "published_topics": [
@@ -362,7 +365,8 @@
     "physical-box-missing-codes",
     "twitch-ad-tech-mature-gta6",
     "gta6-length-50h-story-200h-platinum",
-    "birds-62-species-logbook"
+    "birds-62-species-logbook",
+    "patch-1-002-001-before-launch"
   ],
   "owner_feedback": [
     {
