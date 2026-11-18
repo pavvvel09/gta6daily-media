@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023606,
   "last_published_at": "2026-11-18T12:32:14Z",
-  "next_draft_number": 28,
+  "next_draft_number": 29,
   "drafts": [
     {
       "number": 3,
@@ -394,6 +394,21 @@
       "photo_file_id": "AgACAgQAAxkDAAM4av2NDZIGjiaWYbAnstVhs4o2ZzUAAqgQaxuHbPRTC-JRvacaNLEBAAMCAAN5AAM9BA",
       "caption": "🔎 <b>Слух: GTA 6 на ПК — уже в начале 2027</b>\n\nПо данным GamesBeat, ПК-версия выйдет в первом квартале 2027 года — то есть через считаные месяцы после консольного релиза 19 ноября. Ссылаются на несколько инсайдеров из индустрии.\n\n⏳ Для сравнения: GTA 5 добралась до ПК почти через 1,5 года после консолей.\n🤐 Rockstar на запрос не ответила — официально ПК-версию пока не анонсировали.\n\nБерёте на консоли или ждёте ПК?\n\n#GTA6 #новости",
       "approved_update_id": 756023606
+    },
+    {
+      "number": 28,
+      "status": "pending",
+      "topic": "metacritic-99-tied-ocarina-record",
+      "message_id": 59,
+      "media": "posts/2026-11-18-metacritic-99-record.png",
+      "media_type": "photo",
+      "created_at": "2026-11-18T12:33:53Z",
+      "source": "https://www.videogameschronicle.com/news/grand-theft-auto-6-is-currently-the-highest-scoring-video-game-of-all-time-according-to-metacritic/",
+      "source_alt": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-metacritic-score-makes-it-the-highest-rated-game-of-all-time-matching-the-og-zelda-ocarina-of-time/",
+      "note": "PS5 99 (109 reviews) as of VGC 11:22Z Nov 18; Xbox 99 (9 reviews)",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@bda0998/posts/2026-11-18-metacritic-99-record.png",
+      "photo_file_id": "AgACAgQAAxkDAAM7av2bMaZHopdxB0fcvJg8ypReydoAAv8QaxsN7uxTa5y6zgksHtwBAAMCAAN5AAM9BA",
+      "caption": "🏆 <b>GTA 6 — лучшая игра в истории Metacritic</b>\n\nПосле снятия эмбарго у GTA 6 на PS5 — 99 баллов по 109 рецензиям. Это рекорд площадки: столько же только у Zelda: Ocarina of Time 1998 года.\n\n🥇 По внутреннему подсчёту Metacritic GTA 6 даже чуть выше — и стоит на 1-м месте списка за всё время.\n📊 Для сравнения: GTA 4 — 98, GTA 5 — 97.\n🎮 На Xbox Series тоже 99, но рецензий пока всего несколько.\n\nОценки ещё могут сдвинуться. Релиз — завтра, 19 ноября.\n\n#GTA6 #новости #факты"
     }
   ],
   "published_topics": [
@@ -436,7 +451,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-18T11:34:00Z",
-    "note": "No updates. Nothing approved. Sent draft #27 (PC Q1 2027 rumor, GamesBeat)."
+    "at": "2026-11-18T12:34:00Z",
+    "note": "Owner approved #26 and #27. Published #26 (channel msg 31). #27 approved, waits for interval. Sent draft #28 (Metacritic 99 record)."
   }
 }
