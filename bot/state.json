@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023606,
   "last_published_at": "2026-11-18T13:32:57Z",
-  "next_draft_number": 30,
+  "next_draft_number": 31,
   "drafts": [
     {
       "number": 3,
@@ -426,6 +426,21 @@
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@5588650/posts/2026-11-18-free-codes-twitch-kick.png",
       "photo_file_id": "AgACAgQAAxkDAAM8av2pgispbzsPDDBC0A16BC-CVjkAAhARaxs8G_VTAAG5bhaXuR__AQADAgADeQADPQQ",
       "caption": "🎁 <b>GTA 6 бесплатно: Twitch и Kick раздают коды</b>\n\nСтриминговые площадки устроили раздачу GTA 6 Ultimate Edition — платить ничего не нужно, только смотреть стримы.\n\n🟣 <b>Twitch</b> — ежедневные «сюрприз-дропы» кодов с релиза 19 ноября до 30 ноября. Сколько всего кодов и какие условия — Twitch не уточнил.\n🟢 <b>Kick</b> — 10 000 кодов для PS5 и Xbox Series до 7 декабря. Смотришь любой стрим 180 минут → открываешь кейс у аватарки. Один кейс в день, это шанс, а не гарантия.\n\n⚠️ Коды PS5 работают только в поддерживаемых регионах PSN, коды Xbox — по всему миру. Любые «раздачи» с просьбой оплатить или ввести данные карты — скам.\n\n#GTA6 #новости #стримеры"
+    },
+    {
+      "number": 30,
+      "status": "pending",
+      "topic": "critics-cons-30fps-no-mission-replay",
+      "message_id": 61,
+      "media": "posts/2026-11-18-critics-cons.png",
+      "media_type": "photo",
+      "created_at": "2026-11-18T14:34:13Z",
+      "source": "https://thepcenthusiast.com/gta-6-reviews-metascore-critic-reactions/",
+      "source_alt": "https://wccftech.com/review/grand-theft-auto-vi-review-ps5pro/",
+      "note": "Roundup of critics' cons: 30fps no perf mode, dips, no mission replay (IGN), melee (Wccftech), controls/pacing (Kotaku, Verge).",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@55425b3/posts/2026-11-18-critics-cons.png",
+      "photo_file_id": "AgACAgQAAxkDAAM9av23ZdQpwPHUNore3t56YkVWslQAAvkQaxvwBvVTv7qjpL33O_oBAAMCAAN5AAM9BA",
+      "caption": "⚖️ <b>За что критики ругают GTA 6</b>\n\n99 на Metacritic — но и у идеальной игры нашлись минусы. Собрали, на что жалуются обозреватели:\n\n🎞 <b>30 FPS</b> на всех консолях, даже на PS5 Pro — режима производительности нет.\n📉 Просадки кадров в бешеных погонях и крупных перестрелках (Kotaku, Cultured Vultures).\n🔁 Сюжетные миссии нельзя переиграть по отдельности, как в GTA 5 (IGN).\n👊 Рукопашка слабее, чем в RDR2, а мелкое оружие ощущается «ватным» (Wccftech, GamingBolt).\n🎮 Громоздкое управление и выбор оружия в бою, затянутые поздние главы (Kotaku, The Verge).\n\nВердикт всё равно единогласный: 100% критиков на OpenCritic рекомендуют игру. Тебя 30 FPS смущает?\n\n#GTA6 #новости"
     }
   ],
   "published_topics": [
@@ -469,7 +484,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-18T13:35:00Z",
-    "note": "No new updates. Published #27 (channel msg 32). Sent draft #29 (free codes Twitch/Kick). #28 still pending."
+    "at": "2026-11-18T14:35:00Z",
+    "note": "No new updates. Nothing approved to publish. Sent draft #30 (critics' cons). #28, #29 still pending."
   }
 }
