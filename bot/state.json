@@ -1,6 +1,6 @@
 {
   "last_update_id": 756023606,
-  "last_published_at": "2026-11-18T12:32:14Z",
+  "last_published_at": "2026-11-18T13:32:57Z",
   "next_draft_number": 29,
   "drafts": [
     {
@@ -381,7 +381,7 @@
     },
     {
       "number": 27,
-      "status": "approved",
+      "status": "published",
       "topic": "pc-version-q1-2027-gamesbeat-rumor",
       "message_id": 56,
       "media": "posts/2026-11-18-pc-q1-2027-rumor.png",
@@ -393,7 +393,9 @@
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@b049c9e/posts/2026-11-18-pc-q1-2027-rumor.png",
       "photo_file_id": "AgACAgQAAxkDAAM4av2NDZIGjiaWYbAnstVhs4o2ZzUAAqgQaxuHbPRTC-JRvacaNLEBAAMCAAN5AAM9BA",
       "caption": "🔎 <b>Слух: GTA 6 на ПК — уже в начале 2027</b>\n\nПо данным GamesBeat, ПК-версия выйдет в первом квартале 2027 года — то есть через считаные месяцы после консольного релиза 19 ноября. Ссылаются на несколько инсайдеров из индустрии.\n\n⏳ Для сравнения: GTA 5 добралась до ПК почти через 1,5 года после консолей.\n🤐 Rockstar на запрос не ответила — официально ПК-версию пока не анонсировали.\n\nБерёте на консоли или ждёте ПК?\n\n#GTA6 #новости",
-      "approved_update_id": 756023606
+      "approved_update_id": 756023606,
+      "channel_message_id": 32,
+      "published_at": "2026-11-18T13:32:57Z"
     },
     {
       "number": 28,
@@ -435,7 +437,8 @@
     "birds-62-species-logbook",
     "patch-1-002-001-before-launch",
     "album-tracklist-leak-34-songs",
-    "first-reviews-ign-10-opencritic-99"
+    "first-reviews-ign-10-opencritic-99",
+    "pc-version-q1-2027-gamesbeat-rumor"
   ],
   "owner_feedback": [
     {
