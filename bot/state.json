@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023603,
-  "last_published_at": "2026-11-18T08:32:52Z",
+  "last_update_id": 756023604,
+  "last_published_at": "2026-11-18T09:33:21Z",
   "next_draft_number": 26,
   "drafts": [
     {
@@ -345,7 +345,7 @@
     },
     {
       "number": "25",
-      "status": "pending",
+      "status": "published",
       "topic": "album-tracklist-leak-34-songs",
       "message_id": "53",
       "media": "posts/2026-11-18-gta6-album-34-tracks.png",
@@ -356,7 +356,10 @@
       "note": "leak Nov 14-15, confirmed by Billboard/RS sources, not Rockstar. Reviews expected ~midday CET Nov 18 — strong next topic.",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@e6d3006/posts/2026-11-18-gta6-album-34-tracks.png",
       "photo_file_id": "AgACAgQAAxkDAAM1av1jTDVGmnBmsk4byRiaGcXe2kIAAi0Raxtjm-1TIjXb03sSGMcBAAMCAAN5AAM9BA",
-      "caption": "🎧 <b>Слив: весь альбом GTA 6 — 34 трека</b>\n\nВиниловые копии «Grand Theft Auto VI: The Album» попали к покупателям раньше срока — фото обложки с полным треклистом разлетелись по соцсетям. Rockstar список не подтверждала, но Billboard и Rolling Stone со ссылкой на источники называют его настоящим.\n\n🎤 Новые песни: Lana Del Rey, Dua Lipa, Playboi Carti, JENNIE\n🔥 Уже объявлены раньше: Travis Scott, Morgan Wallen, Keith Richards\n🎹 Открывает альбом Justice вместе с Michael McDonald\n💿 Сам альбом — 19–20 ноября (источники расходятся), отдельный саундтрек Justice — 11 декабря\n\nКого больше всего ждёте на радио Леониды?\n\n#GTA6 #новости"
+      "caption": "🎧 <b>Слив: весь альбом GTA 6 — 34 трека</b>\n\nВиниловые копии «Grand Theft Auto VI: The Album» попали к покупателям раньше срока — фото обложки с полным треклистом разлетелись по соцсетям. Rockstar список не подтверждала, но Billboard и Rolling Stone со ссылкой на источники называют его настоящим.\n\n🎤 Новые песни: Lana Del Rey, Dua Lipa, Playboi Carti, JENNIE\n🔥 Уже объявлены раньше: Travis Scott, Morgan Wallen, Keith Richards\n🎹 Открывает альбом Justice вместе с Michael McDonald\n💿 Сам альбом — 19–20 ноября (источники расходятся), отдельный саундтрек Justice — 11 декабря\n\nКого больше всего ждёте на радио Леониды?\n\n#GTA6 #новости",
+      "approved_update_id": "756023604",
+      "channel_message_id": "30",
+      "published_at": "2026-11-18T09:33:21Z"
     }
   ],
   "published_topics": [
@@ -381,7 +384,8 @@
     "twitch-ad-tech-mature-gta6",
     "gta6-length-50h-story-200h-platinum",
     "birds-62-species-logbook",
-    "patch-1-002-001-before-launch"
+    "patch-1-002-001-before-launch",
+    "album-tracklist-leak-34-songs"
   ],
   "owner_feedback": [
     {
