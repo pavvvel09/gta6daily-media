@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023603,
   "last_published_at": "2026-11-18T08:32:52Z",
-  "next_draft_number": 25,
+  "next_draft_number": 26,
   "drafts": [
     {
       "number": 3,
@@ -342,6 +342,21 @@
       "approved_update_id": "756023603",
       "channel_message_id": "29",
       "published_at": "2026-11-18T08:32:52Z"
+    },
+    {
+      "number": "25",
+      "status": "pending",
+      "topic": "album-tracklist-leak-34-songs",
+      "message_id": "53",
+      "media": "posts/2026-11-18-gta6-album-34-tracks.png",
+      "media_type": "photo",
+      "created_at": "2026-11-18T08:35:24Z",
+      "source": "https://maketecheasier.com/gta-6-soundtrack-tracklist-vinyl-leak/",
+      "source_alt": "https://www.dexerto.com/gta/gta-6-album-leak-reveals-34-song-tracklist-featuring-travis-scott-dua-lipa-morgan-wallen-and-more-3428203/ ; https://shattered.io/gta-6-tracklist-leak-gunna-count-up-future-yung-lean-34-songs-six-streaming/",
+      "note": "leak Nov 14-15, confirmed by Billboard/RS sources, not Rockstar. Reviews expected ~midday CET Nov 18 — strong next topic.",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@e6d3006/posts/2026-11-18-gta6-album-34-tracks.png",
+      "photo_file_id": "AgACAgQAAxkDAAM1av1jTDVGmnBmsk4byRiaGcXe2kIAAi0Raxtjm-1TIjXb03sSGMcBAAMCAAN5AAM9BA",
+      "caption": "🎧 <b>Слив: весь альбом GTA 6 — 34 трека</b>\n\nВиниловые копии «Grand Theft Auto VI: The Album» попали к покупателям раньше срока — фото обложки с полным треклистом разлетелись по соцсетям. Rockstar список не подтверждала, но Billboard и Rolling Stone со ссылкой на источники называют его настоящим.\n\n🎤 Новые песни: Lana Del Rey, Dua Lipa, Playboi Carti, JENNIE\n🔥 Уже объявлены раньше: Travis Scott, Morgan Wallen, Keith Richards\n🎹 Открывает альбом Justice вместе с Michael McDonald\n💿 Сам альбом — 19–20 ноября (источники расходятся), отдельный саундтрек Justice — 11 декабря\n\nКого больше всего ждёте на радио Леониды?\n\n#GTA6 #новости"
     }
   ],
   "published_topics": [
