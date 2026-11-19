@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023615,
-  "last_published_at": "2026-11-19T12:33:01Z",
+  "last_update_id": 756023617,
+  "last_published_at": "2026-11-19T13:33:21Z",
   "next_draft_number": 40,
   "drafts": [
     {
@@ -569,7 +569,7 @@
     },
     {
       "number": 38,
-      "status": "pending",
+      "status": "published",
       "topic": "ufo-secret-trophy-truth-is-out-there",
       "message_id": 78,
       "media": "posts/2026-11-19-ufo-secret-trophy.png",
@@ -578,11 +578,14 @@
       "source": "https://vgtimes.com/gaming-news/175102-gta-6-players-discover-ufo-encounter-that-unlocks-a-secret-trophy.html",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@8373b81/posts/2026-11-19-ufo-secret-trophy.png",
       "photo_file_id": "AgACAgQAAxkDAANOav7exexPhXffHvWIOaxraWq3_pQAAjoRaxv2t_1Tcob5bQYZVI4BAAMCAAN5AAM9BA",
-      "caption": "👽 <b>В GTA 6 нашли НЛО и секретный трофей</b>\n\nИгроки отыскали скрытое ночное событие с летающей тарелкой — за него дают бронзовый трофей «The Truth Is Out There».\n\n📍 Округ Келли, грунтовка к востоку от Порт-Гелхорна, рядом с мотелем Starlet\n🌙 Только ночью, надёжнее всего после 2:00 по игровому времени; нужна хотя бы 2-я глава\n🔦 Ищи брошенную машину с мигающими фарами и открытым багажником — и иди с фонариком по тропе в лес\n\n<tg-spoiler>Под тарелкой окажется похищенный NPC, а когда вернёшься к машине — НЛО заберёт и героя: очнёшься через три дня</tg-spoiler>\n\n#GTA6 #секреты"
+      "caption": "👽 <b>В GTA 6 нашли НЛО и секретный трофей</b>\n\nИгроки отыскали скрытое ночное событие с летающей тарелкой — за него дают бронзовый трофей «The Truth Is Out There».\n\n📍 Округ Келли, грунтовка к востоку от Порт-Гелхорна, рядом с мотелем Starlet\n🌙 Только ночью, надёжнее всего после 2:00 по игровому времени; нужна хотя бы 2-я глава\n🔦 Ищи брошенную машину с мигающими фарами и открытым багажником — и иди с фонариком по тропе в лес\n\n<tg-spoiler>Под тарелкой окажется похищенный NPC, а когда вернёшься к машине — НЛО заберёт и героя: очнёшься через три дня</tg-spoiler>\n\n#GTA6 #секреты",
+      "approved_update_id": 756023616,
+      "channel_message_id": 42,
+      "published_at": "2026-11-19T13:33:21Z"
     },
     {
       "number": "39",
-      "status": "pending",
+      "status": "approved",
       "topic": "61-cheats-unlock-after-story",
       "message_id": "79",
       "media": "posts/2026-11-19-61-cheats-after-story.png",
@@ -593,7 +596,8 @@
       "note": "List via Insider Gaming / PowerPyx; many inputs TBC; no official Rockstar list",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@9d076b6/posts/2026-11-19-61-cheats-after-story.png",
       "photo_file_id": "AgACAgQAAxkDAANPav7uJBh2eJmY_yceV5pJo0eXP8wAAh8RaxvDLP1TsbrH8Uf0EkYBAAMCAAN5AAM9BA",
-      "caption": "🎮 <b>В GTA 6 есть 61 чит-код — но не сразу</b>\n\nЧиты вернулись, только Rockstar спрятала их за финалом: пункт «Читы» появляется в меню «Прогресс» после прохождения сюжета Джейсона и Люсии.\n\n📱 Ввод: открыть телефон (↑ на крестовине), зажать L1+R1 (LB+RB) и набрать комбинацию\n💵 Пример: $250 000 — ↑ → ↓ ← ↑ ← ↓ →\n🔒 Каждый чит ещё надо «заработать»: танк Rhino — за все испытания на выживание, бронежилет — за 100 тренировок\n⚠️ С активным читом до конца сессии нельзя сохраняться, трофеи и ачивки отключаются\n\nСписок собрали PowerPyx и Insider Gaming, у части кодов комбинации пока не известны. Официального списка Rockstar не публиковала.\n\n#GTA6 #гайды #секреты"
+      "caption": "🎮 <b>В GTA 6 есть 61 чит-код — но не сразу</b>\n\nЧиты вернулись, только Rockstar спрятала их за финалом: пункт «Читы» появляется в меню «Прогресс» после прохождения сюжета Джейсона и Люсии.\n\n📱 Ввод: открыть телефон (↑ на крестовине), зажать L1+R1 (LB+RB) и набрать комбинацию\n💵 Пример: $250 000 — ↑ → ↓ ← ↑ ← ↓ →\n🔒 Каждый чит ещё надо «заработать»: танк Rhino — за все испытания на выживание, бронежилет — за 100 тренировок\n⚠️ С активным читом до конца сессии нельзя сохраняться, трофеи и ачивки отключаются\n\nСписок собрали PowerPyx и Insider Gaming, у части кодов комбинации пока не известны. Официального списка Rockstar не публиковала.\n\n#GTA6 #гайды #секреты",
+      "approved_update_id": 756023617
     }
   ],
   "published_topics": [
@@ -630,7 +634,8 @@
     "dexter-apartment-vice-city-easter-egg",
     "sensor-tower-17m-copies-1-65b",
     "gta6-house-hidden-in-san-andreas-de",
-    "literal-easter-egg-radio-tower"
+    "literal-easter-egg-radio-tower",
+    "ufo-secret-trophy-truth-is-out-there"
   ],
   "owner_feedback": [
     {
