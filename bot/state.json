@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023611,
-  "last_published_at": "2026-11-19T07:32:27Z",
+  "last_update_id": 756023612,
+  "last_published_at": "2026-11-19T08:32:16Z",
   "next_draft_number": 35,
   "drafts": [
     {
@@ -501,7 +501,7 @@
     },
     {
       "number": 34,
-      "status": "pending",
+      "status": "published",
       "topic": "dexter-apartment-vice-city-easter-egg",
       "message_id": 70,
       "media": "posts/2026-11-19-dexter-apartment-easter-egg.png",
@@ -510,7 +510,10 @@
       "source": "https://www.gamespot.com/articles/how-to-find-dexter-morgans-apartment-in-gta-6/ ; https://www.dexterdaily.com/2026/11/gta-6-dexter-apartment-easter-egg.html",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@b55bf53/posts/2026-11-19-dexter-apartment-easter-egg.png",
       "photo_file_id": "AgACAgQAAxkDAANGav6mYRCpC7_me2vKnxOhsb8AAe_aAAIJEWsbDD79UyG3pz8sIH0-AQADAgADeQADPQQ",
-      "caption": "🔪 <b>В Vice City нашли дом Декстера</b>\n\nФанаты сериала «Декстер» опознали в GTA 6 почти точную копию жилого комплекса, где жил Декстер Морган в Майами.\n\n🏢 Сходство — процентов на 90: те же голубые колонны и белые перила\n👀 Дом заметили ещё в геймплейном превью, а теперь игроки нашли его в Vice City после первых миссий\n\nRockstar пасхалку официально не комментировала — но выглядит слишком похоже, чтобы быть случайностью.\n\n#GTA6 #пасхалки"
+      "caption": "🔪 <b>В Vice City нашли дом Декстера</b>\n\nФанаты сериала «Декстер» опознали в GTA 6 почти точную копию жилого комплекса, где жил Декстер Морган в Майами.\n\n🏢 Сходство — процентов на 90: те же голубые колонны и белые перила\n👀 Дом заметили ещё в геймплейном превью, а теперь игроки нашли его в Vice City после первых миссий\n\nRockstar пасхалку официально не комментировала — но выглядит слишком похоже, чтобы быть случайностью.\n\n#GTA6 #пасхалки",
+      "approved_update_id": "756023612",
+      "channel_message_id": "38",
+      "published_at": "2026-11-19T08:32:16Z"
     }
   ],
   "published_topics": [
@@ -543,7 +546,8 @@
     "free-codes-twitch-drops-kick-10k",
     "critics-cons-30fps-no-mission-replay",
     "first-hours-funny-clips-cat-dog-jetski",
-    "skunk-ape-bigfoot-easter-egg"
+    "skunk-ape-bigfoot-easter-egg",
+    "dexter-apartment-vice-city-easter-egg"
   ],
   "owner_feedback": [
     {
