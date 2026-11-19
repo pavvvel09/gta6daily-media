@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023613,
   "last_published_at": "2026-11-19T09:32:48Z",
-  "next_draft_number": 36,
+  "next_draft_number": 37,
   "drafts": [
     {
       "number": 3,
@@ -532,6 +532,19 @@
       "approved_update_id": 756023613,
       "channel_message_id": 39,
       "published_at": "2026-11-19T09:32:48Z"
+    },
+    {
+      "number": 36,
+      "status": "pending",
+      "topic": "gta6-house-hidden-in-san-andreas-de",
+      "message_id": 74,
+      "media": "posts/2026-11-19-gta6-house-san-andreas-de.png",
+      "media_type": "photo",
+      "created_at": "2026-11-19T09:34:08Z",
+      "source": "https://www.videogameschronicle.com/news/gta-6-players-discover-our-real-first-look-at-the-game-was-likely-hidden-in-a-2021-remaster/",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@b9e41c0/posts/2026-11-19-gta6-house-san-andreas-de.png",
+      "photo_file_id": "AgACAgQAAxkDAANKav7CkMJXvLhqrbQRYDcXpNbU6B8AAigRaxvcvP1T5T2HrAXC0OwBAAMCAAN5AAM9BA",
+      "caption": "🏡 <b>Дом из GTA 6 прятался в San Andreas</b>\n\nВ ремастере GTA: San Andreas — The Definitive Edition 2021 года была странная картинка с домом, которого нет в самой игре. Теперь его нашли в GTA 6.\n\n📍 Это дом в районе Belville — совпадает до мелочей, вплоть до кустов и деревьев у входа\n🗺 Находку сделал участник проекта GTA VI Mapping, её подхватила GTA Wiki\n🧩 Похоже, это был кадр из ранней сборки GTA 6 — первый взгляд на игру ещё за пять лет до релиза\n\nRockstar это не комментировала.\n\n#GTA6 #пасхалки"
     }
   ],
   "published_topics": [
@@ -582,7 +595,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-19T09:32:48Z",
-    "note": "owner approved #35 (update 756023613); published #35 to channel (msg 39)"
+    "at": "2026-11-19T09:34:30Z",
+    "note": "owner approved #35 (update 756023613); published #35 to channel (msg 39); sent draft #36 (GTA 6 house in SA DE)"
   }
 }
