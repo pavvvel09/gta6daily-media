@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023613,
   "last_published_at": "2026-11-19T09:32:48Z",
-  "next_draft_number": 37,
+  "next_draft_number": 38,
   "drafts": [
     {
       "number": 3,
@@ -545,6 +545,21 @@
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@b9e41c0/posts/2026-11-19-gta6-house-san-andreas-de.png",
       "photo_file_id": "AgACAgQAAxkDAANKav7CkMJXvLhqrbQRYDcXpNbU6B8AAigRaxvcvP1T5T2HrAXC0OwBAAMCAAN5AAM9BA",
       "caption": "🏡 <b>Дом из GTA 6 прятался в San Andreas</b>\n\nВ ремастере GTA: San Andreas — The Definitive Edition 2021 года была странная картинка с домом, которого нет в самой игре. Теперь его нашли в GTA 6.\n\n📍 Это дом в районе Belville — совпадает до мелочей, вплоть до кустов и деревьев у входа\n🗺 Находку сделал участник проекта GTA VI Mapping, её подхватила GTA Wiki\n🧩 Похоже, это был кадр из ранней сборки GTA 6 — первый взгляд на игру ещё за пять лет до релиза\n\nRockstar это не комментировала.\n\n#GTA6 #пасхалки"
+    },
+    {
+      "number": "37",
+      "status": "pending",
+      "topic": "literal-easter-egg-radio-tower",
+      "message_id": "75",
+      "media": "posts/2026-11-19-literal-easter-egg-tower.png",
+      "media_type": "photo",
+      "created_at": "2026-11-19T10:33:46Z",
+      "source": "https://www.ibtimes.co.uk/gta-6-player-discovers-literal-easter-egg-leonida-1833342",
+      "source_alt": "https://gamersocialclub.ca/2026/11/18/grand-theft-auto-vi-where-to-find-and-use-the-easter-egg/",
+      "note": "Player-reported (X user xGarbett, Nov 18); no Rockstar confirmation",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@b8a36ab/posts/2026-11-19-literal-easter-egg-tower.png",
+      "photo_file_id": "AgACAgQAAxkDAANLav7QinZCA2UnYl2LBsGf5Y7xZg0AAvUQaxucWPxTHdadAeC-IwgBAAMCAAN5AAM9BA",
+      "caption": "🥚 <b>В GTA 6 нашли пасхалку-яйцо. Буквально</b>\n\nRockstar пошутила над самим словом «пасхалка»: на вершине высокой радиовышки в Леониде лежит птичье гнездо с полосатым яйцом.\n\n🪜 Лезть по лестнице долго — 7–15 минут (или прыгнуть с парашютом прямо на площадку)\n🎯 Берёшь яйцо и бросаешь вниз с полной силой\n🎬 Запускается короткая смешная катсцена: <tg-spoiler>яйцо влетает в лобовое стекло проезжающей машины</tg-spoiler>\n\nНаходку показали игроки в первые часы после релиза, Rockstar её официально не комментировала.\n\n#GTA6 #пасхалки"
     }
   ],
   "published_topics": [
@@ -595,7 +610,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-19T09:34:30Z",
-    "note": "owner approved #35 (update 756023613); published #35 to channel (msg 39); sent draft #36 (GTA 6 house in SA DE)"
+    "at": "2026-11-19T10:34:00Z",
+    "note": "no new updates (offset 756023614); nothing approved; sent draft #37 (literal easter egg on radio tower). Skipped dog-jetski rescue (dup of #32)."
   }
 }
