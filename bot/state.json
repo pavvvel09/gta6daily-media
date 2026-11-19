@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023613,
-  "last_published_at": "2026-11-19T09:32:48Z",
+  "last_update_id": 756023615,
+  "last_published_at": "2026-11-19T11:32:24Z",
   "next_draft_number": 38,
   "drafts": [
     {
@@ -535,7 +535,7 @@
     },
     {
       "number": 36,
-      "status": "pending",
+      "status": "published",
       "topic": "gta6-house-hidden-in-san-andreas-de",
       "message_id": 74,
       "media": "posts/2026-11-19-gta6-house-san-andreas-de.png",
@@ -544,11 +544,14 @@
       "source": "https://www.videogameschronicle.com/news/gta-6-players-discover-our-real-first-look-at-the-game-was-likely-hidden-in-a-2021-remaster/",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@b9e41c0/posts/2026-11-19-gta6-house-san-andreas-de.png",
       "photo_file_id": "AgACAgQAAxkDAANKav7CkMJXvLhqrbQRYDcXpNbU6B8AAigRaxvcvP1T5T2HrAXC0OwBAAMCAAN5AAM9BA",
-      "caption": "🏡 <b>Дом из GTA 6 прятался в San Andreas</b>\n\nВ ремастере GTA: San Andreas — The Definitive Edition 2021 года была странная картинка с домом, которого нет в самой игре. Теперь его нашли в GTA 6.\n\n📍 Это дом в районе Belville — совпадает до мелочей, вплоть до кустов и деревьев у входа\n🗺 Находку сделал участник проекта GTA VI Mapping, её подхватила GTA Wiki\n🧩 Похоже, это был кадр из ранней сборки GTA 6 — первый взгляд на игру ещё за пять лет до релиза\n\nRockstar это не комментировала.\n\n#GTA6 #пасхалки"
+      "caption": "🏡 <b>Дом из GTA 6 прятался в San Andreas</b>\n\nВ ремастере GTA: San Andreas — The Definitive Edition 2021 года была странная картинка с домом, которого нет в самой игре. Теперь его нашли в GTA 6.\n\n📍 Это дом в районе Belville — совпадает до мелочей, вплоть до кустов и деревьев у входа\n🗺 Находку сделал участник проекта GTA VI Mapping, её подхватила GTA Wiki\n🧩 Похоже, это был кадр из ранней сборки GTA 6 — первый взгляд на игру ещё за пять лет до релиза\n\nRockstar это не комментировала.\n\n#GTA6 #пасхалки",
+      "approved_update_id": 756023614,
+      "channel_message_id": 40,
+      "published_at": "2026-11-19T11:32:24Z"
     },
     {
       "number": "37",
-      "status": "pending",
+      "status": "approved",
       "topic": "literal-easter-egg-radio-tower",
       "message_id": "75",
       "media": "posts/2026-11-19-literal-easter-egg-tower.png",
@@ -559,7 +562,8 @@
       "note": "Player-reported (X user xGarbett, Nov 18); no Rockstar confirmation",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@b8a36ab/posts/2026-11-19-literal-easter-egg-tower.png",
       "photo_file_id": "AgACAgQAAxkDAANLav7QinZCA2UnYl2LBsGf5Y7xZg0AAvUQaxucWPxTHdadAeC-IwgBAAMCAAN5AAM9BA",
-      "caption": "🥚 <b>В GTA 6 нашли пасхалку-яйцо. Буквально</b>\n\nRockstar пошутила над самим словом «пасхалка»: на вершине высокой радиовышки в Леониде лежит птичье гнездо с полосатым яйцом.\n\n🪜 Лезть по лестнице долго — 7–15 минут (или прыгнуть с парашютом прямо на площадку)\n🎯 Берёшь яйцо и бросаешь вниз с полной силой\n🎬 Запускается короткая смешная катсцена: <tg-spoiler>яйцо влетает в лобовое стекло проезжающей машины</tg-spoiler>\n\nНаходку показали игроки в первые часы после релиза, Rockstar её официально не комментировала.\n\n#GTA6 #пасхалки"
+      "caption": "🥚 <b>В GTA 6 нашли пасхалку-яйцо. Буквально</b>\n\nRockstar пошутила над самим словом «пасхалка»: на вершине высокой радиовышки в Леониде лежит птичье гнездо с полосатым яйцом.\n\n🪜 Лезть по лестнице долго — 7–15 минут (или прыгнуть с парашютом прямо на площадку)\n🎯 Берёшь яйцо и бросаешь вниз с полной силой\n🎬 Запускается короткая смешная катсцена: <tg-spoiler>яйцо влетает в лобовое стекло проезжающей машины</tg-spoiler>\n\nНаходку показали игроки в первые часы после релиза, Rockstar её официально не комментировала.\n\n#GTA6 #пасхалки",
+      "approved_update_id": 756023615
     }
   ],
   "published_topics": [
@@ -594,7 +598,8 @@
     "first-hours-funny-clips-cat-dog-jetski",
     "skunk-ape-bigfoot-easter-egg",
     "dexter-apartment-vice-city-easter-egg",
-    "sensor-tower-17m-copies-1-65b"
+    "sensor-tower-17m-copies-1-65b",
+    "gta6-house-hidden-in-san-andreas-de"
   ],
   "owner_feedback": [
     {
