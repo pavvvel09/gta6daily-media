@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023610,
-  "last_published_at": "2026-11-19T01:33:53Z",
+  "last_update_id": 756023611,
+  "last_published_at": "2026-11-19T07:32:27Z",
   "next_draft_number": 34,
   "drafts": [
     {
@@ -485,7 +485,7 @@
     },
     {
       "number": 33,
-      "status": "pending",
+      "status": "published",
       "topic": "skunk-ape-bigfoot-easter-egg",
       "message_id": 68,
       "media": "posts/2026-11-19-skunk-ape-easter-egg.png",
@@ -494,7 +494,10 @@
       "source": "https://vgtimes.com/gaming-news/175042-players-have-already-found-bigfoot-in-grand-theft-auto-6.html",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@fd1e098/posts/2026-11-19-skunk-ape-easter-egg.png",
       "photo_file_id": "AgACAgQAAxkDAANEav6YLmw2pT4vkuoeF4PN1NQvSrsAAroRaxv70_VTjAK7gQotBTEBAAMCAAN5AAM9BA",
-      "caption": "🦍 <b>В болотах Леонида нашли Бигфута</b>\n\nИгроки уже наткнулись на первую мистическую пасхалку GTA 6 — местную «Скунсовую обезьяну», флоридскую версию Бигфута.\n\n📍 Где: болота у озера Cottonmouth, доступны почти сразу после открытия мира\n👂 Как: идёшь на громкий рёв и выслеживаешь существо встроенным трекингом\n🎬 Награда: секретная катсцена — что будет дальше, проверь сам\n\nВ San Andreas это была легенда, в GTA 5 — мужик в костюме. А тут?\n\n#GTA6 #пасхалки"
+      "caption": "🦍 <b>В болотах Леонида нашли Бигфута</b>\n\nИгроки уже наткнулись на первую мистическую пасхалку GTA 6 — местную «Скунсовую обезьяну», флоридскую версию Бигфута.\n\n📍 Где: болота у озера Cottonmouth, доступны почти сразу после открытия мира\n👂 Как: идёшь на громкий рёв и выслеживаешь существо встроенным трекингом\n🎬 Награда: секретная катсцена — что будет дальше, проверь сам\n\nВ San Andreas это была легенда, в GTA 5 — мужик в костюме. А тут?\n\n#GTA6 #пасхалки",
+      "approved_update_id": 756023611,
+      "channel_message_id": 37,
+      "published_at": "2026-11-19T07:32:27Z"
     }
   ],
   "published_topics": [
@@ -526,7 +529,8 @@
     "metacritic-99-tied-ocarina-record",
     "free-codes-twitch-drops-kick-10k",
     "critics-cons-30fps-no-mission-replay",
-    "first-hours-funny-clips-cat-dog-jetski"
+    "first-hours-funny-clips-cat-dog-jetski",
+    "skunk-ape-bigfoot-easter-egg"
   ],
   "owner_feedback": [
     {
