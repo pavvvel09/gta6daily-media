@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023610,
   "last_published_at": "2026-11-19T01:33:53Z",
-  "next_draft_number": 33,
+  "next_draft_number": 34,
   "drafts": [
     {
       "number": 3,
@@ -482,6 +482,19 @@
       "approved_update_id": 756023610,
       "published_at": "2026-11-19T01:33:53Z",
       "channel_message_id": 36
+    },
+    {
+      "number": 33,
+      "status": "pending",
+      "topic": "skunk-ape-bigfoot-easter-egg",
+      "message_id": 68,
+      "media": "posts/2026-11-19-skunk-ape-easter-egg.png",
+      "media_type": "photo",
+      "created_at": "2026-11-19T06:33:18Z",
+      "source": "https://vgtimes.com/gaming-news/175042-players-have-already-found-bigfoot-in-grand-theft-auto-6.html",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@fd1e098/posts/2026-11-19-skunk-ape-easter-egg.png",
+      "photo_file_id": "AgACAgQAAxkDAANEav6YLmw2pT4vkuoeF4PN1NQvSrsAAroRaxv70_VTjAK7gQotBTEBAAMCAAN5AAM9BA",
+      "caption": "🦍 <b>В болотах Леонида нашли Бигфута</b>\n\nИгроки уже наткнулись на первую мистическую пасхалку GTA 6 — местную «Скунсовую обезьяну», флоридскую версию Бигфута.\n\n📍 Где: болота у озера Cottonmouth, доступны почти сразу после открытия мира\n👂 Как: идёшь на громкий рёв и выслеживаешь существо встроенным трекингом\n🎬 Награда: секретная катсцена — что будет дальше, проверь сам\n\nВ San Andreas это была легенда, в GTA 5 — мужик в костюме. А тут?\n\n#GTA6 #пасхалки"
     }
   ],
   "published_topics": [
@@ -529,7 +542,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-19T05:32:10Z",
-    "note": "no updates, no approved drafts, quiet hours (06:31 Warsaw) — no search"
+    "at": "2026-11-19T06:34:00Z",
+    "note": "no updates, no approved; sent draft #33 (skunk ape easter egg)"
   }
 }
