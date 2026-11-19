@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023618,
-  "last_published_at": "2026-11-19T14:33:34Z",
-  "next_draft_number": 42,
+  "last_published_at": "2026-11-19T15:34:10Z",
+  "next_draft_number": 43,
   "drafts": [
     {
       "number": 3,
@@ -603,7 +603,7 @@
     },
     {
       "number": 40,
-      "status": "approved",
+      "status": "published",
       "topic": "console-performance-digital-foundry",
       "message_id": 82,
       "media": "posts/2026-11-19-console-performance-df.png",
@@ -615,7 +615,9 @@
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@9cb1470/posts/2026-11-19-console-performance-df.png",
       "photo_file_id": "AgACAgQAAxkDAANSav77SqKdQw9OWkEBNispuqrbBs8AAhoRaxuRa_xTsgMcak6c6WQBAAMCAAN5AAM9BA",
       "caption": "⚙️ <b>Где GTA 6 идёт лучше всего</b>\n\nDigital Foundry сравнили все консольные версии: везде цель — 30 fps, режима 60 fps нет ни на одной.\n\n🥇 PS5 Pro — 1440p с апскейлом PSSR почти до 4K, почти стабильные 30 fps (до ~24 только в стресс-тестах) и эксклюзивные трассированные тени\n🥈 PS5 и Xbox Series X — 1440p, в тяжёлых сценах проседают: PS5 до высоких 20-х, Series X до ~20–22 fps (на ТВ со 120 Гц выручает VRR)\n🥉 Series S — около 720p с FSR 4 до ~1080p, часто ниже 30 fps, в жарких перестрелках до ~20\n\nВ DF надеются, что Series S подтянут патчами. А ты на чём играешь?\n\n#GTA6 #новости",
-      "approved_update_id": 756023618
+      "approved_update_id": 756023618,
+      "channel_message_id": "44",
+      "published_at": "2026-11-19T15:34:10Z"
     },
     {
       "number": 41,
@@ -630,6 +632,21 @@
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@edf8209/posts/2026-11-19-joystation-minigames.png",
       "photo_file_id": "AgACAgQAAxkDAANUav8KXFvYJqk84boucobZZ6dyI80AAmgRaxuxGfxT1t2FUYnY4QUBAAMCAAN5AAM9BA",
       "caption": "🕹️ <b>В GTA 6 можно поиграть в игры внутри игры</b>\n\nВ доме Джейсона стоит приставка JoyStation — и это не декорация: на ней работают полноценные пародийные мини-игры.\n\n🔫 Time Jackers: Rewind — киберпанк твин-стик шутер в духе Hotline Miami, только медленнее\n🌫️ Tenebrae Lux — «авторский» симулятор ходьбы, где имя создателя Йоханнеса Зуха мелькает так часто, что это читается как стёб над Кодзимой\n🧟 Street Trash 3: DeZombifier — зомби-шутер а-ля Dead Nation, самая цельная из всех\n🦌 Bang For Your Buck — лайтган-тир в стиле Big Buck Hunter, только на автоматах в барах\n\nТак что если сюжет надоел — можно сесть на диван и поиграть 🎮\n\n#GTA6 #секреты #пасхалки"
+    },
+    {
+      "number": "42",
+      "status": "pending",
+      "topic": "psn-outage-launch-day",
+      "message_id": "85",
+      "media": "posts/2026-11-19-psn-outage-launch.png",
+      "media_type": "photo",
+      "created_at": "2026-11-19T15:34:51Z",
+      "source": "https://www.digit.in/news/gaming/playstation-down-again-thousands-of-users-report-server-connection-and-login-issues.html",
+      "source_alt": "https://www.pushsquare.com/news/2026/11/psn-down-sporadically-for-some-as-gta-6-launches-around-the-world",
+      "note": "Times converted from IST (10:40 peak, 11:03 Sony update); resolved per Digit update",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@bec9377/posts/2026-11-19-psn-outage-launch.png",
+      "photo_file_id": "AgACAgQAAxkDAANVav8XGzWmrd3ox4xLOCy1SyUZwYgAAhARaxvB9PxTfQQ7uJmHf2ABAAMCAAN5AAM9BA",
+      "caption": "📡 <b>PSN упала в день релиза GTA 6</b>\n\nКак раз к старту игры в США (06:00 по Варшаве, 08:00 МСК) PlayStation Network начала сбоить: не работали вход, загрузки и проверка цифровой лицензии — часть игроков не могла запустить GTA 6.\n\n📈 Пик на Downdetector — около 8 900 жалоб примерно в 06:10 (08:10 МСК).\n🛠 В 06:33 (08:33 МСК) Sony подтвердила на странице статуса проблемы с запуском игр и сетевыми функциями на PS5 и PS4.\n✅ Сейчас сбой устранён.\n\nЕсли игра всё ещё не стартует — проверь, что на PS5 стоит прошивка 14.23.\n\nУ тебя запустилось с первого раза?\n\n#GTA6 #новости"
     }
   ],
   "published_topics": [
@@ -668,7 +685,8 @@
     "gta6-house-hidden-in-san-andreas-de",
     "literal-easter-egg-radio-tower",
     "ufo-secret-trophy-truth-is-out-there",
-    "61-cheats-unlock-after-story"
+    "61-cheats-unlock-after-story",
+    "console-performance-digital-foundry"
   ],
   "owner_feedback": [
     {
@@ -684,7 +702,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-19T14:41:00Z",
-    "note": "Owner approved #40. Published #39 (channel msg 43). #40 approved, waiting for interval. Sent draft #41 (JoyStation minigames). Pending: #31, #41."
+    "at": "2026-11-19T15:35:00Z",
+    "note": "No new updates. Published #40 (channel msg 44). Sent draft #42 (PSN outage at launch). Pending: #31, #41, #42."
   }
 }
