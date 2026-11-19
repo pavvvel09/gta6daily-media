@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023620,
-  "last_published_at": "2026-11-19T17:32:32Z",
+  "last_update_id": 756023621,
+  "last_published_at": "2026-11-19T18:32:49Z",
   "next_draft_number": 45,
   "drafts": [
     {
@@ -654,7 +654,7 @@
     },
     {
       "number": 43,
-      "status": "approved",
+      "status": "published",
       "topic": "unused-map-areas-casinos-zoo-future",
       "message_id": 87,
       "media": "posts/2026-11-19-unused-map-areas.png",
@@ -666,11 +666,13 @@
       "photo_file_id": "AgACAgQAAxkDAANXav8k22CywRjd_F0e6ltTVqQR2o4AAk8RaxutWP1T5nVJaX3FuhUBAAMCAAN5AAM9BA",
       "caption": "🗺️ <b>В GTA 6 нашли закрытые места «на потом»</b>\n\nИгроки наткнулись на локации, которые никак не используются в сюжете: два огромных казино с запертыми дверями, детально проработанный зоопарк, большое кладбище и небольшой городок на севере. Рецензент Kotaku за 130+ часов так туда и не попал.\n\n🎰 Вице-президент Rockstar по дизайну Стивен Донкин объяснил Kotaku: азартным играм не нашлось места в истории Джейсона и Лусии — да и экономику игры балансировали очень аккуратно.\n🧩 По его словам, карта строилась «надолго», и часть зон оставляет студии варианты на будущее.\n🔎 Сюжетных DLC Rockstar пока не анонсировала.\n\nКак думаешь, что откроют первым — казино или зоопарк?\n\n#GTA6 #секреты #новости",
       "approved_at": "2026-11-19T17:12:37Z",
-      "approval_update_id": 756023620
+      "approval_update_id": 756023620,
+      "channel_message_id": 46,
+      "published_at": "2026-11-19T18:32:49Z"
     },
     {
       "number": 44,
-      "status": "pending",
+      "status": "approved",
       "topic": "sam-houser-launch-statement",
       "message_id": 89,
       "media": "posts/2026-11-19-sam-houser-statement.png",
@@ -680,7 +682,9 @@
       "source_alt": "https://mixed-news.com/en/rockstar-sam-houser-message-gta-6-launch-players/",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@7150d55/posts/2026-11-19-sam-houser-statement.png",
       "photo_file_id": "AgACAgQAAxkDAANZav8zFDQdU3RirIVsSRyvtwV-vdAAAkQRaxuNMv1T1U2t5FDFvQUBAAMCAAN5AAM9BA",
-      "caption": "🎬 <b>Сэм Хаузер обратился к игрокам GTA 6</b>\n\nСооснователь Rockstar почти не даёт комментариев, но к релизу сделал исключение — заявление вышло в GamesRadar+.\n\n🚀 Цель студии — игра, которая превзойдёт ожидания и покажет, на что способен жанр.\n🎭 По словам Хаузера, игрок сам влияет на то, как ощущается история и чем она закончится.\n🌴 Возвращение в Вайс-Сити должно быть одновременно знакомым и совсем новым.\n🔮 Rockstar рассчитывает делиться такими играми «ещё много лет».\n\nА у тебя первые часы оправдали ожидания?\n\n#GTA6 #новости"
+      "caption": "🎬 <b>Сэм Хаузер обратился к игрокам GTA 6</b>\n\nСооснователь Rockstar почти не даёт комментариев, но к релизу сделал исключение — заявление вышло в GamesRadar+.\n\n🚀 Цель студии — игра, которая превзойдёт ожидания и покажет, на что способен жанр.\n🎭 По словам Хаузера, игрок сам влияет на то, как ощущается история и чем она закончится.\n🌴 Возвращение в Вайс-Сити должно быть одновременно знакомым и совсем новым.\n🔮 Rockstar рассчитывает делиться такими играми «ещё много лет».\n\nА у тебя первые часы оправдали ожидания?\n\n#GTA6 #новости",
+      "approved_at": "2026-11-19T18:02:55Z",
+      "approval_update_id": 756023621
     }
   ],
   "published_topics": [
@@ -721,7 +725,8 @@
     "ufo-secret-trophy-truth-is-out-there",
     "61-cheats-unlock-after-story",
     "console-performance-digital-foundry",
-    "psn-outage-launch-day"
+    "psn-outage-launch-day",
+    "unused-map-areas-casinos-zoo-future"
   ],
   "owner_feedback": [
     {
