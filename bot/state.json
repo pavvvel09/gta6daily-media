@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023615,
   "last_published_at": "2026-11-19T11:32:24Z",
-  "next_draft_number": 38,
+  "next_draft_number": 39,
   "drafts": [
     {
       "number": 3,
@@ -564,6 +564,19 @@
       "photo_file_id": "AgACAgQAAxkDAANLav7QinZCA2UnYl2LBsGf5Y7xZg0AAvUQaxucWPxTHdadAeC-IwgBAAMCAAN5AAM9BA",
       "caption": "🥚 <b>В GTA 6 нашли пасхалку-яйцо. Буквально</b>\n\nRockstar пошутила над самим словом «пасхалка»: на вершине высокой радиовышки в Леониде лежит птичье гнездо с полосатым яйцом.\n\n🪜 Лезть по лестнице долго — 7–15 минут (или прыгнуть с парашютом прямо на площадку)\n🎯 Берёшь яйцо и бросаешь вниз с полной силой\n🎬 Запускается короткая смешная катсцена: <tg-spoiler>яйцо влетает в лобовое стекло проезжающей машины</tg-spoiler>\n\nНаходку показали игроки в первые часы после релиза, Rockstar её официально не комментировала.\n\n#GTA6 #пасхалки",
       "approved_update_id": 756023615
+    },
+    {
+      "number": 38,
+      "status": "pending",
+      "topic": "ufo-secret-trophy-truth-is-out-there",
+      "message_id": 78,
+      "media": "posts/2026-11-19-ufo-secret-trophy.png",
+      "media_type": "photo",
+      "created_at": "2026-11-19T11:34:29Z",
+      "source": "https://vgtimes.com/gaming-news/175102-gta-6-players-discover-ufo-encounter-that-unlocks-a-secret-trophy.html",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@8373b81/posts/2026-11-19-ufo-secret-trophy.png",
+      "photo_file_id": "AgACAgQAAxkDAANOav7exexPhXffHvWIOaxraWq3_pQAAjoRaxv2t_1Tcob5bQYZVI4BAAMCAAN5AAM9BA",
+      "caption": "👽 <b>В GTA 6 нашли НЛО и секретный трофей</b>\n\nИгроки отыскали скрытое ночное событие с летающей тарелкой — за него дают бронзовый трофей «The Truth Is Out There».\n\n📍 Округ Келли, грунтовка к востоку от Порт-Гелхорна, рядом с мотелем Starlet\n🌙 Только ночью, надёжнее всего после 2:00 по игровому времени; нужна хотя бы 2-я глава\n🔦 Ищи брошенную машину с мигающими фарами и открытым багажником — и иди с фонариком по тропе в лес\n\n<tg-spoiler>Под тарелкой окажется похищенный NPC, а когда вернёшься к машине — НЛО заберёт и героя: очнёшься через три дня</tg-spoiler>\n\n#GTA6 #секреты"
     }
   ],
   "published_topics": [
@@ -615,7 +628,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-19T10:34:00Z",
-    "note": "no new updates (offset 756023614); nothing approved; sent draft #37 (literal easter egg on radio tower). Skipped dog-jetski rescue (dup of #32)."
+    "at": "2026-11-19T11:35:00Z",
+    "note": "updates 756023614-615: owner ok on #36 and #37. Published #36 (channel msg 40). #37 approved, waits for interval. Sent draft #38 (UFO secret trophy). Considered PSN launch outage (resolved, skipped)."
   }
 }
