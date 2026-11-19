@@ -1,6 +1,6 @@
 {
   "last_update_id": 756023615,
-  "last_published_at": "2026-11-19T11:32:24Z",
+  "last_published_at": "2026-11-19T12:33:01Z",
   "next_draft_number": 39,
   "drafts": [
     {
@@ -551,7 +551,7 @@
     },
     {
       "number": "37",
-      "status": "approved",
+      "status": "published",
       "topic": "literal-easter-egg-radio-tower",
       "message_id": "75",
       "media": "posts/2026-11-19-literal-easter-egg-tower.png",
@@ -563,7 +563,9 @@
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@b8a36ab/posts/2026-11-19-literal-easter-egg-tower.png",
       "photo_file_id": "AgACAgQAAxkDAANLav7QinZCA2UnYl2LBsGf5Y7xZg0AAvUQaxucWPxTHdadAeC-IwgBAAMCAAN5AAM9BA",
       "caption": "🥚 <b>В GTA 6 нашли пасхалку-яйцо. Буквально</b>\n\nRockstar пошутила над самим словом «пасхалка»: на вершине высокой радиовышки в Леониде лежит птичье гнездо с полосатым яйцом.\n\n🪜 Лезть по лестнице долго — 7–15 минут (или прыгнуть с парашютом прямо на площадку)\n🎯 Берёшь яйцо и бросаешь вниз с полной силой\n🎬 Запускается короткая смешная катсцена: <tg-spoiler>яйцо влетает в лобовое стекло проезжающей машины</tg-spoiler>\n\nНаходку показали игроки в первые часы после релиза, Rockstar её официально не комментировала.\n\n#GTA6 #пасхалки",
-      "approved_update_id": 756023615
+      "approved_update_id": 756023615,
+      "channel_message_id": "41",
+      "published_at": "2026-11-19T12:33:01Z"
     },
     {
       "number": 38,
@@ -612,7 +614,8 @@
     "skunk-ape-bigfoot-easter-egg",
     "dexter-apartment-vice-city-easter-egg",
     "sensor-tower-17m-copies-1-65b",
-    "gta6-house-hidden-in-san-andreas-de"
+    "gta6-house-hidden-in-san-andreas-de",
+    "literal-easter-egg-radio-tower"
   ],
   "owner_feedback": [
     {
