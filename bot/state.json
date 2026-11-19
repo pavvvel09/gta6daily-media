@@ -1,6 +1,6 @@
 {
   "last_update_id": 756023621,
-  "last_published_at": "2026-11-19T18:32:49Z",
+  "last_published_at": "2026-11-19T19:33:14Z",
   "next_draft_number": 46,
   "drafts": [
     {
@@ -672,7 +672,7 @@
     },
     {
       "number": 44,
-      "status": "approved",
+      "status": "published",
       "topic": "sam-houser-launch-statement",
       "message_id": 89,
       "media": "posts/2026-11-19-sam-houser-statement.png",
@@ -684,7 +684,9 @@
       "photo_file_id": "AgACAgQAAxkDAANZav8zFDQdU3RirIVsSRyvtwV-vdAAAkQRaxuNMv1T1U2t5FDFvQUBAAMCAAN5AAM9BA",
       "caption": "🎬 <b>Сэм Хаузер обратился к игрокам GTA 6</b>\n\nСооснователь Rockstar почти не даёт комментариев, но к релизу сделал исключение — заявление вышло в GamesRadar+.\n\n🚀 Цель студии — игра, которая превзойдёт ожидания и покажет, на что способен жанр.\n🎭 По словам Хаузера, игрок сам влияет на то, как ощущается история и чем она закончится.\n🌴 Возвращение в Вайс-Сити должно быть одновременно знакомым и совсем новым.\n🔮 Rockstar рассчитывает делиться такими играми «ещё много лет».\n\nА у тебя первые часы оправдали ожидания?\n\n#GTA6 #новости",
       "approved_at": "2026-11-19T18:02:55Z",
-      "approval_update_id": 756023621
+      "approval_update_id": 756023621,
+      "channel_message_id": "47",
+      "published_at": "2026-11-19T19:33:14Z"
     },
     {
       "number": 45,
@@ -741,7 +743,8 @@
     "61-cheats-unlock-after-story",
     "console-performance-digital-foundry",
     "psn-outage-launch-day",
-    "unused-map-areas-casinos-zoo-future"
+    "unused-map-areas-casinos-zoo-future",
+    "sam-houser-launch-statement"
   ],
   "owner_feedback": [
     {
@@ -757,7 +760,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-19T18:35:00Z",
-    "note": "Owner approved #44 (update 756023621). Published #43 (channel msg 46). Sent draft #45 (launch-day glitches). Pending: #31, #41, #45; approved: #44."
+    "at": "2026-11-19T19:33:30Z",
+    "note": "No new updates. Published #44 (channel msg 47). Pending: #31, #41, #45 (3) — no new draft."
   }
 }
