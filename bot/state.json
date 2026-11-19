@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023617,
   "last_published_at": "2026-11-19T13:33:21Z",
-  "next_draft_number": 40,
+  "next_draft_number": 41,
   "drafts": [
     {
       "number": 3,
@@ -598,6 +598,21 @@
       "photo_file_id": "AgACAgQAAxkDAANPav7uJBh2eJmY_yceV5pJo0eXP8wAAh8RaxvDLP1TsbrH8Uf0EkYBAAMCAAN5AAM9BA",
       "caption": "🎮 <b>В GTA 6 есть 61 чит-код — но не сразу</b>\n\nЧиты вернулись, только Rockstar спрятала их за финалом: пункт «Читы» появляется в меню «Прогресс» после прохождения сюжета Джейсона и Люсии.\n\n📱 Ввод: открыть телефон (↑ на крестовине), зажать L1+R1 (LB+RB) и набрать комбинацию\n💵 Пример: $250 000 — ↑ → ↓ ← ↑ ← ↓ →\n🔒 Каждый чит ещё надо «заработать»: танк Rhino — за все испытания на выживание, бронежилет — за 100 тренировок\n⚠️ С активным читом до конца сессии нельзя сохраняться, трофеи и ачивки отключаются\n\nСписок собрали PowerPyx и Insider Gaming, у части кодов комбинации пока не известны. Официального списка Rockstar не публиковала.\n\n#GTA6 #гайды #секреты",
       "approved_update_id": 756023617
+    },
+    {
+      "number": 40,
+      "status": "pending",
+      "topic": "console-performance-digital-foundry",
+      "message_id": 82,
+      "media": "posts/2026-11-19-console-performance-df.png",
+      "media_type": "photo",
+      "created_at": "2026-11-19T13:36:10Z",
+      "source": "https://www.videogameschronicle.com/news/gta-6-base-ps5-performance-analysis-shows-struggle-to-maintain-30-fps-at-all-times/",
+      "source_alt": "https://www.gtaboom.com/digital-foundry-finds-that-gta-6-indeed-runs-best-on-ps5-pro-b72f",
+      "note": "Resolutions/Series X/S numbers via GTABoom citing DF; VGC confirms PS5 Pro ~24 dip and base PS5 dips",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@9cb1470/posts/2026-11-19-console-performance-df.png",
+      "photo_file_id": "AgACAgQAAxkDAANSav77SqKdQw9OWkEBNispuqrbBs8AAhoRaxuRa_xTsgMcak6c6WQBAAMCAAN5AAM9BA",
+      "caption": "⚙️ <b>Где GTA 6 идёт лучше всего</b>\n\nDigital Foundry сравнили все консольные версии: везде цель — 30 fps, режима 60 fps нет ни на одной.\n\n🥇 PS5 Pro — 1440p с апскейлом PSSR почти до 4K, почти стабильные 30 fps (до ~24 только в стресс-тестах) и эксклюзивные трассированные тени\n🥈 PS5 и Xbox Series X — 1440p, в тяжёлых сценах проседают: PS5 до высоких 20-х, Series X до ~20–22 fps (на ТВ со 120 Гц выручает VRR)\n🥉 Series S — около 720p с FSR 4 до ~1080p, часто ниже 30 fps, в жарких перестрелках до ~20\n\nВ DF надеются, что Series S подтянут патчами. А ты на чём играешь?\n\n#GTA6 #новости"
     }
   ],
   "published_topics": [
@@ -651,7 +666,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-19T12:41:00Z",
-    "note": "No new updates. Published #37 (channel msg 41). Sent draft #39 (61 cheats after story). Pending: #31, #38, #39."
+    "at": "2026-11-19T13:37:00Z",
+    "note": "Owner approved #38 and #39. Published #38 (channel msg 42). #39 approved, waiting for interval. Sent draft #40 (console performance DF). Pending: #31, #40."
   }
 }
