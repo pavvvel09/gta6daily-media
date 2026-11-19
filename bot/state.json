@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023612,
-  "last_published_at": "2026-11-19T08:32:16Z",
+  "last_update_id": 756023613,
+  "last_published_at": "2026-11-19T09:32:48Z",
   "next_draft_number": 36,
   "drafts": [
     {
@@ -517,7 +517,7 @@
     },
     {
       "number": 35,
-      "status": "pending",
+      "status": "published",
       "topic": "sensor-tower-17m-copies-1-65b",
       "message_id": 72,
       "media": "posts/2026-11-19-sales-17m-copies.png",
@@ -528,7 +528,10 @@
       "note": "Sensor Tower estimate as of Nov 18; TTWO +6% close $216.61 Nov 18; Sony ~+3% Tokyo Nov 19; PS ~3/4 per industry estimates",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@089639a/posts/2026-11-19-sales-17m-copies.png",
       "photo_file_id": "AgACAgQAAxkDAANIav61t6_ZU0jm6C24NHwoio57uvQAAnQQaxvZKP1T0y07WmdppHgBAAMCAAN5AAM9BA",
-      "caption": "💰 <b>GTA 6 продалась тиражом ~17 млн копий</b>\n\nПо оценке аналитиков Sensor Tower, ещё до старта в США игра разошлась примерно 17 млн копий и принесла больше $1,65 млрд.\n\n🎮 Около трёх четвертей продаж — на PlayStation\n📈 Акции Take-Two выросли больше чем на 6%, Sony в Токио — почти на 3%\n🕹 Для сравнения: GTA 5 в 2013-м заработала за первые сутки около $800 млн\n\nОфициальных цифр Rockstar и Take-Two пока нет — это оценка аналитиков.\n\n#GTA6 #новости"
+      "caption": "💰 <b>GTA 6 продалась тиражом ~17 млн копий</b>\n\nПо оценке аналитиков Sensor Tower, ещё до старта в США игра разошлась примерно 17 млн копий и принесла больше $1,65 млрд.\n\n🎮 Около трёх четвертей продаж — на PlayStation\n📈 Акции Take-Two выросли больше чем на 6%, Sony в Токио — почти на 3%\n🕹 Для сравнения: GTA 5 в 2013-м заработала за первые сутки около $800 млн\n\nОфициальных цифр Rockstar и Take-Two пока нет — это оценка аналитиков.\n\n#GTA6 #новости",
+      "approved_update_id": 756023613,
+      "channel_message_id": 39,
+      "published_at": "2026-11-19T09:32:48Z"
     }
   ],
   "published_topics": [
@@ -562,7 +565,8 @@
     "critics-cons-30fps-no-mission-replay",
     "first-hours-funny-clips-cat-dog-jetski",
     "skunk-ape-bigfoot-easter-egg",
-    "dexter-apartment-vice-city-easter-egg"
+    "dexter-apartment-vice-city-easter-egg",
+    "sensor-tower-17m-copies-1-65b"
   ],
   "owner_feedback": [
     {
@@ -578,7 +582,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-19T08:40:00Z",
-    "note": "owner approved #34 (update 756023612); published #34 to channel (msg 38); sent draft #35 (17M sales)"
+    "at": "2026-11-19T09:32:48Z",
+    "note": "owner approved #35 (update 756023613); published #35 to channel (msg 39)"
   }
 }
