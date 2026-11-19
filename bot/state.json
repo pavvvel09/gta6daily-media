@@ -1,6 +1,6 @@
 {
   "last_update_id": 756023610,
-  "last_published_at": "2026-11-19T00:33:21Z",
+  "last_published_at": "2026-11-19T01:33:53Z",
   "next_draft_number": 33,
   "drafts": [
     {
@@ -468,7 +468,7 @@
     },
     {
       "number": 32,
-      "status": "approved",
+      "status": "published",
       "topic": "first-hours-funny-clips-cat-dog-jetski",
       "message_id": 66,
       "media": "posts/2026-11-19-first-clips-funny.png",
@@ -479,7 +479,9 @@
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@f49b8c1/posts/2026-11-19-first-clips-funny.png",
       "photo_file_id": "AgACAgQAAxkDAANCav42HyKgUNKbtoaiRSTZCxv5PnYAAv0QaxvPOfVTBAoC7tI1GrgBAAMCAAN5AAM9BA",
       "caption": "🐶 <b>Что творят игроки в первые часы GTA 6</b>\n\nИгра открывается по миру, а соцсети уже завалены клипами. Самое смешное:\n\n🐈 Угнал машину с котом внутри — кот исцарапал вора и выкинул его в окно.\n🚤 Застрял в море — на помощь приплывает пёс в очках на гидроцикле и может отвезти на «Собачий остров».\n🎨 Перекраска спальни в доме Джейсона поднимает отношения с Люсией. Стример <a href=\"https://www.twitch.tv/stableronaldo\">Stable Ronaldo</a> красил стены 40 минут — и начал заново из-за цвета.\n🕹 В сейфхаусе есть своя консоль JoySystem с мини-играми на телевизоре.\n\nА ты что сделаешь первым делом?\n\n#GTA6 #пасхалки #стримеры",
-      "approved_update_id": 756023610
+      "approved_update_id": 756023610,
+      "published_at": "2026-11-19T01:33:53Z",
+      "channel_message_id": 36
     }
   ],
   "published_topics": [
@@ -510,7 +512,8 @@
     "pc-version-q1-2027-gamesbeat-rumor",
     "metacritic-99-tied-ocarina-record",
     "free-codes-twitch-drops-kick-10k",
-    "critics-cons-30fps-no-mission-replay"
+    "critics-cons-30fps-no-mission-replay",
+    "first-hours-funny-clips-cat-dog-jetski"
   ],
   "owner_feedback": [
     {
@@ -526,7 +529,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-19T00:34:00Z",
-    "note": "Owner approved #32. Published #30 (channel msg 35, silent, quiet hours). #32 approved, queued. #31 pending. Quiet hours 01-07 Warsaw: no new draft."
+    "at": "2026-11-19T01:33:53Z",
+    "note": "No new updates. Published #32 (channel msg 36, silent, quiet hours). #31 pending. Quiet hours 01-07 Warsaw: no new draft."
   }
 }
