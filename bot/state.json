@@ -1,7 +1,7 @@
 {
-  "last_update_id": 756023622,
-  "last_published_at": "2026-11-19T22:32:04Z",
-  "next_draft_number": 47,
+  "last_update_id": 756023623,
+  "last_published_at": "2026-11-19T23:32:33Z",
+  "next_draft_number": 48,
   "drafts": [
     {
       "number": 3,
@@ -709,7 +709,7 @@
     },
     {
       "number": 46,
-      "status": "pending",
+      "status": "published",
       "topic": "gym-workouts-return-dualsense",
       "message_id": 93,
       "media": "posts/2026-11-19-gym-returns.png",
@@ -719,7 +719,26 @@
       "note": "Engadget hands-on (Hardawar/Smith, 11:52-12:00 EST): weights/kettlebells/punching bag in Jason's house, DualSense triggers, gains visible",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@b3184ee/posts/2026-11-19-gym-returns.png",
       "photo_file_id": "AgACAgQAAxkDAANdav95apbV_jodcaNRT1gjZXgx2mYAAjMRaxvGrQVQpsirRC6LOxgBAAMCAAN5AAM9BA",
-      "caption": "🏋️ <b>В GTA 6 вернулась качалка — как в San Andreas</b>\n\nВ доме Джейсона есть свой зал: гири, штанга и боксёрская груша.\n\n💪 Жим лёжа и становая — на триггерах DualSense с вибрацией, а на последних повторах приходится жать X всё чаще.\n📈 Прогресс не только в цифрах: по словам журналистов Engadget, после тренировок меняется фигура героя.\n\nCJ бы одобрил. Уже качаешь Джейсона? 👇\n\n#GTA6 #секреты #факты"
+      "caption": "🏋️ <b>В GTA 6 вернулась качалка — как в San Andreas</b>\n\nВ доме Джейсона есть свой зал: гири, штанга и боксёрская груша.\n\n💪 Жим лёжа и становая — на триггерах DualSense с вибрацией, а на последних повторах приходится жать X всё чаще.\n📈 Прогресс не только в цифрах: по словам журналистов Engadget, после тренировок меняется фигура героя.\n\nCJ бы одобрил. Уже качаешь Джейсона? 👇\n\n#GTA6 #секреты #факты",
+      "approved_at": "2026-11-19T23:16:28Z",
+      "approval_update_id": 756023623,
+      "channel_message_id": 49,
+      "published_at": "2026-11-19T23:32:33Z"
+    },
+    {
+      "number": 47,
+      "status": "pending",
+      "topic": "paul-walker-eclipse-easter-egg",
+      "message_id": 95,
+      "media": "posts/2026-11-20-paul-walker-eclipse.png",
+      "media_type": "photo",
+      "created_at": "2026-11-19T23:33:36Z",
+      "source": "https://www.bgr.com/2322463/gta-6-hidden-fast-and-furious-paul-walker-car/",
+      "source_alt": "https://www.vice.com/en/article/gta-6-paul-walker-mitsubishi-eclipse-location/",
+      "note": "BGR Nov 19 21:46Z citing Vice; garage near white house, center of Vespucci Island; no Rockstar confirmation",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@f214749/posts/2026-11-20-paul-walker-eclipse.png",
+      "photo_file_id": "AgACAgQAAxkDAANfav-HUCAH53ANUVxrMmvnStV9m5cAAtoRaxvovfxTNGVwIk9pMr0BAAMCAAN5AAM9BA",
+      "caption": "🏎️ <b>В GTA 6 нашли машину Пола Уокера</b>\n\nВ игре спрятана зелёная Mitsubishi Eclipse — та самая, на которой Брайан О’Коннер гонял в первом «Форсаже» (2001).\n\n📍 Где: гараж у белого дома в центре острова Веспуччи. Гараж нужно вскрыть — после этого машину можно забрать и прокатиться.\n🕊 Фанаты считают её тихой данью памяти актёру. Rockstar пасхалку официально не комментировала.\n\nИнфо — BGR и Vice. Уже нашёл? 👇\n\n#GTA6 #пасхалки #секреты"
     }
   ],
   "published_topics": [
@@ -763,7 +782,8 @@
     "psn-outage-launch-day",
     "unused-map-areas-casinos-zoo-future",
     "sam-houser-launch-statement",
-    "launch-day-glitches-viral"
+    "launch-day-glitches-viral",
+    "gym-workouts-return-dualsense"
   ],
   "owner_feedback": [
     {
@@ -779,7 +799,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-19T22:35:00Z",
-    "summary": "#45 approved & published (ch msg 48); draft #46 gym sent; pending 31,41,46"
+    "at": "2026-11-19T23:34:00Z",
+    "summary": "#46 approved & published (ch msg 49); draft #47 Paul Walker Eclipse sent; pending 31,41,47"
   }
 }
