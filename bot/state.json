@@ -1,7 +1,7 @@
 {
-  "last_update_id": 756023634,
+  "last_update_id": 756023635,
   "last_published_at": "2026-11-20T17:39:14Z",
-  "next_draft_number": 59,
+  "next_draft_number": 60,
   "drafts": [
     {
       "number": 3,
@@ -931,7 +931,7 @@
     },
     {
       "number": "58",
-      "status": "pending",
+      "status": "approved",
       "topic": "giant-mutant-crab-e3-2006-genji",
       "message_id": "117",
       "media": "posts/2026-11-20-giant-crab-e3.png",
@@ -942,7 +942,24 @@
       "note": "Kotaku live blog Nov 19 entry citing @xGarbett (Gullet Marsh); Overdrive Nov 18 clip via @ChumBucketDrama/GatorKeys stream; trigger unknown",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@130b0bc/posts/2026-11-20-giant-crab-e3.png",
       "photo_file_id": "AgACAgQAAxkDAAN1awABhLT7lD-MMMboU4LxUAtFKlmdAAJVEWsbttEEUHZaBJjUwgZ-AQADAgADeQADPQQ",
-      "caption": "🦀 <b>В GTA 6 нашли гигантского краба из мема E3</b>\n\nИгроки наткнулись на редкую сцену: Джейсон заходит в заброшенный дом на болотах Gullet Marsh, а с потолочных балок на него прыгает краб размером с человека.\n\n🎮 Это отсылка к легендарному мему с E3 2006 — на презентации Genji 2 Sony с серьёзным лицом рассказывала про «историческую достоверность» и показала битву с гигантским крабом.\n\n❓ Что именно запускает сцену, пока неизвестно, Rockstar её не комментировала. Нашли — пишите в комментах.\n\nИсточник — Kotaku.\n\n#GTA6 #пасхалки"
+      "caption": "🦀 <b>В GTA 6 нашли гигантского краба из мема E3</b>\n\nИгроки наткнулись на редкую сцену: Джейсон заходит в заброшенный дом на болотах Gullet Marsh, а с потолочных балок на него прыгает краб размером с человека.\n\n🎮 Это отсылка к легендарному мему с E3 2006 — на презентации Genji 2 Sony с серьёзным лицом рассказывала про «историческую достоверность» и показала битву с гигантским крабом.\n\n❓ Что именно запускает сцену, пока неизвестно, Rockstar её не комментировала. Нашли — пишите в комментах.\n\nИсточник — Kotaku.\n\n#GTA6 #пасхалки",
+      "approved_at": "2026-11-20T18:29:14Z",
+      "approval_update_id": "756023635"
+    },
+    {
+      "number": "59",
+      "status": "pending",
+      "topic": "darts-cut-rob-nelson-vgc",
+      "message_id": "119",
+      "media": "posts/2026-11-20-darts-cut.png",
+      "media_type": "photo",
+      "created_at": "2026-11-20T18:39:05Z",
+      "source": "https://www.videogameschronicle.com/news/rockstar-explains-why-you-cant-play-darts-in-gta-6-we-dont-have-unlimited-time/",
+      "source_alt": "https://kotaku.com/live-updates-on-gta-6-the-biggest-launch-in-gaming-history-2000758030",
+      "note": "Kotaku live blog Nov 19 8:31 citing VGC interview with Rob Nelson; VGC page itself not fetched",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@16d91ca/posts/2026-11-20-darts-cut.png",
+      "photo_file_id": "AgACAgQAAxkDAAN3awABk8mPFsu1nws1iuoBetwcUh3CAAIfEWsbV1sMUO3K8UlhtI0qAQADAgADeQADPQQ",
+      "caption": "🎯 <b>Почему в GTA 6 нет дартса</b>\n\nВ GTA 5 можно было метать дротики в баре, а в Леониде такой мини-игры нет. Глава производства Rockstar Роб Нельсон объяснил это в интервью VGC.\n\n🎬 По его словам, студия оставляет только то, что работает на историю, а решение убрать дартс внутри команды было спорным.\n\n⏳ Главная причина — время: «у нас его не бесконечно много».\n\nКакую мини-игру вы бы вернули? Пишите в комментах.\n\nИсточник — VGC.\n\n#GTA6 #факты"
     }
   ],
   "published_topics": [
@@ -1014,7 +1031,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-20T17:40:00Z",
-    "summary": "#57 approved (upd 756023634) and published (channel msg 60); new draft #58 giant crab E3 easter egg; pending 31,41,58"
+    "at": "2026-11-20T18:40:00Z",
+    "summary": "#58 approved (upd 756023635), not published: only 53 min since last post (publish next run); new draft #59 darts cut; pending 31,41,59"
   }
 }
