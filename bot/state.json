@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023628,
   "last_published_at": "2026-11-20T11:33:30Z",
-  "next_draft_number": 52,
+  "next_draft_number": 53,
   "drafts": [
     {
       "number": 3,
@@ -817,6 +817,20 @@
       "approval_update_id": 756023628,
       "channel_message_id": 54,
       "published_at": "2026-11-20T11:33:30Z"
+    },
+    {
+      "number": 52,
+      "status": "pending",
+      "topic": "safe-codes-robbery-guide",
+      "message_id": 105,
+      "media": "posts/2026-11-20-safe-codes-guide.png",
+      "media_type": "photo",
+      "created_at": "2026-11-20T11:35:39Z",
+      "source": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-codes-combinations/",
+      "note": "PC Gamer Nov 18 18:00Z guide (Sean Martin); robbery codes randomized; no specific codes",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@2d5dee0/posts/2026-11-20-safe-codes-guide.png",
+      "photo_file_id": "AgACAgQAAxkDAANpawABMIuGlqVM9_ZQR9x2ly-FpcXOAAKpEGsbl1UMULNEdwwiu8ImAQADAgADeQADPQQ",
+      "caption": "🔐 <b>Как вскрыть сейф в GTA 6</b>\n\nВ сюжете коды от сейфов дают сами, а в ограблениях они каждый раз случайные. Узнать код можно двумя способами:\n\n1️⃣ Найти его на месте — записка на доске в подсобке или у вырубленного охранника. Помогает режим фокуса: L3 + R3.\n2️⃣ Допросить сотрудника — прицелься и выбери «Пригрозить». Заодно кассир может выгрести кассу.\n\nКод появится в правом нижнем углу, когда подойдёшь к сейфу. На карте заранее видно, есть ли в точке сейф, какая там охрана и сколько можно унести.\n\nСохраняй, пригодится 💰\n\n#GTA6 #гайды"
     }
   ],
   "published_topics": [
@@ -882,7 +896,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-20T10:35:00Z",
-    "summary": "#50 approved (upd 756023627) and published (channel msg 53); new draft #51 Mandy secret; pending 31,41,51"
+    "at": "2026-11-20T11:36:00Z",
+    "summary": "#51 approved (upd 756023628) and published (channel msg 54); new draft #52 safe codes guide; pending 31,41,52"
   }
 }
