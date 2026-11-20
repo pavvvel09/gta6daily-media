@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023623,
-  "last_published_at": "2026-11-19T23:32:33Z",
+  "last_update_id": 756023624,
+  "last_published_at": "2026-11-20T00:32:59Z",
   "next_draft_number": 48,
   "drafts": [
     {
@@ -727,7 +727,7 @@
     },
     {
       "number": 47,
-      "status": "pending",
+      "status": "published",
       "topic": "paul-walker-eclipse-easter-egg",
       "message_id": 95,
       "media": "posts/2026-11-20-paul-walker-eclipse.png",
@@ -738,7 +738,10 @@
       "note": "BGR Nov 19 21:46Z citing Vice; garage near white house, center of Vespucci Island; no Rockstar confirmation",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@f214749/posts/2026-11-20-paul-walker-eclipse.png",
       "photo_file_id": "AgACAgQAAxkDAANfav-HUCAH53ANUVxrMmvnStV9m5cAAtoRaxvovfxTNGVwIk9pMr0BAAMCAAN5AAM9BA",
-      "caption": "🏎️ <b>В GTA 6 нашли машину Пола Уокера</b>\n\nВ игре спрятана зелёная Mitsubishi Eclipse — та самая, на которой Брайан О’Коннер гонял в первом «Форсаже» (2001).\n\n📍 Где: гараж у белого дома в центре острова Веспуччи. Гараж нужно вскрыть — после этого машину можно забрать и прокатиться.\n🕊 Фанаты считают её тихой данью памяти актёру. Rockstar пасхалку официально не комментировала.\n\nИнфо — BGR и Vice. Уже нашёл? 👇\n\n#GTA6 #пасхалки #секреты"
+      "caption": "🏎️ <b>В GTA 6 нашли машину Пола Уокера</b>\n\nВ игре спрятана зелёная Mitsubishi Eclipse — та самая, на которой Брайан О’Коннер гонял в первом «Форсаже» (2001).\n\n📍 Где: гараж у белого дома в центре острова Веспуччи. Гараж нужно вскрыть — после этого машину можно забрать и прокатиться.\n🕊 Фанаты считают её тихой данью памяти актёру. Rockstar пасхалку официально не комментировала.\n\nИнфо — BGR и Vice. Уже нашёл? 👇\n\n#GTA6 #пасхалки #секреты",
+      "approved_at": "2026-11-19T23:39:24Z",
+      "channel_message_id": 50,
+      "published_at": "2026-11-20T00:32:59Z"
     }
   ],
   "published_topics": [
@@ -783,7 +786,8 @@
     "unused-map-areas-casinos-zoo-future",
     "sam-houser-launch-statement",
     "launch-day-glitches-viral",
-    "gym-workouts-return-dualsense"
+    "gym-workouts-return-dualsense",
+    "paul-walker-eclipse-easter-egg"
   ],
   "owner_feedback": [
     {
@@ -799,7 +803,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-19T23:34:00Z",
-    "summary": "#46 approved & published (ch msg 49); draft #47 Paul Walker Eclipse sent; pending 31,41,47"
+    "at": "2026-11-20T00:33:04Z",
+    "summary": "#47 approved & published silently (ch msg 50, quiet hours); no new draft (01:00-07:00 Warsaw); pending 31,41"
   }
 }
