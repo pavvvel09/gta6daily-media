@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023627,
-  "last_published_at": "2026-11-20T10:33:03Z",
+  "last_update_id": 756023628,
+  "last_published_at": "2026-11-20T11:33:30Z",
   "next_draft_number": 52,
   "drafts": [
     {
@@ -802,7 +802,7 @@
     },
     {
       "number": 51,
-      "status": "pending",
+      "status": "published",
       "topic": "mandy-serial-killer-theory-pipework",
       "message_id": 103,
       "media": "posts/2026-11-20-mandy-secret.png",
@@ -812,7 +812,11 @@
       "note": "UNILAD Nov 19 15:36 GMT; clues from player finds; serial-killer theory unconfirmed, no Rockstar comment",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@ae91dde/posts/2026-11-20-mandy-secret.png",
       "photo_file_id": "AgACAgQAAxkDAANnawABIj9GoAABnvjZ01XwRGbVxHx8XQACohBrG1SBBFBFwYJynbpxtAEAAwIAA3kAAz0E",
-      "caption": "🔪 <b>⚠️ СПОЙЛЕР: что прячет Мэнди в GTA 6?</b>\n\nВ миссии «Pipework» из первой главы Джейсон собирает аренду в Леонида-Кис и встречает Мэнди — она флиртует, он отказывает. Вроде проходной персонаж.\n\n🔎 Но игроки присмотрелись к её дому и машине: <tg-spoiler>в раковине — человеческий палец, у дома — канистры с кислотой и пилы рядом со свежей могилой, а в багажнике — верёвка, тесак, скотч и ещё кислота.</tg-spoiler>\n\nФанаты уверены: Мэнди — серийная убийца. Rockstar это не подтверждала, так что пока это теория игроков.\n\nВы заметили эти детали? 👀\n\n#GTA6 #секреты"
+      "caption": "🔪 <b>⚠️ СПОЙЛЕР: что прячет Мэнди в GTA 6?</b>\n\nВ миссии «Pipework» из первой главы Джейсон собирает аренду в Леонида-Кис и встречает Мэнди — она флиртует, он отказывает. Вроде проходной персонаж.\n\n🔎 Но игроки присмотрелись к её дому и машине: <tg-spoiler>в раковине — человеческий палец, у дома — канистры с кислотой и пилы рядом со свежей могилой, а в багажнике — верёвка, тесак, скотч и ещё кислота.</tg-spoiler>\n\nФанаты уверены: Мэнди — серийная убийца. Rockstar это не подтверждала, так что пока это теория игроков.\n\nВы заметили эти детали? 👀\n\n#GTA6 #секреты",
+      "approved_at": "2026-11-20T11:04:33Z",
+      "approval_update_id": 756023628,
+      "channel_message_id": 54,
+      "published_at": "2026-11-20T11:33:30Z"
     }
   ],
   "published_topics": [
@@ -861,7 +865,8 @@
     "paul-walker-eclipse-easter-egg",
     "day-one-sales-24-6m-2-36b",
     "first-person-mode-glitch",
-    "michael-marquis-boat-los-santos-gps"
+    "michael-marquis-boat-los-santos-gps",
+    "mandy-serial-killer-theory-pipework"
   ],
   "owner_feedback": [
     {
