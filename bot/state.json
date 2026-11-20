@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023631,
   "last_published_at": "2026-11-20T14:34:44Z",
-  "next_draft_number": 55,
+  "next_draft_number": 56,
   "drafts": [
     {
       "number": 3,
@@ -872,6 +872,21 @@
       "approval_update_id": 756023631,
       "channel_message_id": 57,
       "published_at": "2026-11-20T14:34:44Z"
+    },
+    {
+      "number": 55,
+      "status": "pending",
+      "topic": "japan-version-censored-nudity-blood",
+      "message_id": 111,
+      "media": "posts/2026-11-20-japan-censored.png",
+      "media_type": "photo",
+      "created_at": "2026-11-20T14:41:34Z",
+      "source": "https://kotaku.com/gta-6-japan-censored-showers-nudity-blood-violence-rockstar-2000758211",
+      "source_alt": "https://criticalhits.com.br/games/versao-japonesa-de-gta-6-cobre-nudez-masculina-com-tanga/",
+      "note": "Kotaku Nov 19 11:00Z (Alicia Haddick); comparisons by @madara3_game_ch on X; no Rockstar comment",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@972bf3e/posts/2026-11-20-japan-censored.png",
+      "photo_file_id": "AgACAgQAAxkDAANvawABXB6vehqpxSFW-OPl9UN2GwiSAAK5EGsbz8gFUBb-abjGgE5EAQADAgADeQADPQQ",
+      "caption": "🇯🇵 <b>В Японии GTA 6 вышла с цензурой</b>\n\nЯпонские игроки сравнили свою версию с мировой и нашли много отличий. Ещё на предзагрузке она весила примерно на 1 ГБ меньше — теперь ясно, что пропало.\n\n🚿 Нагота убрана полностью: в сцене в душе Джейсон стоит в белье, в постельных и пляжных сценах персонажам дорисовали одежду, а часть сцен вырезали.\n\n🩸 Крови меньше, и исчезает она быстрее.\n\n🗣 Из языков — только английская озвучка с английскими и японскими субтитрами. При этом стрип-клубы и наркотики на месте.\n\nRockstar изменения пока не комментировала. Источник — Kotaku.\n\n#GTA6 #новости"
     }
   ],
   "published_topics": [
@@ -940,7 +955,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-20T13:37:00Z",
-    "summary": "#53 approved (upd 756023630) and published (channel msg 56); new draft #54 GTA VI Festival Miami; pending 31,41,54"
+    "at": "2026-11-20T14:42:00Z",
+    "summary": "#54 approved (upd 756023631) and published (channel msg 57); new draft #55 Japan censorship; pending 31,41,55"
   }
 }
