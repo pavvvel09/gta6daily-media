@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023638,
   "last_published_at": "2026-11-20T22:33:49Z",
-  "next_draft_number": 62,
+  "next_draft_number": 63,
   "drafts": [
     {
       "number": 3,
@@ -1003,6 +1003,21 @@
       "approval_update_id": "756023638",
       "channel_message_id": "64",
       "published_at": "2026-11-20T22:33:49Z"
+    },
+    {
+      "number": "62",
+      "status": "pending",
+      "topic": "red-dead-book-flaco-hernandez-brian-marina",
+      "message_id": "125",
+      "media": "posts/2026-11-20-red-dead-book.png",
+      "media_type": "photo",
+      "created_at": "2026-11-20T22:41:47Z",
+      "source": "https://www.thegamer.com/gta-6-red-dead-redemption-easter-eggs/",
+      "source_alt": "https://vgtimes.com/gaming-news/175229-gta-6s-red-dead-book-recounts-arthur-morgans-encounter-with-flaco-hernandez.html",
+      "note": "TheGamer Nov 20 09:30Z (James Lucas) citing GameRoll on X; VGTimes headline only (page not fetched); New Austin plates & Arthur hat yard sale per TheGamer",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@cc34baf/posts/2026-11-20-red-dead-book.png",
+      "photo_file_id": "AgACAgQAAxkDAAN9awABzKuoiNAm3cPJu_97aQABfRjsEgACixBrG3OJDVCWMTl88ubXFAEAAwIAA3kAAz0E",
+      "caption": "🤠 <b>В GTA 6 нашли книгу о мире Red Dead</b>\n\nВ марине Брайана лежит книга-вестерн, и фанаты RDR2 её узнали: там описана смерть бандита Флако Эрнандеса — одного из стрелков, которых Артур Морган выслеживает в побочном задании.\n\n📖 Герой книги находит Флако мёртвым в снегу у озера Кейрн-Лейк — ровно там, где его убивает Артур. Ещё в тексте упоминаются Блэкуотер, Армадилло, Нью-Остин и Амбарино.\n\n🔎 Находку заметил блогер GameRoll. А в Леониде заодно встречаются номера Нью-Остина и шляпа Артура на гаражной распродаже.\n\nGTA и Red Dead — одна вселенная? Пишите в комментах.\n\nИсточники — TheGamer, VGTimes.\n\n#GTA6 #пасхалки"
     }
   ],
   "published_topics": [
@@ -1078,7 +1093,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-20T22:34:00Z",
-    "summary": "#61 approved (update 756023638) and published (channel msg 64)"
+    "at": "2026-11-20T22:42:00Z",
+    "summary": "#61 approved (update 756023638) and published (channel msg 64); draft #62 Red Dead book sent (msg 125); pending 31,41,62"
   }
 }
