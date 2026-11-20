@@ -1,6 +1,6 @@
 {
   "last_update_id": 756023635,
-  "last_published_at": "2026-11-20T17:39:14Z",
+  "last_published_at": "2026-11-20T19:32:43Z",
   "next_draft_number": 60,
   "drafts": [
     {
@@ -931,7 +931,7 @@
     },
     {
       "number": "58",
-      "status": "approved",
+      "status": "published",
       "topic": "giant-mutant-crab-e3-2006-genji",
       "message_id": "117",
       "media": "posts/2026-11-20-giant-crab-e3.png",
@@ -944,7 +944,9 @@
       "photo_file_id": "AgACAgQAAxkDAAN1awABhLT7lD-MMMboU4LxUAtFKlmdAAJVEWsbttEEUHZaBJjUwgZ-AQADAgADeQADPQQ",
       "caption": "🦀 <b>В GTA 6 нашли гигантского краба из мема E3</b>\n\nИгроки наткнулись на редкую сцену: Джейсон заходит в заброшенный дом на болотах Gullet Marsh, а с потолочных балок на него прыгает краб размером с человека.\n\n🎮 Это отсылка к легендарному мему с E3 2006 — на презентации Genji 2 Sony с серьёзным лицом рассказывала про «историческую достоверность» и показала битву с гигантским крабом.\n\n❓ Что именно запускает сцену, пока неизвестно, Rockstar её не комментировала. Нашли — пишите в комментах.\n\nИсточник — Kotaku.\n\n#GTA6 #пасхалки",
       "approved_at": "2026-11-20T18:29:14Z",
-      "approval_update_id": "756023635"
+      "approval_update_id": "756023635",
+      "channel_message_id": "61",
+      "published_at": "2026-11-20T19:32:43Z"
     },
     {
       "number": "59",
@@ -1015,7 +1017,8 @@
     "gta6-festival-miami-nov21",
     "japan-version-censored-nudity-blood",
     "no-sex-workers-rockstar-explains",
-    "download-traffic-record-33tbps-decix"
+    "download-traffic-record-33tbps-decix",
+    "giant-mutant-crab-e3-2006-genji"
   ],
   "owner_feedback": [
     {
@@ -1031,7 +1034,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-20T18:40:00Z",
-    "summary": "#58 approved (upd 756023635), not published: only 53 min since last post (publish next run); new draft #59 darts cut; pending 31,41,59"
+    "at": "2026-11-20T19:32:43Z",
+    "summary": "no new updates; published #58 giant crab (channel msg 61); pending 31,41,59 (=3), no new draft"
   }
 }
