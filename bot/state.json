@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023630,
-  "last_published_at": "2026-11-20T13:34:22Z",
+  "last_update_id": 756023631,
+  "last_published_at": "2026-11-20T14:34:44Z",
   "next_draft_number": 55,
   "drafts": [
     {
@@ -856,7 +856,7 @@
     },
     {
       "number": 54,
-      "status": "pending",
+      "status": "published",
       "topic": "gta6-festival-miami-nov21",
       "message_id": 109,
       "media": "posts/2026-11-20-gta6-festival-miami.png",
@@ -867,7 +867,11 @@
       "note": "Rockstar page: Nov 21, Mana Wynwood Miami, presented with PlayStation, lottery closed, waitlist, 17+; no set times or livestream stated. If published after Nov 21, rewrite \"завтра\".",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@3574c2c/posts/2026-11-20-gta6-festival-miami.png",
       "photo_file_id": "AgACAgQAAxkDAANtawABTNK1K7ETWcJd0p1smifIskRKAALuEGsb40IEUDNHUEqomZTcAQADAgADeQADPQQ",
-      "caption": "🎤 <b>Фестиваль GTA 6 — уже завтра в Майами</b>\n\nRockstar и PlayStation 21 ноября проводят GTA VI: The Festival на площадке Mana Wynwood. На сцене — артисты из игры и официального саундтрека.\n\n🔥 Хедлайнеры: Travis Scott и Cardi B. Также Metro Boomin, Kodak Black, Don Toliver, Justice, Tainy и другие.\n\n🎟 Билеты разыгрывали по лотерее, сейчас открыт только лист ожидания. Вход 17+.\n\nПро трансляцию Rockstar пока ничего не говорила — если появится, сообщим 👀\n\n#GTA6 #новости"
+      "caption": "🎤 <b>Фестиваль GTA 6 — уже завтра в Майами</b>\n\nRockstar и PlayStation 21 ноября проводят GTA VI: The Festival на площадке Mana Wynwood. На сцене — артисты из игры и официального саундтрека.\n\n🔥 Хедлайнеры: Travis Scott и Cardi B. Также Metro Boomin, Kodak Black, Don Toliver, Justice, Tainy и другие.\n\n🎟 Билеты разыгрывали по лотерее, сейчас открыт только лист ожидания. Вход 17+.\n\nПро трансляцию Rockstar пока ничего не говорила — если появится, сообщим 👀\n\n#GTA6 #новости",
+      "approved_at": "2026-11-20T13:52:08Z",
+      "approval_update_id": 756023631,
+      "channel_message_id": 57,
+      "published_at": "2026-11-20T14:34:44Z"
     }
   ],
   "published_topics": [
@@ -919,7 +923,8 @@
     "michael-marquis-boat-los-santos-gps",
     "mandy-serial-killer-theory-pipework",
     "safe-codes-robbery-guide",
-    "weird-al-vice-city-fm-dj"
+    "weird-al-vice-city-fm-dj",
+    "gta6-festival-miami-nov21"
   ],
   "owner_feedback": [
     {
