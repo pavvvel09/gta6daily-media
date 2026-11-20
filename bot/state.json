@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023627,
   "last_published_at": "2026-11-20T10:33:03Z",
-  "next_draft_number": 51,
+  "next_draft_number": 52,
   "drafts": [
     {
       "number": 3,
@@ -799,6 +799,20 @@
       "approval_update_id": "756023627",
       "channel_message_id": "53",
       "published_at": "2026-11-20T10:33:03Z"
+    },
+    {
+      "number": 51,
+      "status": "pending",
+      "topic": "mandy-serial-killer-theory-pipework",
+      "message_id": 103,
+      "media": "posts/2026-11-20-mandy-secret.png",
+      "media_type": "photo",
+      "created_at": "2026-11-20T10:34:39Z",
+      "source": "https://www.unilad.com/technology/gta-6-mandy-subplot-explained-400001-20261119",
+      "note": "UNILAD Nov 19 15:36 GMT; clues from player finds; serial-killer theory unconfirmed, no Rockstar comment",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@ae91dde/posts/2026-11-20-mandy-secret.png",
+      "photo_file_id": "AgACAgQAAxkDAANnawABIj9GoAABnvjZ01XwRGbVxHx8XQACohBrG1SBBFBFwYJynbpxtAEAAwIAA3kAAz0E",
+      "caption": "🔪 <b>⚠️ СПОЙЛЕР: что прячет Мэнди в GTA 6?</b>\n\nВ миссии «Pipework» из первой главы Джейсон собирает аренду в Леонида-Кис и встречает Мэнди — она флиртует, он отказывает. Вроде проходной персонаж.\n\n🔎 Но игроки присмотрелись к её дому и машине: <tg-spoiler>в раковине — человеческий палец, у дома — канистры с кислотой и пилы рядом со свежей могилой, а в багажнике — верёвка, тесак, скотч и ещё кислота.</tg-spoiler>\n\nФанаты уверены: Мэнди — серийная убийца. Rockstar это не подтверждала, так что пока это теория игроков.\n\nВы заметили эти детали? 👀\n\n#GTA6 #секреты"
     }
   ],
   "published_topics": [
@@ -863,7 +877,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-20T10:33:30Z",
-    "summary": "#50 approved (upd 756023627) and published (channel msg 53); pending 31,41"
+    "at": "2026-11-20T10:35:00Z",
+    "summary": "#50 approved (upd 756023627) and published (channel msg 53); new draft #51 Mandy secret; pending 31,41,51"
   }
 }
