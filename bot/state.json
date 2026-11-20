@@ -1,7 +1,7 @@
 {
-  "last_update_id": 756023629,
-  "last_published_at": "2026-11-20T12:33:56Z",
-  "next_draft_number": 54,
+  "last_update_id": 756023630,
+  "last_published_at": "2026-11-20T13:34:22Z",
+  "next_draft_number": 55,
   "drafts": [
     {
       "number": 3,
@@ -838,7 +838,7 @@
     },
     {
       "number": 53,
-      "status": "pending",
+      "status": "published",
       "topic": "weird-al-vice-city-fm-dj",
       "message_id": 107,
       "media": "posts/2026-11-20-weird-al-vice-city-fm.png",
@@ -848,7 +848,26 @@
       "note": "Kotaku Nov 18 22:00Z (Zack Zwiezen), confirmed with Rockstar; one of two Vice City FM hosts; no parodies in game",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@0b1a6c3/posts/2026-11-20-weird-al-vice-city-fm.png",
       "photo_file_id": "AgACAgQAAxkDAANrawABP9jI9rf0T5ZAUuv59vuyXyBGAALVEGsbHH0FUFyzW7HenVscAQADAgADeQADPQQ",
-      "caption": "📻 <b>Weird Al ведёт радио в GTA 6</b>\n\nЕсли на Vice City FM кто-то внезапно орёт про песню или про «прошлую жизнь» — это не баг. Один из диджеев станции хитов 80-х — сам «Странный Эл» Янкович, король музыкальных пародий.\n\nKotaku услышали его голос за рулём и подтвердили участие у Rockstar. Ещё до релиза Эл намекал в соцсетях на «какую-то большую игру».\n\nСвоих пародий в эфире, увы, нет — только ретро-хиты и его безумные подводки.\n\nУже ловил его в машине? 🚗\n\n#GTA6 #пасхалки"
+      "caption": "📻 <b>Weird Al ведёт радио в GTA 6</b>\n\nЕсли на Vice City FM кто-то внезапно орёт про песню или про «прошлую жизнь» — это не баг. Один из диджеев станции хитов 80-х — сам «Странный Эл» Янкович, король музыкальных пародий.\n\nKotaku услышали его голос за рулём и подтвердили участие у Rockstar. Ещё до релиза Эл намекал в соцсетях на «какую-то большую игру».\n\nСвоих пародий в эфире, увы, нет — только ретро-хиты и его безумные подводки.\n\nУже ловил его в машине? 🚗\n\n#GTA6 #пасхалки",
+      "approved_at": "2026-11-20T12:41:26Z",
+      "approval_update_id": 756023630,
+      "channel_message_id": 56,
+      "published_at": "2026-11-20T13:34:22Z"
+    },
+    {
+      "number": 54,
+      "status": "pending",
+      "topic": "gta6-festival-miami-nov21",
+      "message_id": 109,
+      "media": "posts/2026-11-20-gta6-festival-miami.png",
+      "media_type": "photo",
+      "created_at": "2026-11-20T13:36:18Z",
+      "source": "https://www.rockstargames.com/VI/gtavi-thefestival",
+      "source_alt": "https://www.thefader.com/2026/11/09/gta-vi-festival-miami-lineup-tickets",
+      "note": "Rockstar page: Nov 21, Mana Wynwood Miami, presented with PlayStation, lottery closed, waitlist, 17+; no set times or livestream stated. If published after Nov 21, rewrite \"завтра\".",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@3574c2c/posts/2026-11-20-gta6-festival-miami.png",
+      "photo_file_id": "AgACAgQAAxkDAANtawABTNK1K7ETWcJd0p1smifIskRKAALuEGsb40IEUDNHUEqomZTcAQADAgADeQADPQQ",
+      "caption": "🎤 <b>Фестиваль GTA 6 — уже завтра в Майами</b>\n\nRockstar и PlayStation 21 ноября проводят GTA VI: The Festival на площадке Mana Wynwood. На сцене — артисты из игры и официального саундтрека.\n\n🔥 Хедлайнеры: Travis Scott и Cardi B. Также Metro Boomin, Kodak Black, Don Toliver, Justice, Tainy и другие.\n\n🎟 Билеты разыгрывали по лотерее, сейчас открыт только лист ожидания. Вход 17+.\n\nПро трансляцию Rockstar пока ничего не говорила — если появится, сообщим 👀\n\n#GTA6 #новости"
     }
   ],
   "published_topics": [
@@ -899,7 +918,8 @@
     "first-person-mode-glitch",
     "michael-marquis-boat-los-santos-gps",
     "mandy-serial-killer-theory-pipework",
-    "safe-codes-robbery-guide"
+    "safe-codes-robbery-guide",
+    "weird-al-vice-city-fm-dj"
   ],
   "owner_feedback": [
     {
@@ -915,7 +935,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-20T12:41:30Z",
-    "summary": "#52 approved (upd 756023629) and published (channel msg 55); new draft #53 Weird Al Vice City FM; pending 31,41,53"
+    "at": "2026-11-20T13:37:00Z",
+    "summary": "#53 approved (upd 756023630) and published (channel msg 56); new draft #54 GTA VI Festival Miami; pending 31,41,54"
   }
 }
