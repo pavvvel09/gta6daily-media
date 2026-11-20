@@ -1,7 +1,7 @@
 {
-  "last_update_id": 756023632,
-  "last_published_at": "2026-11-20T15:35:03Z",
-  "next_draft_number": 57,
+  "last_update_id": 756023633,
+  "last_published_at": "2026-11-20T16:38:49Z",
+  "next_draft_number": 58,
   "drafts": [
     {
       "number": 3,
@@ -894,7 +894,7 @@
     },
     {
       "number": 56,
-      "status": "pending",
+      "status": "published",
       "topic": "no-sex-workers-rockstar-explains",
       "message_id": 113,
       "media": "posts/2026-11-20-no-sex-workers.png",
@@ -905,7 +905,25 @@
       "note": "Kotaku Nov 18 22:30Z (Zack Zwiezen) citing Rockstar to Shacknews; strip clubs remain",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@cfae5e9/posts/2026-11-20-no-sex-workers.png",
       "photo_file_id": "AgACAgQAAxkDAANxawABaE5N0w1XLNXqkC62AobIF3OVAAIjEWsbRfMFUGvF6StlnXr3AQADAgADeQADPQQ",
-      "caption": "🚫 <b>В GTA 6 нет проституток — впервые с 2001</b>\n\nСо времён GTA III в каждой номерной части можно было «снять» девушку на улице. В GTA 6 этой механики нет вообще.\n\n🎙 Rockstar объяснила это в интервью Shacknews: игра — история пары в бегах, и в неё вошло только то, что работает на сюжет Джейсона и Люсии и на расширенные системы — розыск, радио, ограбления, угоны. Многого из прошлых частей, по словам студии, в GTA 6 просто нет.\n\n🔞 При этом стрип-клубы на месте, а Джейсон и Люсия могут уединиться дома.\n\nИсточник — Kotaku.\n\n#GTA6 #факты"
+      "caption": "🚫 <b>В GTA 6 нет проституток — впервые с 2001</b>\n\nСо времён GTA III в каждой номерной части можно было «снять» девушку на улице. В GTA 6 этой механики нет вообще.\n\n🎙 Rockstar объяснила это в интервью Shacknews: игра — история пары в бегах, и в неё вошло только то, что работает на сюжет Джейсона и Люсии и на расширенные системы — розыск, радио, ограбления, угоны. Многого из прошлых частей, по словам студии, в GTA 6 просто нет.\n\n🔞 При этом стрип-клубы на месте, а Джейсон и Люсия могут уединиться дома.\n\nИсточник — Kotaku.\n\n#GTA6 #факты",
+      "approved_at": "2026-11-20T15:34:09Z",
+      "approval_update_id": "756023633",
+      "channel_message_id": "59",
+      "published_at": "2026-11-20T16:38:49Z"
+    },
+    {
+      "number": "57",
+      "status": "pending",
+      "topic": "download-traffic-record-33tbps-decix",
+      "message_id": "115",
+      "media": "posts/2026-11-20-download-record-33tbps.png",
+      "media_type": "photo",
+      "created_at": "2026-11-20T16:40:04Z",
+      "source": "https://kotaku.com/gta-6-release-was-so-big-it-broke-internet-download-records-twice-in-one-week-2000758654",
+      "note": "Kotaku Nov 20 11:00Z (Alicia Haddick) citing DE-CIX press release and VodafoneZiggo",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@5f13d05/posts/2026-11-20-download-record-33tbps.png",
+      "photo_file_id": "AgACAgQAAxkDAANzawABd9pjn67yo42uAZEc1__RgiKyAAJDEWsbmPcFUOr-3g3JyzHnAQADAgADeQADPQQ",
+      "caption": "🌐 <b>GTA 6 сломала рекорд интернет-трафика</b>\n\nВ вечер перед релизом загрузки игры через узел DE-CIX разогнались до 33,03 Тбит/с — это примерно 13 копий GTA 6 в секунду.\n\n📦 Игра весит около 210 ГБ и выходит только в цифре, без диска. Прошлый рекорд она же поставила 10 ноября, когда открылась предзагрузка.\n\n📈 Голландский провайдер VodafoneZiggo тоже сообщил о самом большом пике загрузок за всю историю своей сети.\n\nИсточник — Kotaku.\n\n#GTA6 #новости"
     }
   ],
   "published_topics": [
@@ -959,7 +977,8 @@
     "safe-codes-robbery-guide",
     "weird-al-vice-city-fm-dj",
     "gta6-festival-miami-nov21",
-    "japan-version-censored-nudity-blood"
+    "japan-version-censored-nudity-blood",
+    "no-sex-workers-rockstar-explains"
   ],
   "owner_feedback": [
     {
@@ -975,7 +994,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-20T15:35:14Z",
-    "summary": "#55 approved (upd 756023632) and published (channel msg 58); new draft #56 no sex workers; pending 31,41,56"
+    "at": "2026-11-20T16:40:04Z",
+    "summary": "#56 approved (upd 756023633) and published (channel msg 59); new draft #57 download record 33 Tbps; pending 31,41,57"
   }
 }
