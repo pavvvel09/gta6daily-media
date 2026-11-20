@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023626,
   "last_published_at": "2026-11-20T09:32:31Z",
-  "next_draft_number": 50,
+  "next_draft_number": 51,
   "drafts": [
     {
       "number": 3,
@@ -780,6 +780,21 @@
       "approval_update_id": "756023626",
       "channel_message_id": "52",
       "published_at": "2026-11-20T09:32:31Z"
+    },
+    {
+      "number": 50,
+      "status": "pending",
+      "topic": "michael-marquis-boat-los-santos-gps",
+      "message_id": 101,
+      "media": "posts/2026-11-20-michael-boat-los-santos.png",
+      "media_type": "photo",
+      "created_at": "2026-11-20T09:34:16Z",
+      "source": "https://gamerant.com/grand-theft-auto-6-gta-5-easter-egg-michael-boat/",
+      "source_alt": "https://www.explosion.com/227189/gta-6-players-spot-major-gta-5-easter-egg/",
+      "note": "GameRant Nov 20: Marquis boat outside Jason safehouse, GPS shows Los Santos; no Rockstar comment; finder not named",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@e71ae12/posts/2026-11-20-michael-boat-los-santos.png",
+      "photo_file_id": "AgACAgQAAxkDAANlawABFBgdOPI8Qp8zvnJeSFhNpKVtAALHEGsbEwQFUA-mNM2zA0tlAQADAgADeQADPQQ",
+      "caption": "🛥 <b>В GTA 6 нашли яхту Майкла из GTA 5?</b>\n\nВозле убежища Джейсона в начале игры стоит катер Marquis — та же модель, что была у Майкла Де Санты. Её мельком видели ещё в трейлерах.\n\n🧭 Главная деталь: на GPS катера открыта карта Лос-Сантоса, а не Леониды.\n\nФанаты уверены, что это та самая лодка Майкла. Rockstar отсылку не комментировала — так что это пока версия игроков.\n\nА вы уже заглядывали в GPS? 👀\n\n#GTA6 #пасхалки"
     }
   ],
   "published_topics": [
@@ -843,7 +858,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-20T08:32:10Z",
-    "summary": "No new updates; no approved drafts; pending 31,41,49 (3) — no new draft"
+    "at": "2026-11-20T09:34:30Z",
+    "summary": "#49 approved (upd 756023626) and published (channel msg 52); new draft #50 Michael boat GPS; pending 31,41,50"
   }
 }
