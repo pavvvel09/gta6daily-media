@@ -1,7 +1,7 @@
 {
-  "last_update_id": 756023624,
-  "last_published_at": "2026-11-20T00:32:59Z",
-  "next_draft_number": 49,
+  "last_update_id": 756023625,
+  "last_published_at": "2026-11-20T07:32:07Z",
+  "next_draft_number": 50,
   "drafts": [
     {
       "number": 3,
@@ -745,7 +745,7 @@
     },
     {
       "number": 48,
-      "status": "pending",
+      "status": "published",
       "topic": "day-one-sales-24-6m-2-36b",
       "message_id": 97,
       "media": "posts/2026-11-20-day-one-2-36b.png",
@@ -756,7 +756,26 @@
       "note": "Sensor Tower estimate end of launch day Nov 19 incl. preorders, digital only; 75/25 PS/Xbox; Take-Two no official figures",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@2e65901/posts/2026-11-20-day-one-2-36b.png",
       "photo_file_id": "AgACAgQAAxkDAANhav_p6BxolSKEH2MRyBmocE43vgMAAt4RaxvOPwRQRXzUwy3pWbQBAAMCAAN5AAM9BA",
-      "caption": "💰 <b>GTA 6 — $2,36 млрд за первый день</b>\n\nПо оценке Sensor Tower, к концу дня релиза (19 ноября) игра разошлась тиражом ≈24,6 млн цифровых копий — с учётом предзаказов.\n\n🎮 PlayStation — около 75%, Xbox — около 25%\n📈 Ещё утром 19-го было 19,1 млн копий и $1,84 млрд\n🕹 GTA 5 в 2013-м: ~$800 млн за сутки и $1 млрд за 3 дня\n🎯 Планку Bank of America — $1,5 млрд за выходные — игра, судя по оценке, взяла за один день\n\n❗ Без дисков и возвратов. Take-Two своих цифр пока не называла.\n\n#GTA6 #новости"
+      "caption": "💰 <b>GTA 6 — $2,36 млрд за первый день</b>\n\nПо оценке Sensor Tower, к концу дня релиза (19 ноября) игра разошлась тиражом ≈24,6 млн цифровых копий — с учётом предзаказов.\n\n🎮 PlayStation — около 75%, Xbox — около 25%\n📈 Ещё утром 19-го было 19,1 млн копий и $1,84 млрд\n🕹 GTA 5 в 2013-м: ~$800 млн за сутки и $1 млрд за 3 дня\n🎯 Планку Bank of America — $1,5 млрд за выходные — игра, судя по оценке, взяла за один день\n\n❗ Без дисков и возвратов. Take-Two своих цифр пока не называла.\n\n#GTA6 #новости",
+      "approved_at": "2026-11-20T06:36:26Z",
+      "approval_update_id": "756023625",
+      "channel_message_id": "51",
+      "published_at": "2026-11-20T07:32:07Z"
+    },
+    {
+      "number": 49,
+      "status": "pending",
+      "topic": "first-person-mode-glitch",
+      "message_id": 99,
+      "media": "posts/2026-11-20-first-person-glitch.png",
+      "media_type": "photo",
+      "created_at": "2026-11-20T07:33:47Z",
+      "source": "https://www.dexerto.com/gta/gta-6-glitch-lets-players-access-first-person-mode-3430025/",
+      "source_alt": "https://beebom.com/gta-6-first-person-mode-glitch/",
+      "note": "Found by YouTuber oneboyler Nov 19; steps per Beebom (PS5+Xbox), Dexerto says PS5; reload save to exit; no Rockstar comment",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@b6480b0/posts/2026-11-20-first-person-glitch.png",
+      "photo_file_id": "AgACAgQAAxkDAANjav_323X29ooxV3xu8Jic4Zwgr7MAAuARaxt-fwRQtvmtAAHVJlogAQADAgADeQADPQQ",
+      "caption": "🎥 <b>В GTA 6 нашли вид от первого лица</b>\n\nОфициального режима от первого лица в игре нет, но игроки нашли баг, который переключает камеру. Первым показал ютубер oneboyler.\n\n1️⃣ Настройки → Управление → кнопка тачпада: «Карта» → «Камера»\n2️⃣ Сядь за руль и достань телефон (↑ на крестовине)\n3️⃣ Убери телефон (○ на PS5 / B на Xbox) и сразу жми тачпад / Back\n4️⃣ Повторяй, пока камера не встанет от первого лица\n\nПосле этого можно ходить, стрелять и водить — анимации уже есть в игре, хоть местами и кривые.\n\n⚠️ Вернуть обычную камеру можно только загрузкой сохранения. Rockstar баг не комментировала — его могут убрать патчем.\n\n#GTA6 #секреты #гайды"
     }
   ],
   "published_topics": [
@@ -802,7 +821,8 @@
     "sam-houser-launch-statement",
     "launch-day-glitches-viral",
     "gym-workouts-return-dualsense",
-    "paul-walker-eclipse-easter-egg"
+    "paul-walker-eclipse-easter-egg",
+    "day-one-sales-24-6m-2-36b"
   ],
   "owner_feedback": [
     {
@@ -818,7 +838,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-20T06:35:00Z",
-    "summary": "no new updates; no approved drafts; new draft #48 (day-one sales $2.36B Sensor Tower); pending 31,41,48"
+    "at": "2026-11-20T07:34:30Z",
+    "summary": "#48 approved (update 756023625) and published (channel msg 51); new draft #49 (first-person glitch); pending 31,41,49"
   }
 }
