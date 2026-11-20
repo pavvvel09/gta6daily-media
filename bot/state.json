@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023628,
-  "last_published_at": "2026-11-20T11:33:30Z",
+  "last_update_id": 756023629,
+  "last_published_at": "2026-11-20T12:33:56Z",
   "next_draft_number": 53,
   "drafts": [
     {
@@ -820,7 +820,7 @@
     },
     {
       "number": 52,
-      "status": "pending",
+      "status": "published",
       "topic": "safe-codes-robbery-guide",
       "message_id": 105,
       "media": "posts/2026-11-20-safe-codes-guide.png",
@@ -830,7 +830,11 @@
       "note": "PC Gamer Nov 18 18:00Z guide (Sean Martin); robbery codes randomized; no specific codes",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@2d5dee0/posts/2026-11-20-safe-codes-guide.png",
       "photo_file_id": "AgACAgQAAxkDAANpawABMIuGlqVM9_ZQR9x2ly-FpcXOAAKpEGsbl1UMULNEdwwiu8ImAQADAgADeQADPQQ",
-      "caption": "🔐 <b>Как вскрыть сейф в GTA 6</b>\n\nВ сюжете коды от сейфов дают сами, а в ограблениях они каждый раз случайные. Узнать код можно двумя способами:\n\n1️⃣ Найти его на месте — записка на доске в подсобке или у вырубленного охранника. Помогает режим фокуса: L3 + R3.\n2️⃣ Допросить сотрудника — прицелься и выбери «Пригрозить». Заодно кассир может выгрести кассу.\n\nКод появится в правом нижнем углу, когда подойдёшь к сейфу. На карте заранее видно, есть ли в точке сейф, какая там охрана и сколько можно унести.\n\nСохраняй, пригодится 💰\n\n#GTA6 #гайды"
+      "caption": "🔐 <b>Как вскрыть сейф в GTA 6</b>\n\nВ сюжете коды от сейфов дают сами, а в ограблениях они каждый раз случайные. Узнать код можно двумя способами:\n\n1️⃣ Найти его на месте — записка на доске в подсобке или у вырубленного охранника. Помогает режим фокуса: L3 + R3.\n2️⃣ Допросить сотрудника — прицелься и выбери «Пригрозить». Заодно кассир может выгрести кассу.\n\nКод появится в правом нижнем углу, когда подойдёшь к сейфу. На карте заранее видно, есть ли в точке сейф, какая там охрана и сколько можно унести.\n\nСохраняй, пригодится 💰\n\n#GTA6 #гайды",
+      "approved_at": "2026-11-20T12:19:10Z",
+      "approval_update_id": 756023629,
+      "channel_message_id": 55,
+      "published_at": "2026-11-20T12:33:56Z"
     }
   ],
   "published_topics": [
@@ -880,7 +884,8 @@
     "day-one-sales-24-6m-2-36b",
     "first-person-mode-glitch",
     "michael-marquis-boat-los-santos-gps",
-    "mandy-serial-killer-theory-pipework"
+    "mandy-serial-killer-theory-pipework",
+    "safe-codes-robbery-guide"
   ],
   "owner_feedback": [
     {
