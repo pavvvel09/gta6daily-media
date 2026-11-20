@@ -1,6 +1,6 @@
 {
   "last_update_id": 756023634,
-  "last_published_at": "2026-11-20T16:38:49Z",
+  "last_published_at": "2026-11-20T17:39:14Z",
   "next_draft_number": 59,
   "drafts": [
     {
@@ -913,7 +913,7 @@
     },
     {
       "number": "57",
-      "status": "approved",
+      "status": "published",
       "topic": "download-traffic-record-33tbps-decix",
       "message_id": "115",
       "media": "posts/2026-11-20-download-record-33tbps.png",
@@ -925,7 +925,9 @@
       "photo_file_id": "AgACAgQAAxkDAANzawABd9pjn67yo42uAZEc1__RgiKyAAJDEWsbmPcFUOr-3g3JyzHnAQADAgADeQADPQQ",
       "caption": "🌐 <b>GTA 6 сломала рекорд интернет-трафика</b>\n\nВ вечер перед релизом загрузки игры через узел DE-CIX разогнались до 33,03 Тбит/с — это примерно 13 копий GTA 6 в секунду.\n\n📦 Игра весит около 210 ГБ и выходит только в цифре, без диска. Прошлый рекорд она же поставила 10 ноября, когда открылась предзагрузка.\n\n📈 Голландский провайдер VodafoneZiggo тоже сообщил о самом большом пике загрузок за всю историю своей сети.\n\nИсточник — Kotaku.\n\n#GTA6 #новости",
       "approved_at": "2026-11-20T16:41:41Z",
-      "approval_update_id": "756023634"
+      "approval_update_id": "756023634",
+      "channel_message_id": "60",
+      "published_at": "2026-11-20T17:39:14Z"
     },
     {
       "number": "58",
@@ -995,7 +997,8 @@
     "weird-al-vice-city-fm-dj",
     "gta6-festival-miami-nov21",
     "japan-version-censored-nudity-blood",
-    "no-sex-workers-rockstar-explains"
+    "no-sex-workers-rockstar-explains",
+    "download-traffic-record-33tbps-decix"
   ],
   "owner_feedback": [
     {
@@ -1011,7 +1014,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-20T17:35:00Z",
-    "summary": "#57 approved (upd 756023634), not published yet: only 53 min since last post (<60); new draft #58 giant crab E3 easter egg; pending 31,41,58; approved 57"
+    "at": "2026-11-20T17:40:00Z",
+    "summary": "#57 approved (upd 756023634) and published (channel msg 60); new draft #58 giant crab E3 easter egg; pending 31,41,58"
   }
 }
