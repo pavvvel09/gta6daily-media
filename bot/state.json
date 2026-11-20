@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023625,
-  "last_published_at": "2026-11-20T07:32:07Z",
+  "last_update_id": 756023626,
+  "last_published_at": "2026-11-20T09:32:31Z",
   "next_draft_number": 50,
   "drafts": [
     {
@@ -764,7 +764,7 @@
     },
     {
       "number": 49,
-      "status": "pending",
+      "status": "published",
       "topic": "first-person-mode-glitch",
       "message_id": 99,
       "media": "posts/2026-11-20-first-person-glitch.png",
@@ -775,7 +775,11 @@
       "note": "Found by YouTuber oneboyler Nov 19; steps per Beebom (PS5+Xbox), Dexerto says PS5; reload save to exit; no Rockstar comment",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@b6480b0/posts/2026-11-20-first-person-glitch.png",
       "photo_file_id": "AgACAgQAAxkDAANjav_323X29ooxV3xu8Jic4Zwgr7MAAuARaxt-fwRQtvmtAAHVJlogAQADAgADeQADPQQ",
-      "caption": "🎥 <b>В GTA 6 нашли вид от первого лица</b>\n\nОфициального режима от первого лица в игре нет, но игроки нашли баг, который переключает камеру. Первым показал ютубер oneboyler.\n\n1️⃣ Настройки → Управление → кнопка тачпада: «Карта» → «Камера»\n2️⃣ Сядь за руль и достань телефон (↑ на крестовине)\n3️⃣ Убери телефон (○ на PS5 / B на Xbox) и сразу жми тачпад / Back\n4️⃣ Повторяй, пока камера не встанет от первого лица\n\nПосле этого можно ходить, стрелять и водить — анимации уже есть в игре, хоть местами и кривые.\n\n⚠️ Вернуть обычную камеру можно только загрузкой сохранения. Rockstar баг не комментировала — его могут убрать патчем.\n\n#GTA6 #секреты #гайды"
+      "caption": "🎥 <b>В GTA 6 нашли вид от первого лица</b>\n\nОфициального режима от первого лица в игре нет, но игроки нашли баг, который переключает камеру. Первым показал ютубер oneboyler.\n\n1️⃣ Настройки → Управление → кнопка тачпада: «Карта» → «Камера»\n2️⃣ Сядь за руль и достань телефон (↑ на крестовине)\n3️⃣ Убери телефон (○ на PS5 / B на Xbox) и сразу жми тачпад / Back\n4️⃣ Повторяй, пока камера не встанет от первого лица\n\nПосле этого можно ходить, стрелять и водить — анимации уже есть в игре, хоть местами и кривые.\n\n⚠️ Вернуть обычную камеру можно только загрузкой сохранения. Rockstar баг не комментировала — его могут убрать патчем.\n\n#GTA6 #секреты #гайды",
+      "approved_at": "2026-11-20T08:32:30Z",
+      "approval_update_id": "756023626",
+      "channel_message_id": "52",
+      "published_at": "2026-11-20T09:32:31Z"
     }
   ],
   "published_topics": [
@@ -822,7 +826,8 @@
     "launch-day-glitches-viral",
     "gym-workouts-return-dualsense",
     "paul-walker-eclipse-easter-egg",
-    "day-one-sales-24-6m-2-36b"
+    "day-one-sales-24-6m-2-36b",
+    "first-person-mode-glitch"
   ],
   "owner_feedback": [
     {
