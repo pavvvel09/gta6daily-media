@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023637,
-  "last_published_at": "2026-11-20T21:33:25Z",
+  "last_update_id": 756023638,
+  "last_published_at": "2026-11-20T22:33:49Z",
   "next_draft_number": 62,
   "drafts": [
     {
@@ -987,7 +987,7 @@
     },
     {
       "number": "61",
-      "status": "pending",
+      "status": "published",
       "topic": "take-two-day-one-32-5m-3-79b",
       "message_id": "123",
       "media": "posts/2026-11-20-record-3-79b-32m.png",
@@ -998,7 +998,11 @@
       "note": "Take-Two via Variety (Variety page not fetched directly; VGTimes Nov 20 cites it): 32.5M copies, $3.79B one day after release",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@d920d1e/posts/2026-11-20-record-3-79b-32m.png",
       "photo_file_id": "AgACAgQAAxkDAAN7awABvk6dzudU6yHjSG4CLhUzuVoBAAJ6EGsbWwkNUFxef8s24la0AQADAgADeQADPQQ",
-      "caption": "🏆 <b>GTA 6: $3,79 млрд за первые сутки</b>\n\nTake-Two отчиталась о старте: за сутки после релиза продано 32,5 млн копий, выручка — $3,79 млрд. Так пишет Variety.\n\n📈 Это рекорд не только для игр: по данным издателя, GTA 6 обошла любые кинопремьеры и музыкальные релизы.\n\n💡 Для сравнения: Sensor Tower ещё 18 ноября насчитал 24,6 млн копий вместе с предзаказами.\n\nВы уже в числе этих 32,5 млн?\n\nИсточники — Variety, VGTimes.\n\n#GTA6 #новости"
+      "caption": "🏆 <b>GTA 6: $3,79 млрд за первые сутки</b>\n\nTake-Two отчиталась о старте: за сутки после релиза продано 32,5 млн копий, выручка — $3,79 млрд. Так пишет Variety.\n\n📈 Это рекорд не только для игр: по данным издателя, GTA 6 обошла любые кинопремьеры и музыкальные релизы.\n\n💡 Для сравнения: Sensor Tower ещё 18 ноября насчитал 24,6 млн копий вместе с предзаказами.\n\nВы уже в числе этих 32,5 млн?\n\nИсточники — Variety, VGTimes.\n\n#GTA6 #новости",
+      "approved_at": "2026-11-20T21:58:17Z",
+      "approval_update_id": "756023638",
+      "channel_message_id": "64",
+      "published_at": "2026-11-20T22:33:49Z"
     }
   ],
   "published_topics": [
@@ -1057,7 +1061,8 @@
     "download-traffic-record-33tbps-decix",
     "giant-mutant-crab-e3-2006-genji",
     "darts-cut-rob-nelson-vgc",
-    "infinite-money-glitch-barn-hamlet"
+    "infinite-money-glitch-barn-hamlet",
+    "take-two-day-one-32-5m-3-79b"
   ],
   "owner_feedback": [
     {
@@ -1073,7 +1078,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-20T21:41:00Z",
-    "summary": "#60 approved (update 756023637) and published (channel msg 63); draft #61 Take-Two 32.5M/$3.79B sent (msg 123); pending 31,41,61"
+    "at": "2026-11-20T22:34:00Z",
+    "summary": "#61 approved (update 756023638) and published (channel msg 64)"
   }
 }
