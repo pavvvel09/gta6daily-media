@@ -1,7 +1,7 @@
 {
-  "last_update_id": 756023631,
-  "last_published_at": "2026-11-20T14:34:44Z",
-  "next_draft_number": 56,
+  "last_update_id": 756023632,
+  "last_published_at": "2026-11-20T15:35:03Z",
+  "next_draft_number": 57,
   "drafts": [
     {
       "number": 3,
@@ -875,7 +875,7 @@
     },
     {
       "number": 55,
-      "status": "pending",
+      "status": "published",
       "topic": "japan-version-censored-nudity-blood",
       "message_id": 111,
       "media": "posts/2026-11-20-japan-censored.png",
@@ -886,7 +886,26 @@
       "note": "Kotaku Nov 19 11:00Z (Alicia Haddick); comparisons by @madara3_game_ch on X; no Rockstar comment",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@972bf3e/posts/2026-11-20-japan-censored.png",
       "photo_file_id": "AgACAgQAAxkDAANvawABXB6vehqpxSFW-OPl9UN2GwiSAAK5EGsbz8gFUBb-abjGgE5EAQADAgADeQADPQQ",
-      "caption": "🇯🇵 <b>В Японии GTA 6 вышла с цензурой</b>\n\nЯпонские игроки сравнили свою версию с мировой и нашли много отличий. Ещё на предзагрузке она весила примерно на 1 ГБ меньше — теперь ясно, что пропало.\n\n🚿 Нагота убрана полностью: в сцене в душе Джейсон стоит в белье, в постельных и пляжных сценах персонажам дорисовали одежду, а часть сцен вырезали.\n\n🩸 Крови меньше, и исчезает она быстрее.\n\n🗣 Из языков — только английская озвучка с английскими и японскими субтитрами. При этом стрип-клубы и наркотики на месте.\n\nRockstar изменения пока не комментировала. Источник — Kotaku.\n\n#GTA6 #новости"
+      "caption": "🇯🇵 <b>В Японии GTA 6 вышла с цензурой</b>\n\nЯпонские игроки сравнили свою версию с мировой и нашли много отличий. Ещё на предзагрузке она весила примерно на 1 ГБ меньше — теперь ясно, что пропало.\n\n🚿 Нагота убрана полностью: в сцене в душе Джейсон стоит в белье, в постельных и пляжных сценах персонажам дорисовали одежду, а часть сцен вырезали.\n\n🩸 Крови меньше, и исчезает она быстрее.\n\n🗣 Из языков — только английская озвучка с английскими и японскими субтитрами. При этом стрип-клубы и наркотики на месте.\n\nRockstar изменения пока не комментировала. Источник — Kotaku.\n\n#GTA6 #новости",
+      "approved_at": "2026-11-20T14:42:53Z",
+      "approval_update_id": "756023632",
+      "channel_message_id": "58",
+      "published_at": "2026-11-20T15:35:03Z"
+    },
+    {
+      "number": 56,
+      "status": "pending",
+      "topic": "no-sex-workers-rockstar-explains",
+      "message_id": 113,
+      "media": "posts/2026-11-20-no-sex-workers.png",
+      "media_type": "photo",
+      "created_at": "2026-11-20T15:33:34Z",
+      "source": "https://kotaku.com/rockstar-explains-why-gta-6-has-no-prostitutes-in-it-a-hallmark-of-the-series-since-2001-2000758174",
+      "source_alt": "https://www.shacknews.com/article/151386/prostitutes-gta6",
+      "note": "Kotaku Nov 18 22:30Z (Zack Zwiezen) citing Rockstar to Shacknews; strip clubs remain",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@cfae5e9/posts/2026-11-20-no-sex-workers.png",
+      "photo_file_id": "AgACAgQAAxkDAANxawABaE5N0w1XLNXqkC62AobIF3OVAAIjEWsbRfMFUGvF6StlnXr3AQADAgADeQADPQQ",
+      "caption": "🚫 <b>В GTA 6 нет проституток — впервые с 2001</b>\n\nСо времён GTA III в каждой номерной части можно было «снять» девушку на улице. В GTA 6 этой механики нет вообще.\n\n🎙 Rockstar объяснила это в интервью Shacknews: игра — история пары в бегах, и в неё вошло только то, что работает на сюжет Джейсона и Люсии и на расширенные системы — розыск, радио, ограбления, угоны. Многого из прошлых частей, по словам студии, в GTA 6 просто нет.\n\n🔞 При этом стрип-клубы на месте, а Джейсон и Люсия могут уединиться дома.\n\nИсточник — Kotaku.\n\n#GTA6 #факты"
     }
   ],
   "published_topics": [
@@ -939,7 +958,8 @@
     "mandy-serial-killer-theory-pipework",
     "safe-codes-robbery-guide",
     "weird-al-vice-city-fm-dj",
-    "gta6-festival-miami-nov21"
+    "gta6-festival-miami-nov21",
+    "japan-version-censored-nudity-blood"
   ],
   "owner_feedback": [
     {
@@ -955,7 +975,7 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-20T14:42:00Z",
-    "summary": "#54 approved (upd 756023631) and published (channel msg 57); new draft #55 Japan censorship; pending 31,41,55"
+    "at": "2026-11-20T15:35:14Z",
+    "summary": "#55 approved (upd 756023632) and published (channel msg 58); new draft #56 no sex workers; pending 31,41,56"
   }
 }
