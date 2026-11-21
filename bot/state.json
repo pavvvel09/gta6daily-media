@@ -1,7 +1,7 @@
 {
-  "last_update_id": 756023643,
-  "last_published_at": "2026-11-21T17:34:16Z",
-  "next_draft_number": 68,
+  "last_update_id": 756023644,
+  "last_published_at": "2026-11-21T21:32:13Z",
+  "next_draft_number": 69,
   "drafts": [
     {
       "number": 3,
@@ -1096,7 +1096,7 @@
     },
     {
       "number": "67",
-      "status": "pending",
+      "status": "published",
       "topic": "dangelo-unreleased-kamikazi-worldwide-fm",
       "message_id": "135",
       "media": "posts/2026-11-21-dangelo-kamikazi.png",
@@ -1106,7 +1106,24 @@
       "note": "Consequence Nov 19 (Alex Krinsky); also Rolling Stone, Complex. Not on 34-song album check pending.",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@fba88a3/posts/2026-11-21-dangelo-kamikazi.png",
       "photo_file_id": "AgACAgQAAxkDAAOHawHWiYf-ZMkn4fvUvK5LX0QUDOkAAhsRaxs5ZBRQKc1UBojdXAIBAAMCAAN5AAM9BA",
-      "caption": "🎙 <b>Неизданная песня D’Angelo нашлась в GTA 6</b>\n\nИгроки услышали на радио Worldwide FM трек «Kamikazi» — его нет ни на одном из трёх альбомов певца, отдельно он тоже не выходил.\n\nD’Angelo не стало в октябре 2025-го, так что для фанатов это настоящая премьера.\n\nЕщё одна его песня, «Lady», играет на Honey FM. А для Red Dead Redemption 2 он записал «Unshaken».\n\nRockstar находку пока не комментировала.\n\n#GTA6 #пасхалки"
+      "caption": "🎙 <b>Неизданная песня D’Angelo нашлась в GTA 6</b>\n\nИгроки услышали на радио Worldwide FM трек «Kamikazi» — его нет ни на одном из трёх альбомов певца, отдельно он тоже не выходил.\n\nD’Angelo не стало в октябре 2025-го, так что для фанатов это настоящая премьера.\n\nЕщё одна его песня, «Lady», играет на Honey FM. А для Red Dead Redemption 2 он записал «Unshaken».\n\nRockstar находку пока не комментировала.\n\n#GTA6 #пасхалки",
+      "approved_update_id": 756023644,
+      "channel_message_id": 70,
+      "published_at": "2026-11-21T21:32:13Z"
+    },
+    {
+      "number": "68",
+      "status": "pending",
+      "topic": "skeeters-bar-south-park-hamlet",
+      "message_id": "137",
+      "media": "posts/2026-11-21-skeeters-south-park-bar.png",
+      "media_type": "photo",
+      "created_at": "2026-11-21T21:33:39Z",
+      "source": "https://gamerant.com/gta-6-south-park-easter-egg/",
+      "note": "GameRant Nov 21; Reddit u/Distance_Regular; unconfirmed fan theory",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@f69cdfd/posts/2026-11-21-skeeters-south-park-bar.png",
+      "photo_file_id": "AgACAgQAAxkDAAOJawIOM1MiRDK5KpSjli9Nrw1lzM8AApsRaxsAAZQUUDnbFLE-2zFGAQADAgADeQADPQQ",
+      "caption": "🍺 <b>🔎 Слух: бар из «Южного парка» в GTA 6</b>\n\nИгрок с Reddit нашёл на юге Хэмлета бар Skeeter’s — «уютный бар у воды с пивом и коктейлями».\n\nТак же называется главный бар взрослых в South Park, где постоянно зависает Рэнди Марш.\n\nRockstar отсылку не подтверждала — может, просто совпадение. Но фанаты уже уверены 😏\n\nЗаглядывали туда? Пишите в комментах.\n\n#GTA6 #пасхалки"
     }
   ],
   "published_topics": [
@@ -1171,7 +1188,8 @@
     "kodak-black-secret-radio-sniper-la-perle",
     "mount-chiliad-mystery-npc-dialogue",
     "bimyou-japanese-restaurant-koppepan",
-    "circana-launch-day-61-percent-ps5-players"
+    "circana-launch-day-61-percent-ps5-players",
+    "dangelo-unreleased-kamikazi-worldwide-fm"
   ],
   "owner_feedback": [
     {
@@ -1187,8 +1205,8 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-21T20:31:00Z",
-    "summary": "no new updates; no approved drafts; pending 31,41,67 (3) — no new draft",
-    "note": "published 0, drafted 0"
+    "at": "2026-11-21T21:34:00Z",
+    "summary": "#67 approved (ок) and published (channel msg 70); new draft #68 sent; pending 31,41,68",
+    "note": "published 1, drafted 1"
   }
 }
