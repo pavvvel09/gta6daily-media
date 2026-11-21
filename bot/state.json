@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023640,
-  "last_published_at": "2026-11-21T14:33:15Z",
+  "last_update_id": 756023641,
+  "last_published_at": "2026-11-21T15:33:38Z",
   "next_draft_number": 65,
   "drafts": [
     {
@@ -1043,7 +1043,7 @@
     },
     {
       "number": "64",
-      "status": "pending",
+      "status": "published",
       "topic": "mount-chiliad-mystery-npc-dialogue",
       "message_id": "129",
       "media": "posts/2026-11-21-chiliad-mystery-npc.png",
@@ -1053,7 +1053,11 @@
       "note": "GamingBible Nov 20 18:00 GMT (Richard Breslin) citing r/GTA6 user Tr1angleChoke; not confirmed every player hears it; no Rockstar comment",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@ac4a550/posts/2026-11-21-chiliad-mystery-npc.png",
       "photo_file_id": "AgACAgQAAxkDAAOBawGsB2cFjV90nv9p1ud-yDPDUnYAAmYRaxtuKw1QnJuW-bAOZ18BAAMCAAN5AAM9BA",
-      "caption": "🛸 <b>В GTA 6 вспомнили тайну горы Чилиад</b>\n\nИгроки услышали в ранней миссии необычный разговор: когда Джейсон идёт к бару на встречу с Донни, прохожие обсуждают странности вокруг горы Чилиад из GTA 5.\n\nПо словам NPC, под горой есть бункер с джетпаками и яйцами, а ограбление «Судного дня» из GTA Online — канон.\n\nНапомним: фреска на вершине Чилиада с НЛО, джетпаком и яйцом годами питала теории фанатов GTA 5.\n\n🔎 Диалог нашёл пользователь Reddit, слышат его, похоже, не все. Rockstar ничего не комментировала. Источник — GamingBible.\n\n#GTA6 #пасхалки"
+      "caption": "🛸 <b>В GTA 6 вспомнили тайну горы Чилиад</b>\n\nИгроки услышали в ранней миссии необычный разговор: когда Джейсон идёт к бару на встречу с Донни, прохожие обсуждают странности вокруг горы Чилиад из GTA 5.\n\nПо словам NPC, под горой есть бункер с джетпаками и яйцами, а ограбление «Судного дня» из GTA Online — канон.\n\nНапомним: фреска на вершине Чилиада с НЛО, джетпаком и яйцом годами питала теории фанатов GTA 5.\n\n🔎 Диалог нашёл пользователь Reddit, слышат его, похоже, не все. Rockstar ничего не комментировала. Источник — GamingBible.\n\n#GTA6 #пасхалки",
+      "approved_at": "2026-11-21T15:14:56Z",
+      "approval_update_id": "756023641",
+      "channel_message_id": "67",
+      "published_at": "2026-11-21T15:33:38Z"
     }
   ],
   "published_topics": [
@@ -1115,7 +1119,8 @@
     "infinite-money-glitch-barn-hamlet",
     "take-two-day-one-32-5m-3-79b",
     "red-dead-book-flaco-hernandez-brian-marina",
-    "kodak-black-secret-radio-sniper-la-perle"
+    "kodak-black-secret-radio-sniper-la-perle",
+    "mount-chiliad-mystery-npc-dialogue"
   ],
   "owner_feedback": [
     {
