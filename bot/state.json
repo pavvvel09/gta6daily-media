@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023639,
   "last_published_at": "2026-11-21T13:32:51Z",
-  "next_draft_number": 63,
+  "next_draft_number": 64,
   "drafts": [
     {
       "number": 3,
@@ -1022,6 +1022,20 @@
       "approval_update_id": "756023639",
       "channel_message_id": "65",
       "published_at": "2026-11-21T13:32:51Z"
+    },
+    {
+      "number": "63",
+      "status": "pending",
+      "topic": "kodak-black-secret-radio-sniper-la-perle",
+      "message_id": "127",
+      "media": "posts/2026-11-21-kodak-secret-radio.png",
+      "media_type": "photo",
+      "created_at": "2026-11-21T13:34:10Z",
+      "source": "https://www.vice.com/en/article/gta-6-players-discover-secret-radio-station-hosted-by-florida-rap-star-kodak-black/",
+      "note": "VICE Nov 20 19:40Z (Dan Milam); discoverer not named; no Rockstar confirmation",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@10592b8/posts/2026-11-21-kodak-secret-radio.png",
+      "photo_file_id": "AgACAgQAAxkDAAN_awGd0rRWj1sg5AKfQWZ0b4fwBi8AAuMQaxsTzAxQ_lOjNcLIP8IBAAMCAAN5AAM9BA",
+      "caption": "📻 <b>В GTA 6 нашли секретное радио Kodak Black</b>\n\nВ Vice City есть скрытая станция «The Sniper of La Perle» — 22 трека гаитянских и карибских артистов, включая несколько песен самого Kodak Black.\n\n🔎 Как открыть: отсканируйте 4 постера —\n• Aunt Zola's Soul Food (La Perle) — у кассы\n• тату-салон TWA Ponya (La Perle) — у входа\n• магазин Drip Drops (La Perle) — на прилавке\n• клуб Jack of Hearts (Crosstown) — в студии наверху\n\nСтанция играет в машине и в наушниках героя, а для 100% её тоже нужно открыть.\n\nИсточник — VICE.\n\n#GTA6 #секреты #гайды"
     }
   ],
   "published_topics": [
@@ -1098,8 +1112,8 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-21T12:32:00Z",
-    "summary": "no new updates; no approved drafts; pending 31,41,62 (3) — queue full, no new draft",
-    "note": "no updates, 3 pending"
+    "at": "2026-11-21T13:35:00Z",
+    "summary": "owner approved #62 (update 756023639); published #62 to channel msg 65; drafted #63 (Kodak Black secret radio); pending 31,41,63",
+    "note": "published 1, drafted 1"
   }
 }
