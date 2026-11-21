@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023642,
   "last_published_at": "2026-11-21T16:33:57Z",
-  "next_draft_number": 66,
+  "next_draft_number": 67,
   "drafts": [
     {
       "number": 3,
@@ -1076,6 +1076,20 @@
       "approval_update_id": "756023642",
       "channel_message_id": "68",
       "published_at": "2026-11-21T16:33:57Z"
+    },
+    {
+      "number": "66",
+      "status": "pending",
+      "topic": "circana-launch-day-61-percent-ps5-players",
+      "message_id": "133",
+      "media": "posts/2026-11-21-launch-day-61-percent-ps5.png",
+      "media_type": "photo",
+      "created_at": "2026-11-21T16:34:58Z",
+      "source": "https://gamenewsplus.net/news/gta-6-reached-61-of-active-us-ps5-players-on-launch-day-40110/",
+      "note": "GameNewsPlus Nov 21 15:50Z (Kerem Akyol) citing Circana Player Engagement Tracker via Mat Piscatella on Bluesky; PS5 US-only, Xbox global",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@3298139/posts/2026-11-21-launch-day-61-percent-ps5.png",
+      "photo_file_id": "AgACAgQAAxkDAAOFawHIMix9Z89mw8Pxgh0jJBSzu1IAAhcRaxvQ7BVQjyF2nxrriR4BAAMCAAN5AAM9BA",
+      "caption": "📊 <b>61% игроков PS5 в США запустили GTA 6</b>\n\nCircana посчитала первый день: 19 ноября GTA 6 играл 61% всех, кто включал PS5 в США. В среднем — по 8 ч 33 мин.\n\nНа Xbox по всему миру — 56% активных игроков и 8 ч 14 мин в среднем.\n\nДля сравнения: второе место занял Fortnite — около 10%.\n\nВажно: речь о доле тех, кто в этот день включал консоль, а не всех владельцев. Данными поделился аналитик Circana Мэт Пискателла.\n\n#GTA6 #факты"
     }
   ],
   "published_topics": [
@@ -1155,8 +1169,8 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-21T15:37:00Z",
-    "summary": "owner approved #64 (update 756023641); published #64 to channel msg 67; drafted #65 (BIMYOU fake Japanese restaurant); pending 31,41,65",
+    "at": "2026-11-21T16:36:00Z",
+    "summary": "owner approved #65 (update 756023642); published #65 to channel msg 68; drafted #66 (Circana 61% PS5 launch day); pending 31,41,66",
     "note": "published 1, drafted 1"
   }
 }
