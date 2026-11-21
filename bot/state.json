@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023642,
-  "last_published_at": "2026-11-21T16:33:57Z",
+  "last_update_id": 756023643,
+  "last_published_at": "2026-11-21T17:34:16Z",
   "next_draft_number": 67,
   "drafts": [
     {
@@ -1079,7 +1079,7 @@
     },
     {
       "number": "66",
-      "status": "pending",
+      "status": "published",
       "topic": "circana-launch-day-61-percent-ps5-players",
       "message_id": "133",
       "media": "posts/2026-11-21-launch-day-61-percent-ps5.png",
@@ -1089,7 +1089,10 @@
       "note": "GameNewsPlus Nov 21 15:50Z (Kerem Akyol) citing Circana Player Engagement Tracker via Mat Piscatella on Bluesky; PS5 US-only, Xbox global",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@3298139/posts/2026-11-21-launch-day-61-percent-ps5.png",
       "photo_file_id": "AgACAgQAAxkDAAOFawHIMix9Z89mw8Pxgh0jJBSzu1IAAhcRaxvQ7BVQjyF2nxrriR4BAAMCAAN5AAM9BA",
-      "caption": "📊 <b>61% игроков PS5 в США запустили GTA 6</b>\n\nCircana посчитала первый день: 19 ноября GTA 6 играл 61% всех, кто включал PS5 в США. В среднем — по 8 ч 33 мин.\n\nНа Xbox по всему миру — 56% активных игроков и 8 ч 14 мин в среднем.\n\nДля сравнения: второе место занял Fortnite — около 10%.\n\nВажно: речь о доле тех, кто в этот день включал консоль, а не всех владельцев. Данными поделился аналитик Circana Мэт Пискателла.\n\n#GTA6 #факты"
+      "caption": "📊 <b>61% игроков PS5 в США запустили GTA 6</b>\n\nCircana посчитала первый день: 19 ноября GTA 6 играл 61% всех, кто включал PS5 в США. В среднем — по 8 ч 33 мин.\n\nНа Xbox по всему миру — 56% активных игроков и 8 ч 14 мин в среднем.\n\nДля сравнения: второе место занял Fortnite — около 10%.\n\nВажно: речь о доле тех, кто в этот день включал консоль, а не всех владельцев. Данными поделился аналитик Circana Мэт Пискателла.\n\n#GTA6 #факты",
+      "approved_update_id": 756023643,
+      "published_at": "2026-11-21T17:34:16Z",
+      "channel_message_id": "69"
     }
   ],
   "published_topics": [
@@ -1153,7 +1156,8 @@
     "red-dead-book-flaco-hernandez-brian-marina",
     "kodak-black-secret-radio-sniper-la-perle",
     "mount-chiliad-mystery-npc-dialogue",
-    "bimyou-japanese-restaurant-koppepan"
+    "bimyou-japanese-restaurant-koppepan",
+    "circana-launch-day-61-percent-ps5-players"
   ],
   "owner_feedback": [
     {
