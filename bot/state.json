@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023639,
-  "last_published_at": "2026-11-21T13:32:51Z",
+  "last_update_id": 756023640,
+  "last_published_at": "2026-11-21T14:33:15Z",
   "next_draft_number": 64,
   "drafts": [
     {
@@ -1025,7 +1025,7 @@
     },
     {
       "number": "63",
-      "status": "pending",
+      "status": "published",
       "topic": "kodak-black-secret-radio-sniper-la-perle",
       "message_id": "127",
       "media": "posts/2026-11-21-kodak-secret-radio.png",
@@ -1035,7 +1035,11 @@
       "note": "VICE Nov 20 19:40Z (Dan Milam); discoverer not named; no Rockstar confirmation",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@10592b8/posts/2026-11-21-kodak-secret-radio.png",
       "photo_file_id": "AgACAgQAAxkDAAN_awGd0rRWj1sg5AKfQWZ0b4fwBi8AAuMQaxsTzAxQ_lOjNcLIP8IBAAMCAAN5AAM9BA",
-      "caption": "📻 <b>В GTA 6 нашли секретное радио Kodak Black</b>\n\nВ Vice City есть скрытая станция «The Sniper of La Perle» — 22 трека гаитянских и карибских артистов, включая несколько песен самого Kodak Black.\n\n🔎 Как открыть: отсканируйте 4 постера —\n• Aunt Zola's Soul Food (La Perle) — у кассы\n• тату-салон TWA Ponya (La Perle) — у входа\n• магазин Drip Drops (La Perle) — на прилавке\n• клуб Jack of Hearts (Crosstown) — в студии наверху\n\nСтанция играет в машине и в наушниках героя, а для 100% её тоже нужно открыть.\n\nИсточник — VICE.\n\n#GTA6 #секреты #гайды"
+      "caption": "📻 <b>В GTA 6 нашли секретное радио Kodak Black</b>\n\nВ Vice City есть скрытая станция «The Sniper of La Perle» — 22 трека гаитянских и карибских артистов, включая несколько песен самого Kodak Black.\n\n🔎 Как открыть: отсканируйте 4 постера —\n• Aunt Zola's Soul Food (La Perle) — у кассы\n• тату-салон TWA Ponya (La Perle) — у входа\n• магазин Drip Drops (La Perle) — на прилавке\n• клуб Jack of Hearts (Crosstown) — в студии наверху\n\nСтанция играет в машине и в наушниках героя, а для 100% её тоже нужно открыть.\n\nИсточник — VICE.\n\n#GTA6 #секреты #гайды",
+      "approved_at": "2026-11-21T13:36:52Z",
+      "approval_update_id": "756023640",
+      "channel_message_id": "66",
+      "published_at": "2026-11-21T14:33:15Z"
     }
   ],
   "published_topics": [
@@ -1096,7 +1100,8 @@
     "darts-cut-rob-nelson-vgc",
     "infinite-money-glitch-barn-hamlet",
     "take-two-day-one-32-5m-3-79b",
-    "red-dead-book-flaco-hernandez-brian-marina"
+    "red-dead-book-flaco-hernandez-brian-marina",
+    "kodak-black-secret-radio-sniper-la-perle"
   ],
   "owner_feedback": [
     {
