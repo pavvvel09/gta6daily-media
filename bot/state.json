@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023640,
   "last_published_at": "2026-11-21T14:33:15Z",
-  "next_draft_number": 64,
+  "next_draft_number": 65,
   "drafts": [
     {
       "number": 3,
@@ -1040,6 +1040,20 @@
       "approval_update_id": "756023640",
       "channel_message_id": "66",
       "published_at": "2026-11-21T14:33:15Z"
+    },
+    {
+      "number": "64",
+      "status": "pending",
+      "topic": "mount-chiliad-mystery-npc-dialogue",
+      "message_id": "129",
+      "media": "posts/2026-11-21-chiliad-mystery-npc.png",
+      "media_type": "photo",
+      "created_at": "2026-11-21T14:34:47Z",
+      "source": "https://www.gamingbible.com/news/gta-6-gta-5-mount-chiliad-mystery-easter-egg-802897-20261120",
+      "note": "GamingBible Nov 20 18:00 GMT (Richard Breslin) citing r/GTA6 user Tr1angleChoke; not confirmed every player hears it; no Rockstar comment",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@ac4a550/posts/2026-11-21-chiliad-mystery-npc.png",
+      "photo_file_id": "AgACAgQAAxkDAAOBawGsB2cFjV90nv9p1ud-yDPDUnYAAmYRaxtuKw1QnJuW-bAOZ18BAAMCAAN5AAM9BA",
+      "caption": "🛸 <b>В GTA 6 вспомнили тайну горы Чилиад</b>\n\nИгроки услышали в ранней миссии необычный разговор: когда Джейсон идёт к бару на встречу с Донни, прохожие обсуждают странности вокруг горы Чилиад из GTA 5.\n\nПо словам NPC, под горой есть бункер с джетпаками и яйцами, а ограбление «Судного дня» из GTA Online — канон.\n\nНапомним: фреска на вершине Чилиада с НЛО, джетпаком и яйцом годами питала теории фанатов GTA 5.\n\n🔎 Диалог нашёл пользователь Reddit, слышат его, похоже, не все. Rockstar ничего не комментировала. Источник — GamingBible.\n\n#GTA6 #пасхалки"
     }
   ],
   "published_topics": [
@@ -1117,8 +1131,8 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-21T13:35:00Z",
-    "summary": "owner approved #62 (update 756023639); published #62 to channel msg 65; drafted #63 (Kodak Black secret radio); pending 31,41,63",
+    "at": "2026-11-21T14:35:00Z",
+    "summary": "owner approved #63 (update 756023640); published #63 to channel msg 66; drafted #64 (Mount Chiliad NPC dialogue); pending 31,41,64",
     "note": "published 1, drafted 1"
   }
 }
