@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023643,
   "last_published_at": "2026-11-21T17:34:16Z",
-  "next_draft_number": 67,
+  "next_draft_number": 68,
   "drafts": [
     {
       "number": 3,
@@ -1093,6 +1093,20 @@
       "approved_update_id": 756023643,
       "published_at": "2026-11-21T17:34:16Z",
       "channel_message_id": "69"
+    },
+    {
+      "number": "67",
+      "status": "pending",
+      "topic": "dangelo-unreleased-kamikazi-worldwide-fm",
+      "message_id": "135",
+      "media": "posts/2026-11-21-dangelo-kamikazi.png",
+      "media_type": "photo",
+      "created_at": "2026-11-21T17:36:09Z",
+      "source": "https://consequence.net/2026/11/dangelo-kamikazi-gta-6-radio/",
+      "note": "Consequence Nov 19 (Alex Krinsky); also Rolling Stone, Complex. Not on 34-song album check pending.",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@fba88a3/posts/2026-11-21-dangelo-kamikazi.png",
+      "photo_file_id": "AgACAgQAAxkDAAOHawHWiYf-ZMkn4fvUvK5LX0QUDOkAAhsRaxs5ZBRQKc1UBojdXAIBAAMCAAN5AAM9BA",
+      "caption": "🎙 <b>Неизданная песня D’Angelo нашлась в GTA 6</b>\n\nИгроки услышали на радио Worldwide FM трек «Kamikazi» — его нет ни на одном из трёх альбомов певца, отдельно он тоже не выходил.\n\nD’Angelo не стало в октябре 2025-го, так что для фанатов это настоящая премьера.\n\nЕщё одна его песня, «Lady», играет на Honey FM. А для Red Dead Redemption 2 он записал «Unshaken».\n\nRockstar находку пока не комментировала.\n\n#GTA6 #пасхалки"
     }
   ],
   "published_topics": [
@@ -1173,8 +1187,8 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-21T16:36:00Z",
-    "summary": "owner approved #65 (update 756023642); published #65 to channel msg 68; drafted #66 (Circana 61% PS5 launch day); pending 31,41,66",
+    "at": "2026-11-21T17:37:00Z",
+    "summary": "owner approved #66 (update 756023643); published #66 to channel msg 69; drafted #67 (D'Angelo Kamikazi on Worldwide FM); pending 31,41,67",
     "note": "published 1, drafted 1"
   }
 }
