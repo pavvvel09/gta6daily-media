@@ -1,6 +1,6 @@
 {
- "last_update_id": 756023645,
- "last_published_at": "2026-11-21T22:32:37Z",
+ "last_update_id": 756023646,
+ "last_published_at": "2026-11-21T23:32:59Z",
  "next_draft_number": 70,
  "drafts": [
   {
@@ -1131,7 +1131,7 @@
   },
   {
    "number": "69",
-   "status": "pending",
+   "status": "published",
    "topic": "metacritic-user-score-review-bombing",
    "message_id": "139",
    "media": "posts/2026-11-21-metacritic-review-bombing.png",
@@ -1141,7 +1141,11 @@
    "note": "Push Square Nov 21 (5.4), Tech4Gamers (4.9), OpenCritic (pre-launch bombing removed)",
    "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@ec1ee88/posts/2026-11-21-metacritic-review-bombing.png",
    "photo_file_id": "AgACAgQAAxkDAAOLawIccsCsGYD-Ipy0aFeAosBOGKMAAqsRaxvsuxRQROu4X_BvRssBAAMCAAN5AAM9BA",
-   "caption": "📉 <b>99 от критиков, ~5 от игроков</b>\n\nНа Metacritic у GTA 6 рекордные 99 баллов от прессы — а пользовательский рейтинг обвалился примерно до 5 из 10.\n\nСтраницу заваливают нулями и единицами. Претензии: 30 fps на консолях, баги, медленный старт сюжета и релиз без диска.\n\nБомбить начали ещё до выхода — Metacritic тогда удалил фейковые отзывы и закрыл оценки до релиза.\n\nА вы бы сколько поставили? Пишите в комментах 👇\n\n#GTA6 #новости"
+   "caption": "📉 <b>99 от критиков, ~5 от игроков</b>\n\nНа Metacritic у GTA 6 рекордные 99 баллов от прессы — а пользовательский рейтинг обвалился примерно до 5 из 10.\n\nСтраницу заваливают нулями и единицами. Претензии: 30 fps на консолях, баги, медленный старт сюжета и релиз без диска.\n\nБомбить начали ещё до выхода — Metacritic тогда удалил фейковые отзывы и закрыл оценки до релиза.\n\nА вы бы сколько поставили? Пишите в комментах 👇\n\n#GTA6 #новости",
+   "approved_update_id": 756023646,
+   "approved_at": "2026-11-21T23:18:05Z",
+   "channel_message_id": 72,
+   "published_at": "2026-11-21T23:32:59Z"
   }
  ],
  "published_topics": [
@@ -1208,7 +1212,8 @@
   "bimyou-japanese-restaurant-koppepan",
   "circana-launch-day-61-percent-ps5-players",
   "dangelo-unreleased-kamikazi-worldwide-fm",
-  "skeeters-bar-south-park-hamlet"
+  "skeeters-bar-south-park-hamlet",
+  "metacritic-user-score-review-bombing"
  ],
  "owner_feedback": [
   {
@@ -1224,8 +1229,8 @@
   "note": "published on owner's direct request in chat; owner adds partner links himself"
  },
  "last_run": {
-  "at": "2026-11-21T22:35:00Z",
-  "summary": "#68 approved (ок) and published (channel msg 71); new draft #69 sent; pending 31,41,69",
-  "note": "published 1, drafted 1"
+  "at": "2026-11-21T23:33:30Z",
+  "summary": "#69 approved (ок) and published silently (channel msg 72); quiet hours, no new draft; pending 31,41",
+  "note": "published 1, drafted 0"
  }
 }
