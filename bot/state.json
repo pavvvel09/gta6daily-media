@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023641,
   "last_published_at": "2026-11-21T15:33:38Z",
-  "next_draft_number": 65,
+  "next_draft_number": 66,
   "drafts": [
     {
       "number": 3,
@@ -1054,10 +1054,24 @@
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@ac4a550/posts/2026-11-21-chiliad-mystery-npc.png",
       "photo_file_id": "AgACAgQAAxkDAAOBawGsB2cFjV90nv9p1ud-yDPDUnYAAmYRaxtuKw1QnJuW-bAOZ18BAAMCAAN5AAM9BA",
       "caption": "🛸 <b>В GTA 6 вспомнили тайну горы Чилиад</b>\n\nИгроки услышали в ранней миссии необычный разговор: когда Джейсон идёт к бару на встречу с Донни, прохожие обсуждают странности вокруг горы Чилиад из GTA 5.\n\nПо словам NPC, под горой есть бункер с джетпаками и яйцами, а ограбление «Судного дня» из GTA Online — канон.\n\nНапомним: фреска на вершине Чилиада с НЛО, джетпаком и яйцом годами питала теории фанатов GTA 5.\n\n🔎 Диалог нашёл пользователь Reddit, слышат его, похоже, не все. Rockstar ничего не комментировала. Источник — GamingBible.\n\n#GTA6 #пасхалки",
-      "approved_at": "2026-11-21T15:14:56Z",
+      "approved_at": "2026-11-21T14:34:56Z",
       "approval_update_id": "756023641",
       "channel_message_id": "67",
       "published_at": "2026-11-21T15:33:38Z"
+    },
+    {
+      "number": "65",
+      "status": "pending",
+      "topic": "bimyou-japanese-restaurant-koppepan",
+      "message_id": "131",
+      "media": "posts/2026-11-21-bimyou-japanese-restaurant.png",
+      "media_type": "photo",
+      "created_at": "2026-11-21T15:36:17Z",
+      "source": "https://news.denfaminicogamer.jp/news/2611192j",
+      "note": "Denfami Nico Gamer Nov 19 08:56Z; Kotaku Nov 20 (Alicia Haddick) headline on Japanese players liking the parody; no Rockstar comment",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@d6c8612/posts/2026-11-21-bimyou-japanese-restaurant.png",
+      "photo_file_id": "AgACAgQAAxkDAAODawG6cT0JbMJHkjqM8QfR3husC84AAtcQaxsSlgxQh-ExHewBV2IBAAMCAAN5AAM9BA",
+      "caption": "🍣 <b>В GTA 6 нашли «японский» ресторан-обманку</b>\n\nМежду Даунтауном и Текестой стоит забегаловка BIMYOU. На вывеске — «SUSHI + RAMEN», внутри манэки-нэко и фото суши в меню.\n\nНо купить там можно только коппэ-пан — японскую булочку с начинкой вроде якисобы, крокета или бобовой пасты анко, плюс чай или воду.\n\nСоль шутки — в названии: «бимё» по-японски значит «так себе», «сомнительно». Японские игроки оценили пародию на «японские» ресторанчики в США.\n\nИсточник — Denfaminicogamer.\n\n#GTA6 #пасхалки"
     }
   ],
   "published_topics": [
@@ -1136,8 +1150,8 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-21T14:35:00Z",
-    "summary": "owner approved #63 (update 756023640); published #63 to channel msg 66; drafted #64 (Mount Chiliad NPC dialogue); pending 31,41,64",
+    "at": "2026-11-21T15:37:00Z",
+    "summary": "owner approved #64 (update 756023641); published #64 to channel msg 67; drafted #65 (BIMYOU fake Japanese restaurant); pending 31,41,65",
     "note": "published 1, drafted 1"
   }
 }
