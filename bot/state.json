@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023641,
-  "last_published_at": "2026-11-21T15:33:38Z",
+  "last_update_id": 756023642,
+  "last_published_at": "2026-11-21T16:33:57Z",
   "next_draft_number": 66,
   "drafts": [
     {
@@ -1061,7 +1061,7 @@
     },
     {
       "number": "65",
-      "status": "pending",
+      "status": "published",
       "topic": "bimyou-japanese-restaurant-koppepan",
       "message_id": "131",
       "media": "posts/2026-11-21-bimyou-japanese-restaurant.png",
@@ -1071,7 +1071,11 @@
       "note": "Denfami Nico Gamer Nov 19 08:56Z; Kotaku Nov 20 (Alicia Haddick) headline on Japanese players liking the parody; no Rockstar comment",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@d6c8612/posts/2026-11-21-bimyou-japanese-restaurant.png",
       "photo_file_id": "AgACAgQAAxkDAAODawG6cT0JbMJHkjqM8QfR3husC84AAtcQaxsSlgxQh-ExHewBV2IBAAMCAAN5AAM9BA",
-      "caption": "🍣 <b>В GTA 6 нашли «японский» ресторан-обманку</b>\n\nМежду Даунтауном и Текестой стоит забегаловка BIMYOU. На вывеске — «SUSHI + RAMEN», внутри манэки-нэко и фото суши в меню.\n\nНо купить там можно только коппэ-пан — японскую булочку с начинкой вроде якисобы, крокета или бобовой пасты анко, плюс чай или воду.\n\nСоль шутки — в названии: «бимё» по-японски значит «так себе», «сомнительно». Японские игроки оценили пародию на «японские» ресторанчики в США.\n\nИсточник — Denfaminicogamer.\n\n#GTA6 #пасхалки"
+      "caption": "🍣 <b>В GTA 6 нашли «японский» ресторан-обманку</b>\n\nМежду Даунтауном и Текестой стоит забегаловка BIMYOU. На вывеске — «SUSHI + RAMEN», внутри манэки-нэко и фото суши в меню.\n\nНо купить там можно только коппэ-пан — японскую булочку с начинкой вроде якисобы, крокета или бобовой пасты анко, плюс чай или воду.\n\nСоль шутки — в названии: «бимё» по-японски значит «так себе», «сомнительно». Японские игроки оценили пародию на «японские» ресторанчики в США.\n\nИсточник — Denfaminicogamer.\n\n#GTA6 #пасхалки",
+      "approved_at": "2026-11-21T15:41:05Z",
+      "approval_update_id": "756023642",
+      "channel_message_id": "68",
+      "published_at": "2026-11-21T16:33:57Z"
     }
   ],
   "published_topics": [
@@ -1134,7 +1138,8 @@
     "take-two-day-one-32-5m-3-79b",
     "red-dead-book-flaco-hernandez-brian-marina",
     "kodak-black-secret-radio-sniper-la-perle",
-    "mount-chiliad-mystery-npc-dialogue"
+    "mount-chiliad-mystery-npc-dialogue",
+    "bimyou-japanese-restaurant-koppepan"
   ],
   "owner_feedback": [
     {
