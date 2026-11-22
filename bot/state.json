@@ -1,7 +1,7 @@
 {
-  "last_update_id": 756023655,
-  "last_published_at": "2026-11-22T19:33:35Z",
-  "next_draft_number": 80,
+  "last_update_id": 756023656,
+  "last_published_at": "2026-11-22T20:33:53Z",
+  "next_draft_number": 81,
   "drafts": [
     {
       "number": 3,
@@ -1314,7 +1314,7 @@
     },
     {
       "number": "79",
-      "status": "pending",
+      "status": "published",
       "topic": "venturas-blvd-elegy-gta-plus-unlock",
       "message_id": "159",
       "media": "posts/2026-11-22-elegy-gta-plus-unlock.png",
@@ -1325,7 +1325,26 @@
       "note": "RockstarINTEL Nov 20 (upd Nov 22), credits GTAGFX. GTA+ exclusive; mission names only spoiler.",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@7c19c9f/posts/2026-11-22-elegy-gta-plus-unlock.png",
       "photo_file_id": "AgACAgQAAxkDAAOfawNDvgfOTGpw0w4lWVZOn5TFJqEAAqURaxs4axxQmyUZOMVeLmsBAAMCAAN5AAM9BA",
-      "caption": "🚗 <b>Как забрать Elegy из 90-х в GTA 6</b>\n\nAnnis Venturas Blvd Elegy — машина-бонус для подписчиков GTA+. Нашёл её GTAGFX, порядок расписал RockstarINTEL.\n\nКак получить:\n1️⃣ активная подписка GTA+;\n2️⃣ дойти минимум до 3-й главы;\n3️⃣ зайти к Брайану в квартиру — откроется миссия «Meet the Heders»;\n4️⃣ после неё Рауль даст миссию «Car Service»;\n5️⃣ придёт уведомление и метка на карте — забираете машину.\n\n⚠️ Отмените GTA+ — доступ к Elegy пропадёт.\n\nУже катаетесь на ней? 👇\n\n#GTA6 #гайды"
+      "caption": "🚗 <b>Как забрать Elegy из 90-х в GTA 6</b>\n\nAnnis Venturas Blvd Elegy — машина-бонус для подписчиков GTA+. Нашёл её GTAGFX, порядок расписал RockstarINTEL.\n\nКак получить:\n1️⃣ активная подписка GTA+;\n2️⃣ дойти минимум до 3-й главы;\n3️⃣ зайти к Брайану в квартиру — откроется миссия «Meet the Heders»;\n4️⃣ после неё Рауль даст миссию «Car Service»;\n5️⃣ придёт уведомление и метка на карте — забираете машину.\n\n⚠️ Отмените GTA+ — доступ к Elegy пропадёт.\n\nУже катаетесь на ней? 👇\n\n#GTA6 #гайды",
+      "approved_update_id": "756023656",
+      "approved_at": "2026-11-22T20:23:17Z",
+      "channel_message_id": "82",
+      "published_at": "2026-11-22T20:33:53Z"
+    },
+    {
+      "number": "80",
+      "status": "pending",
+      "topic": "smg-decal-plagiarism-gabyt",
+      "message_id": "161",
+      "media": "posts/2026-11-22-smg-decal-plagiarism.png",
+      "media_type": "photo",
+      "created_at": "2026-11-22T20:35:49Z",
+      "source": "https://gamerant.com/gta-6-first-plagiarism-accusation/",
+      "source_alt": "https://www.notebookcheck.net/GTA-6-is-facing-its-first-plagiarism-claim-just-two-days-after-its-release.1456726.0.html",
+      "note": "GameRant Nov 21, Notebookcheck Nov 22. Fan accusation (Glacius/@TaurineYeen, sockz overlay); no Rockstar or artist statement.",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@6861fee/posts/2026-11-22-smg-decal-plagiarism.png",
+      "photo_file_id": "AgACAgQAAxkDAAOhawNSJbHIG17bgGD6pyFMUqGFSf0AAlIRaxs6ZyVQ3wvKc6Xn89YBAAMCAAN5AAM9BA",
+      "caption": "🔎 <b>GTA 6 впервые обвинили в плагиате</b>\n\nВ побочном квесте с Чейзом (тот самый парень в костюме лиса) можно забрать кастомный SMG вместо $15 000. Фанаты в X заметили: принт на нём очень похож на заказной арт художницы GabyT из декабря 2021 года.\n\n🖼 Пользователи сделали наложение — по их версии, рисунок отзеркалили и обвели, добавив кость в зубы и затемнив цвета.\n🤔 Не все согласны: часть игроков считает, что контуры совпадают плохо.\n🤐 Rockstar и Take-Two пока молчат, сама GabyT публично не высказывалась.\n\nПохоже на копию или притянуто? 👇\n\n#GTA6 #новости"
     }
   ],
   "published_topics": [
@@ -1402,7 +1421,8 @@
     "arthur-morgan-hat-port-gellhorn-yard-sale",
     "vault-radio-secret-station-dj-pretzel",
     "raina-koleva-bodybuilder-oksana-grishina",
-    "endings-factors-rob-nelson"
+    "endings-factors-rob-nelson",
+    "venturas-blvd-elegy-gta-plus-unlock"
   ],
   "owner_feedback": [
     {
@@ -1418,8 +1438,8 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-22T19:35:00Z",
-    "summary": "update 756023655: ok on #78 -> published (msg 81); drafted #79 Elegy GTA+ unlock (msg 159); pending 31,41,79 (3)",
+    "at": "2026-11-22T20:36:00Z",
+    "summary": "update 756023656: ok on #79 -> published (msg 82); drafted #80 SMG decal plagiarism (msg 161); pending 31,41,80 (3)",
     "note": "published 1, drafted 1"
   }
 }
