@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023650,
-  "last_published_at": "2026-11-22T13:33:06Z",
+  "last_update_id": 756023651,
+  "last_published_at": "2026-11-22T15:32:18Z",
   "next_draft_number": 75,
   "drafts": [
     {
@@ -1221,7 +1221,7 @@
     },
     {
       "number": "74",
-      "status": "pending",
+      "status": "published",
       "topic": "free-leonida-map-cover-poster-download",
       "message_id": "149",
       "media": "posts/2026-11-22-free-leonida-map.png",
@@ -1232,7 +1232,11 @@
       "note": "Free map+cover art at rockstargames.com/VI/media since Nov 19; $0.99 double-sided poster / free with store order per Ofzen (Rockstar Newswire Nov 3)",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@778a3be/posts/2026-11-22-free-leonida-map.png",
       "photo_file_id": "AgACAgQAAxkDAAOVawL9Ug5Ueh_ZTJCHTqpm-ltjMrYAAvUQaxv8BB1QIcDPt51cAAE_AQADAgADeQADPQQ",
-      "caption": "🗺 <b>Карта Леониды — бесплатно от Rockstar</b>\n\nВ коробке с GTA 6 бумажной карты нет — Rockstar сделала её цифровой. Официальную карту Леониды и постер с обложкой игры можно бесплатно скачать на сайте Rockstar (rockstargames.com/VI → Media) и распечатать хоть на всю стену.\n\nКому нужен готовый вариант: в Rockstar Store обещали двусторонний постер (карта + обложка) за $0,99, а к любому заказу в магазине — бесплатно. Доставка оплачивается отдельно.\n\nПовесите карту рядом с монитором? 👇\n\n#GTA6 #гайды"
+      "caption": "🗺 <b>Карта Леониды — бесплатно от Rockstar</b>\n\nВ коробке с GTA 6 бумажной карты нет — Rockstar сделала её цифровой. Официальную карту Леониды и постер с обложкой игры можно бесплатно скачать на сайте Rockstar (rockstargames.com/VI → Media) и распечатать хоть на всю стену.\n\nКому нужен готовый вариант: в Rockstar Store обещали двусторонний постер (карта + обложка) за $0,99, а к любому заказу в магазине — бесплатно. Доставка оплачивается отдельно.\n\nПовесите карту рядом с монитором? 👇\n\n#GTA6 #гайды",
+      "approved_update_id": "756023651",
+      "approved_at": "2026-11-22T14:40:24Z",
+      "channel_message_id": "77",
+      "published_at": "2026-11-22T15:32:18Z"
     }
   ],
   "published_topics": [
@@ -1304,7 +1308,8 @@
     "red-hulk-strawberry-farmer-side-quest",
     "bikini-girl-trailer1-yacht-npc",
     "hidden-mechanics-flip-cars-sit-anywhere",
-    "hunger-games-hunt-event-hyde-island"
+    "hunger-games-hunt-event-hyde-island",
+    "free-leonida-map-cover-poster-download"
   ],
   "owner_feedback": [
     {
