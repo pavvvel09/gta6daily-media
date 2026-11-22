@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023647,
-  "last_published_at": "2026-11-22T10:33:18Z",
+  "last_update_id": 756023648,
+  "last_published_at": "2026-11-22T11:32:29Z",
   "next_draft_number": 72,
   "drafts": [
     {
@@ -1167,7 +1167,7 @@
     },
     {
       "number": "71",
-      "status": "pending",
+      "status": "published",
       "topic": "bikini-girl-trailer1-yacht-npc",
       "message_id": "143",
       "media": "posts/2026-11-22-bikini-girl-found.png",
@@ -1177,7 +1177,11 @@
       "note": "UNILAD Tech Nov 20 (Reddit u/bubzbeex, Day Release yacht party); Yahoo Tech headline 'She's a Background NPC'",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@8e44af0/posts/2026-11-22-bikini-girl-found.png",
       "photo_file_id": "AgACAgQAAxkDAAOPawLFV_8lQZqIPTx14YPkDLLZ2P8AAngQaxv0vx1QiLw1d1qpXN8BAAMCAAN5AAM9BA",
-      "caption": "👙 <b>«Девушку в бикини» из трейлера нашли</b>\n\nПомните вирусный кадр с девушкой в бикини из первого трейлера 2023 года? Фанаты годами гадали, кто она и будет ли в игре.\n\nОтвет нашёл пользователь Reddit: это обычный NPC на вечеринке на яхте в миссии «Day Release» (глава 1). Ищите её на корме.\n\nЛучшая деталь: когда Люсия подходит ближе, девушка спрашивает, не знаменитость ли она, — похоже на шутку Rockstar про её интернет-славу.\n\nУже видели её? Пишите в комментах 👇\n\n#GTA6 #пасхалки #секреты"
+      "caption": "👙 <b>«Девушку в бикини» из трейлера нашли</b>\n\nПомните вирусный кадр с девушкой в бикини из первого трейлера 2023 года? Фанаты годами гадали, кто она и будет ли в игре.\n\nОтвет нашёл пользователь Reddit: это обычный NPC на вечеринке на яхте в миссии «Day Release» (глава 1). Ищите её на корме.\n\nЛучшая деталь: когда Люсия подходит ближе, девушка спрашивает, не знаменитость ли она, — похоже на шутку Rockstar про её интернет-славу.\n\nУже видели её? Пишите в комментах 👇\n\n#GTA6 #пасхалки #секреты",
+      "approved_update_id": "756023648",
+      "approved_at": "2026-11-22T11:18:30Z",
+      "channel_message_id": "74",
+      "published_at": "2026-11-22T11:32:29Z"
     }
   ],
   "published_topics": [
@@ -1246,7 +1250,8 @@
     "dangelo-unreleased-kamikazi-worldwide-fm",
     "skeeters-bar-south-park-hamlet",
     "metacritic-user-score-review-bombing",
-    "red-hulk-strawberry-farmer-side-quest"
+    "red-hulk-strawberry-farmer-side-quest",
+    "bikini-girl-trailer1-yacht-npc"
   ],
   "owner_feedback": [
     {
