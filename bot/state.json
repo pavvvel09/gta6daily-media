@@ -1,7 +1,7 @@
 {
-  "last_update_id": 756023658,
-  "last_published_at": "2026-11-22T22:34:49Z",
-  "next_draft_number": 83,
+  "last_update_id": 756023659,
+  "last_published_at": "2026-11-22T23:35:32Z",
+  "next_draft_number": 84,
   "drafts": [
     {
       "number": 3,
@@ -1371,7 +1371,7 @@
     },
     {
       "number": "82",
-      "status": "pending",
+      "status": "published",
       "topic": "ishowspeed-52h-finish-tears",
       "message_id": "165",
       "media": "posts/2026-11-22-ishowspeed-52h-finish.png",
@@ -1382,7 +1382,26 @@
       "note": "Dexerto Nov 21: live 9pm ET Nov 18 on YouTube+Twitch, 82% at 40h, PS5 crash, ~52h, cried, 120M+ views on 3 VODs, teased huge announcement. No ending spoilers.",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@b00e627/posts/2026-11-22-ishowspeed-52h-finish.png",
       "photo_file_id": "AgACAgQAAxkDAAOlawNufmsant4jhQPmYC1nruRzTaAAArIRaxt3zh1Q3Yr22xWhoDsBAAMCAAN5AAM9BA",
-      "caption": "😭 <b>IShowSpeed прошёл GTA 6 за 52 часа без сна</b>\n\nСпид обещал «всего 12 часов» стрима, а в итоге не отходил от игры двое с лишним суток. Старт — 19 ноября в 03:00 по Варшаве (05:00 МСК), трансляция шла на YouTube и Twitch.\n\n🎮 К 40-му часу было пройдено 82% сюжета, потом PS5 вылетела прямо в катсцене и откатила его назад.\n🏁 Финальные титры — примерно через 52 часа. Концовка его ошарашила, и он расплакался в эфире.\n👀 Три части записи на YouTube уже набрали больше 120 млн просмотров.\n\nНапоследок Спид пообещал «большой анонс» — какой, не сказал.\n\n📺 <a href=\"https://www.youtube.com/@IShowSpeed\">IShowSpeed на YouTube</a>\n\n#GTA6 #стримеры"
+      "caption": "😭 <b>IShowSpeed прошёл GTA 6 за 52 часа без сна</b>\n\nСпид обещал «всего 12 часов» стрима, а в итоге не отходил от игры двое с лишним суток. Старт — 19 ноября в 03:00 по Варшаве (05:00 МСК), трансляция шла на YouTube и Twitch.\n\n🎮 К 40-му часу было пройдено 82% сюжета, потом PS5 вылетела прямо в катсцене и откатила его назад.\n🏁 Финальные титры — примерно через 52 часа. Концовка его ошарашила, и он расплакался в эфире.\n👀 Три части записи на YouTube уже набрали больше 120 млн просмотров.\n\nНапоследок Спид пообещал «большой анонс» — какой, не сказал.\n\n📺 <a href=\"https://www.youtube.com/@IShowSpeed\">IShowSpeed на YouTube</a>\n\n#GTA6 #стримеры",
+      "approved_update_id": "756023659",
+      "approved_at": "2026-11-22T22:36:53Z",
+      "channel_message_id": "85",
+      "published_at": "2026-11-22T23:35:32Z"
+    },
+    {
+      "number": "83",
+      "status": "pending",
+      "topic": "ps5-crash-ce-108255-1",
+      "message_id": "167",
+      "media": "posts/2026-11-23-ps5-crash-ce-108255.png",
+      "media_type": "photo",
+      "created_at": "2026-11-22T23:37:00Z",
+      "source": "https://notebookcheck.net/GTA-6-crashes-on-PS5-with-error-CE-108255-1-leaving-players-stuck-between-Sony-and-Rockstar-support.1456098.0.html",
+      "source_alt": "https://happygamer.com/gta-6-day-4-live-updates-178460/",
+      "note": "Notebookcheck Nov 21: no Rockstar fix, Sony no ack; HappyGamer claims 602MB update clears it (unverified, conflicting). Re-check for a fix before publishing.",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@5112094/posts/2026-11-23-ps5-crash-ce-108255.png",
+      "photo_file_id": "AgACAgQAAxkDAAOnawN8nOOfHmcx-rlzOF-S_1N3_YYAAtYRaxsKrR1QvNzfFQ_apo0BAAMCAAN5AAM9BA",
+      "caption": "⚠️ <b>GTA 6 вылетает на PS5: ошибка CE-108255-1</b>\n\nС момента релиза игроки жалуются: GTA 6 внезапно закрывается на главный экран консоли. Чаще всего — на обычной PS5 и Slim, но есть отчёты и от владельцев PS5 Pro.\n\n💥 Вылетает при запуске, на загрузке, во вступительной катсцене и в первых миссиях.\n🔧 Переустановка, очистка кэша, восстановление базы данных и лицензий, по словам игроков, не помогают.\n🤷 Rockstar отправляет в поддержку Sony, Sony советует обновить игру. Патча под эту ошибку пока нет.\n💸 Одному игроку в поддержке Sony предложили ремонт за $230, другой агент назвал сбой программным — с ремонтом лучше не спешить.\n\nВылетало у вас? Пишите в комментариях 👇\n\n#GTA6 #новости"
     }
   ],
   "published_topics": [
@@ -1462,7 +1481,8 @@
     "endings-factors-rob-nelson",
     "venturas-blvd-elegy-gta-plus-unlock",
     "smg-decal-plagiarism-gabyt",
-    "cyberleek-xbox-build-leak"
+    "cyberleek-xbox-build-leak",
+    "ishowspeed-52h-finish-tears"
   ],
   "owner_feedback": [
     {
@@ -1478,8 +1498,8 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-22T22:37:00Z",
-    "summary": "update 756023658: ok on #81 -> published (msg 84); drafted #82 IShowSpeed 52h finish (msg 165); pending 31,41,82 (3)",
+    "at": "2026-11-22T23:38:00Z",
+    "summary": "update 756023659: ok on #82 -> published (msg 85); drafted #83 PS5 crash CE-108255-1 (msg 167); pending 31,41,83 (3)",
     "note": "published 1, drafted 1"
   }
 }
