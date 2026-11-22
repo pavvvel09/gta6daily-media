@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023646,
-  "last_published_at": "2026-11-21T23:32:59Z",
+  "last_update_id": 756023647,
+  "last_published_at": "2026-11-22T10:33:18Z",
   "next_draft_number": 71,
   "drafts": [
     {
@@ -1149,7 +1149,7 @@
     },
     {
       "number": "70",
-      "status": "pending",
+      "status": "published",
       "topic": "red-hulk-strawberry-farmer-side-quest",
       "message_id": "141",
       "media": "posts/2026-11-22-red-hulk-strawberry-farm.png",
@@ -1159,7 +1159,11 @@
       "note": "Kotaku Nov 19 (Rebekah Valentine, Zack Zwiezen; Rob Nelson quote); Comic Basics Nov 19 (helicopter scene, via Omelete)",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@5615e57/posts/2026-11-22-red-hulk-strawberry-farm.png",
       "photo_file_id": "AgACAgQAAxkDAAONawKMr-GtMtOxliTnPzlHue08h0IAAkUQaxvZKB1Q5Nq3w9jtQaABAAMCAAN5AAM9BA",
-      "caption": "💪 <b>В GTA 6 нашли «Красного Халка»</b>\n\nВ одной из побочек Джейсон помогает фермеру вырастить гигантскую клубнику. Фермер льёт на грядки сомнительную химию — и на свет появляется огромный красный здоровяк.\n\nФанаты сразу увидели пародию на Красного Халка из «Капитана Америки: О дивный новый мир» — есть даже сцена с вертолётом над ним.\n\nМиссию одним из первых показал <a href=\"https://www.youtube.com/@IShowSpeed\">IShowSpeed</a> на стриме. А Роб Нельсон из Rockstar рассказал Kotaku, что команда в таких случаях спрашивает себя: «Не слишком ли мы сходим с ума?»\n\nУже встречали его? Пишите в комментах 👇\n\n#GTA6 #пасхалки #стримеры"
+      "caption": "💪 <b>В GTA 6 нашли «Красного Халка»</b>\n\nВ одной из побочек Джейсон помогает фермеру вырастить гигантскую клубнику. Фермер льёт на грядки сомнительную химию — и на свет появляется огромный красный здоровяк.\n\nФанаты сразу увидели пародию на Красного Халка из «Капитана Америки: О дивный новый мир» — есть даже сцена с вертолётом над ним.\n\nМиссию одним из первых показал <a href=\"https://www.youtube.com/@IShowSpeed\">IShowSpeed</a> на стриме. А Роб Нельсон из Rockstar рассказал Kotaku, что команда в таких случаях спрашивает себя: «Не слишком ли мы сходим с ума?»\n\nУже встречали его? Пишите в комментах 👇\n\n#GTA6 #пасхалки #стримеры",
+      "approved_update_id": 756023647,
+      "approved_at": "2026-11-22T10:14:19Z",
+      "channel_message_id": 73,
+      "published_at": "2026-11-22T10:33:18Z"
     }
   ],
   "published_topics": [
@@ -1227,7 +1231,8 @@
     "circana-launch-day-61-percent-ps5-players",
     "dangelo-unreleased-kamikazi-worldwide-fm",
     "skeeters-bar-south-park-hamlet",
-    "metacritic-user-score-review-bombing"
+    "metacritic-user-score-review-bombing",
+    "red-hulk-strawberry-farmer-side-quest"
   ],
   "owner_feedback": [
     {
