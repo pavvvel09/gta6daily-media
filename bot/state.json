@@ -1,7 +1,7 @@
 {
-  "last_update_id": 756023657,
-  "last_published_at": "2026-11-22T21:34:21Z",
-  "next_draft_number": 82,
+  "last_update_id": 756023658,
+  "last_published_at": "2026-11-22T22:34:49Z",
+  "next_draft_number": 83,
   "drafts": [
     {
       "number": 3,
@@ -1352,7 +1352,7 @@
     },
     {
       "number": "81",
-      "status": "pending",
+      "status": "published",
       "topic": "cyberleek-xbox-build-leak",
       "message_id": "163",
       "media": "posts/2026-11-22-cyberleek-xbox-build.png",
@@ -1363,7 +1363,26 @@
       "note": "VGC/Notebookcheck Nov 19, TweakTown Nov 22. Unverified leak; exe timer ~Nov 23; no Rockstar statement on build. If exe drops before approval, update text.",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@cd9ff52/posts/2026-11-22-cyberleek-xbox-build.png",
       "photo_file_id": "AgACAgQAAxkDAAOjawNgWU1kfV-1efXklWntiCAfS-UAArcRaxuFkx1QMpTvi5MqHdYBAAMCAAN5AAM9BA",
-      "caption": "🔎 <b>Хакеры выложили Xbox-билд GTA 6</b>\n\nГруппа Cyberleek, которая весь год сливала геймплей, выложила сборку GTA 6 для Xbox (версия 1.0.2.1) — около 209 ГБ файлов. Не хватает главного: исполняемого файла, без которого игра не запустится.\n\n⏳ Его обещают выложить по таймеру 23 ноября — или раньше, если их мем-коин дорастёт до $15 млн капитализации.\n💻 Хакеры уверяют, что через неделю игру запустят на ПК. Пока это только слова: работающий порт никто не показал.\n🤐 Rockstar и Take-Two по этой сборке не высказывались.\n\n⚠️ Не качайте «билды» и «ПК-версии» по ссылкам из чатов — под видом утечек часто раздают вирусы и стилеры.\n\n#GTA6 #новости"
+      "caption": "🔎 <b>Хакеры выложили Xbox-билд GTA 6</b>\n\nГруппа Cyberleek, которая весь год сливала геймплей, выложила сборку GTA 6 для Xbox (версия 1.0.2.1) — около 209 ГБ файлов. Не хватает главного: исполняемого файла, без которого игра не запустится.\n\n⏳ Его обещают выложить по таймеру 23 ноября — или раньше, если их мем-коин дорастёт до $15 млн капитализации.\n💻 Хакеры уверяют, что через неделю игру запустят на ПК. Пока это только слова: работающий порт никто не показал.\n🤐 Rockstar и Take-Two по этой сборке не высказывались.\n\n⚠️ Не качайте «билды» и «ПК-версии» по ссылкам из чатов — под видом утечек часто раздают вирусы и стилеры.\n\n#GTA6 #новости",
+      "approved_update_id": "756023658",
+      "approved_at": "2026-11-22T21:56:00Z",
+      "channel_message_id": "84",
+      "published_at": "2026-11-22T22:34:49Z"
+    },
+    {
+      "number": "82",
+      "status": "pending",
+      "topic": "ishowspeed-52h-finish-tears",
+      "message_id": "165",
+      "media": "posts/2026-11-22-ishowspeed-52h-finish.png",
+      "media_type": "photo",
+      "created_at": "2026-11-22T22:36:46Z",
+      "source": "https://www.dexerto.com/youtube/ishowspeed-breaks-down-in-tears-after-finishing-gta-6-in-52-hours-without-sleeping-3430267/",
+      "source_alt": "https://www.freepressjournal.in/viral/insane-youtuber-ishowspeed-completes-gta-6-story-after-52-hour-nonstop-livestream-without-sleep-lashes-out-after-disappointing-end",
+      "note": "Dexerto Nov 21: live 9pm ET Nov 18 on YouTube+Twitch, 82% at 40h, PS5 crash, ~52h, cried, 120M+ views on 3 VODs, teased huge announcement. No ending spoilers.",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@b00e627/posts/2026-11-22-ishowspeed-52h-finish.png",
+      "photo_file_id": "AgACAgQAAxkDAAOlawNufmsant4jhQPmYC1nruRzTaAAArIRaxt3zh1Q3Yr22xWhoDsBAAMCAAN5AAM9BA",
+      "caption": "😭 <b>IShowSpeed прошёл GTA 6 за 52 часа без сна</b>\n\nСпид обещал «всего 12 часов» стрима, а в итоге не отходил от игры двое с лишним суток. Старт — 19 ноября в 03:00 по Варшаве (05:00 МСК), трансляция шла на YouTube и Twitch.\n\n🎮 К 40-му часу было пройдено 82% сюжета, потом PS5 вылетела прямо в катсцене и откатила его назад.\n🏁 Финальные титры — примерно через 52 часа. Концовка его ошарашила, и он расплакался в эфире.\n👀 Три части записи на YouTube уже набрали больше 120 млн просмотров.\n\nНапоследок Спид пообещал «большой анонс» — какой, не сказал.\n\n📺 <a href=\"https://www.youtube.com/@IShowSpeed\">IShowSpeed на YouTube</a>\n\n#GTA6 #стримеры"
     }
   ],
   "published_topics": [
@@ -1442,7 +1461,8 @@
     "raina-koleva-bodybuilder-oksana-grishina",
     "endings-factors-rob-nelson",
     "venturas-blvd-elegy-gta-plus-unlock",
-    "smg-decal-plagiarism-gabyt"
+    "smg-decal-plagiarism-gabyt",
+    "cyberleek-xbox-build-leak"
   ],
   "owner_feedback": [
     {
@@ -1458,8 +1478,8 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-22T21:37:00Z",
-    "summary": "update 756023657: ok on #80 -> published (msg 83); drafted #81 Cyberleek Xbox build leak (msg 163); pending 31,41,81 (3)",
+    "at": "2026-11-22T22:37:00Z",
+    "summary": "update 756023658: ok on #81 -> published (msg 84); drafted #82 IShowSpeed 52h finish (msg 165); pending 31,41,82 (3)",
     "note": "published 1, drafted 1"
   }
 }
