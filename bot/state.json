@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023656,
-  "last_published_at": "2026-11-22T20:33:53Z",
+  "last_update_id": 756023657,
+  "last_published_at": "2026-11-22T21:34:21Z",
   "next_draft_number": 81,
   "drafts": [
     {
@@ -1333,7 +1333,7 @@
     },
     {
       "number": "80",
-      "status": "pending",
+      "status": "published",
       "topic": "smg-decal-plagiarism-gabyt",
       "message_id": "161",
       "media": "posts/2026-11-22-smg-decal-plagiarism.png",
@@ -1344,7 +1344,11 @@
       "note": "GameRant Nov 21, Notebookcheck Nov 22. Fan accusation (Glacius/@TaurineYeen, sockz overlay); no Rockstar or artist statement.",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@6861fee/posts/2026-11-22-smg-decal-plagiarism.png",
       "photo_file_id": "AgACAgQAAxkDAAOhawNSJbHIG17bgGD6pyFMUqGFSf0AAlIRaxs6ZyVQ3wvKc6Xn89YBAAMCAAN5AAM9BA",
-      "caption": "🔎 <b>GTA 6 впервые обвинили в плагиате</b>\n\nВ побочном квесте с Чейзом (тот самый парень в костюме лиса) можно забрать кастомный SMG вместо $15 000. Фанаты в X заметили: принт на нём очень похож на заказной арт художницы GabyT из декабря 2021 года.\n\n🖼 Пользователи сделали наложение — по их версии, рисунок отзеркалили и обвели, добавив кость в зубы и затемнив цвета.\n🤔 Не все согласны: часть игроков считает, что контуры совпадают плохо.\n🤐 Rockstar и Take-Two пока молчат, сама GabyT публично не высказывалась.\n\nПохоже на копию или притянуто? 👇\n\n#GTA6 #новости"
+      "caption": "🔎 <b>GTA 6 впервые обвинили в плагиате</b>\n\nВ побочном квесте с Чейзом (тот самый парень в костюме лиса) можно забрать кастомный SMG вместо $15 000. Фанаты в X заметили: принт на нём очень похож на заказной арт художницы GabyT из декабря 2021 года.\n\n🖼 Пользователи сделали наложение — по их версии, рисунок отзеркалили и обвели, добавив кость в зубы и затемнив цвета.\n🤔 Не все согласны: часть игроков считает, что контуры совпадают плохо.\n🤐 Rockstar и Take-Two пока молчат, сама GabyT публично не высказывалась.\n\nПохоже на копию или притянуто? 👇\n\n#GTA6 #новости",
+      "approved_update_id": "756023657",
+      "approved_at": "2026-11-22T20:36:40Z",
+      "channel_message_id": "83",
+      "published_at": "2026-11-22T21:34:21Z"
     }
   ],
   "published_topics": [
@@ -1422,7 +1426,8 @@
     "vault-radio-secret-station-dj-pretzel",
     "raina-koleva-bodybuilder-oksana-grishina",
     "endings-factors-rob-nelson",
-    "venturas-blvd-elegy-gta-plus-unlock"
+    "venturas-blvd-elegy-gta-plus-unlock",
+    "smg-decal-plagiarism-gabyt"
   ],
   "owner_feedback": [
     {
