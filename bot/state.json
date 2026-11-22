@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023648,
   "last_published_at": "2026-11-22T11:32:29Z",
-  "next_draft_number": 72,
+  "next_draft_number": 73,
   "drafts": [
     {
       "number": 3,
@@ -1182,6 +1182,20 @@
       "approved_at": "2026-11-22T11:18:30Z",
       "channel_message_id": "74",
       "published_at": "2026-11-22T11:32:29Z"
+    },
+    {
+      "number": "72",
+      "status": "pending",
+      "topic": "hidden-mechanics-flip-cars-sit-anywhere",
+      "message_id": "145",
+      "media": "posts/2026-11-22-flip-cars-sit-anywhere.png",
+      "media_type": "photo",
+      "created_at": "2026-11-22T11:34:06Z",
+      "source": "https://kotaku.com/two-cool-hidden-features-gta-6-doesnt-explain-flipping-and-sitting-2000757835",
+      "note": "Kotaku Nov 19 (Zack Zwiezen), Tips & Guides; also item in Kotaku 18 coolest details",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@87e8bda/posts/2026-11-22-flip-cars-sit-anywhere.png",
+      "photo_file_id": "AgACAgQAAxkDAAORawLTLqVWpSSXfWpZJaRuAAHwdul5AAICEWsbLkocUJbQrLhVh-PoAQADAgADeQADPQQ",
+      "caption": "🛠 <b>Две фишки GTA 6, о которых игра молчит</b>\n\n<b>1. Перевернуть машину руками.</b> Подойдите вплотную к перевёрнутой тачке, нажмите L3, затем держите □ (PS) / X (Xbox) — Джейсон или Люсия упрутся и поставят её на колёса. Не выйдет, если машина слишком тяжёлая, кончилась выносливость или стоите на крутом склоне.\n\nТак же можно толкать заглохшую машину или спихнуть лодку и гидроцикл с песка в воду. Удобно, когда за вами копы и приложение Scooter Bros не работает.\n\n<b>2. Сесть где угодно.</b> Пешком держите ○ (PS) / B (Xbox): на траве и песке герой сядет, у стены — прислонится, в остальных местах — обопрётся на ногу.\n\nА вы знали? Пишите в комментах 👇\n\n#GTA6 #гайды #секреты"
     }
   ],
   "published_topics": [
@@ -1267,8 +1281,8 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-22T10:35:30Z",
-    "summary": "owner approved #70 (update 756023647) → published to channel (msg 73); new draft #71 bikini girl sent (msg 143); pending 31,41,71 (3)",
+    "at": "2026-11-22T11:34:30Z",
+    "summary": "owner approved #71 (update 756023648) → published to channel (msg 74); new draft #72 flip cars/sit anywhere sent (msg 145); pending 31,41,72 (3)",
     "note": "published 1, drafted 1"
   }
 }
