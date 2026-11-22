@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023651,
   "last_published_at": "2026-11-22T15:32:18Z",
-  "next_draft_number": 75,
+  "next_draft_number": 76,
   "drafts": [
     {
       "number": 3,
@@ -1237,6 +1237,21 @@
       "approved_at": "2026-11-22T14:40:24Z",
       "channel_message_id": "77",
       "published_at": "2026-11-22T15:32:18Z"
+    },
+    {
+      "number": "75",
+      "status": "pending",
+      "topic": "arthur-morgan-hat-port-gellhorn-yard-sale",
+      "message_id": "151",
+      "media": "posts/2026-11-22-arthur-morgan-hat.png",
+      "media_type": "photo",
+      "created_at": "2026-11-22T15:34:25Z",
+      "source": "https://www.gfinityesports.com/article/gta-6-how-to-find-arthur-morgans-hat-red-dead-redemption-2-easter-egg",
+      "source_alt": "https://cyber.sports.ru/games/blogs/3640089.html",
+      "note": "Gfinity, GamesHorizon, cyber.sports.ru Nov 19; BuzzFeed list cites PC Gamer. $35, Ch.2, buy as Lucia",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@ac15eaa/posts/2026-11-22-arthur-morgan-hat.png",
+      "photo_file_id": "AgACAgQAAxkDAAOXawMLgaGYnVss47rDpzsiP6kwl_cAAgMRaxtRnhxQFCEb8dxNxvIBAAMCAAN5AAM9BA",
+      "caption": "🤠 <b>Шляпа Артура Моргана в GTA 6</b>\n\nRockstar спрятала привет из Red Dead Redemption 2: на дворовой распродаже в Порт-Геллхорне продают ковбойскую шляпу с узнаваемым узлом на ремешке — копию шляпы Артура.\n\n📍 Юг Порт-Геллхорна, синий дом с шариками недалеко от автомастерской Мозеса. Шляпа «Genuine Cowboy Hat» лежит на диване во дворе.\n💵 Цена — $35. Доступна со второй главы, покупать за Люсию; позже её сможет надеть и Джейсон.\n\nСтоит взять, пока распродажа на месте. Уже нашли? 👇\n\n#GTA6 #пасхалки"
     }
   ],
   "published_topics": [
@@ -1325,8 +1340,8 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-22T14:48:00Z",
-    "summary": "no new updates (offset 756023651); nothing approved to publish; drafted #74 free Leonida map/poster (msg 149); pending 31,41,74 (3)",
-    "note": "published 0, drafted 1"
+    "at": "2026-11-22T15:35:00Z",
+    "summary": "update 756023651: ok on #74 -> published to channel (msg 77); drafted #75 Arthur Morgan hat (msg 151); pending 31,41,75 (3)",
+    "note": "published 1, drafted 1"
   }
 }
