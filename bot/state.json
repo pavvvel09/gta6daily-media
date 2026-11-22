@@ -1,7 +1,7 @@
 {
  "last_update_id": 756023649,
  "last_published_at": "2026-11-22T12:32:47Z",
- "next_draft_number": 73,
+ "next_draft_number": 74,
  "drafts": [
   {
    "number": 3,
@@ -1200,6 +1200,20 @@
    "approved_at": "2026-11-22T12:23:13Z",
    "channel_message_id": "75",
    "published_at": "2026-11-22T12:32:47Z"
+  },
+  {
+   "number": "73",
+   "status": "pending",
+   "topic": "hunger-games-hunt-event-hyde-island",
+   "message_id": "147",
+   "media": "posts/2026-11-22-hunger-games-hunt-event.png",
+   "media_type": "photo",
+   "created_at": "2026-11-22T12:34:16Z",
+   "source": "https://www.gamebyte.com/gta-6-hunger-games-secret/",
+   "note": "GameByte Nov 21 (Will Pell), clip by Spectrex Gaming; location Hyde Island per GamingBible",
+   "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@6f17c8b/posts/2026-11-22-hunger-games-hunt-event.png",
+   "photo_file_id": "AgACAgQAAxkDAAOTawLhSPu4_oAGlVm7JDBYzO0I2GYAAvUQaxsn8xxQLx4J3HcGePABAAMCAAN5AAM9BA",
+   "caption": "🔦 <b>Секретное событие: охота на Люсию</b>\n\nИгроки нашли в GTA 6 скрытое событие в духе «Голодных игр»: героиню похищают, запирают в контейнере, а потом выпускают в лес с одной целью — «Выжить».\n\nЗа ней идут охотники с фонарями, лазерными прицелами, ПНВ и собаками. Отбиваться можно найденными ножом и винтовкой, а уплыть не выйдет — на шее устройство, которое не даёт сбежать по воде.\n\nПо данным GamingBible, всё происходит на Хайд-Айленде на юго-западе карты. Как именно запустить событие — пока неясно. Многие видят тут отсылку к Manhunt (2003) от самой Rockstar.\n\nПопадались охотникам? Пишите в комментах 👇\n\n#GTA6 #секреты #пасхалки"
   }
  ],
  "published_topics": [
@@ -1286,8 +1300,8 @@
   "note": "published on owner's direct request in chat; owner adds partner links himself"
  },
  "last_run": {
-  "at": "2026-11-22T12:33:00Z",
-  "summary": "owner approved #72 (update 756023649) → published to channel (msg 75); pending 31,41",
-  "note": "published 1"
+  "at": "2026-11-22T12:34:30Z",
+  "summary": "owner approved #72 (update 756023649) → published to channel (msg 75); new draft #73 hunger games hunt event sent (msg 147); pending 31,41,73 (3)",
+  "note": "published 1, drafted 1"
  }
 }
