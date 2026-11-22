@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023653,
-  "last_published_at": "2026-11-22T17:32:50Z",
+  "last_update_id": 756023654,
+  "last_published_at": "2026-11-22T18:33:14Z",
   "next_draft_number": 78,
   "drafts": [
     {
@@ -1278,7 +1278,7 @@
     },
     {
       "number": "77",
-      "status": "pending",
+      "status": "published",
       "topic": "raina-koleva-bodybuilder-oksana-grishina",
       "message_id": "155",
       "media": "posts/2026-11-22-raina-koleva-grishina.png",
@@ -1288,7 +1288,11 @@
       "note": "Championat Nov 22 17:01 MSK; Grishina's own social post; name in credits. Single outlet.",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@636f726/posts/2026-11-22-raina-koleva-grishina.png",
       "photo_file_id": "AgACAgQAAxkDAAObawMnxxeIuFd_y4McdOXS_pjMpmEAAlURaxsx5R1Q6mQ7F8RGoNcBAAMCAAN5AAM9BA",
-      "caption": "🏋️ <b>Бодибилдершу в GTA 6 сыграла россиянка</b>\n\nВ четвёртой главе, в миссии «Грязная работа», появляется бодибилдерша Раина Колева. Внешность и голос ей подарила Оксана Гришина — спортсменка из Калининграда, четырёхкратная чемпионка Olympia. Её имя есть в титрах игры.\n\n🗣 Раина говорит и по-английски, и по-русски.\n⏳ Гришина рассказала, что работала над проектом почти пять лет и молчала до релиза.\n\nУже встретили Раину? 👇\n\n#GTA6 #факты"
+      "caption": "🏋️ <b>Бодибилдершу в GTA 6 сыграла россиянка</b>\n\nВ четвёртой главе, в миссии «Грязная работа», появляется бодибилдерша Раина Колева. Внешность и голос ей подарила Оксана Гришина — спортсменка из Калининграда, четырёхкратная чемпионка Olympia. Её имя есть в титрах игры.\n\n🗣 Раина говорит и по-английски, и по-русски.\n⏳ Гришина рассказала, что работала над проектом почти пять лет и молчала до релиза.\n\nУже встретили Раину? 👇\n\n#GTA6 #факты",
+      "approved_update_id": "756023654",
+      "approved_at": "2026-11-22T18:21:24Z",
+      "channel_message_id": "80",
+      "published_at": "2026-11-22T18:33:14Z"
     }
   ],
   "published_topics": [
@@ -1363,7 +1367,8 @@
     "hunger-games-hunt-event-hyde-island",
     "free-leonida-map-cover-poster-download",
     "arthur-morgan-hat-port-gellhorn-yard-sale",
-    "vault-radio-secret-station-dj-pretzel"
+    "vault-radio-secret-station-dj-pretzel",
+    "raina-koleva-bodybuilder-oksana-grishina"
   ],
   "owner_feedback": [
     {
