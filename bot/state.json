@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023651,
-  "last_published_at": "2026-11-22T15:32:18Z",
+  "last_update_id": 756023652,
+  "last_published_at": "2026-11-22T16:32:35Z",
   "next_draft_number": 76,
   "drafts": [
     {
@@ -1240,7 +1240,7 @@
     },
     {
       "number": "75",
-      "status": "pending",
+      "status": "published",
       "topic": "arthur-morgan-hat-port-gellhorn-yard-sale",
       "message_id": "151",
       "media": "posts/2026-11-22-arthur-morgan-hat.png",
@@ -1251,7 +1251,11 @@
       "note": "Gfinity, GamesHorizon, cyber.sports.ru Nov 19; BuzzFeed list cites PC Gamer. $35, Ch.2, buy as Lucia",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@ac15eaa/posts/2026-11-22-arthur-morgan-hat.png",
       "photo_file_id": "AgACAgQAAxkDAAOXawMLgaGYnVss47rDpzsiP6kwl_cAAgMRaxtRnhxQFCEb8dxNxvIBAAMCAAN5AAM9BA",
-      "caption": "🤠 <b>Шляпа Артура Моргана в GTA 6</b>\n\nRockstar спрятала привет из Red Dead Redemption 2: на дворовой распродаже в Порт-Геллхорне продают ковбойскую шляпу с узнаваемым узлом на ремешке — копию шляпы Артура.\n\n📍 Юг Порт-Геллхорна, синий дом с шариками недалеко от автомастерской Мозеса. Шляпа «Genuine Cowboy Hat» лежит на диване во дворе.\n💵 Цена — $35. Доступна со второй главы, покупать за Люсию; позже её сможет надеть и Джейсон.\n\nСтоит взять, пока распродажа на месте. Уже нашли? 👇\n\n#GTA6 #пасхалки"
+      "caption": "🤠 <b>Шляпа Артура Моргана в GTA 6</b>\n\nRockstar спрятала привет из Red Dead Redemption 2: на дворовой распродаже в Порт-Геллхорне продают ковбойскую шляпу с узнаваемым узлом на ремешке — копию шляпы Артура.\n\n📍 Юг Порт-Геллхорна, синий дом с шариками недалеко от автомастерской Мозеса. Шляпа «Genuine Cowboy Hat» лежит на диване во дворе.\n💵 Цена — $35. Доступна со второй главы, покупать за Люсию; позже её сможет надеть и Джейсон.\n\nСтоит взять, пока распродажа на месте. Уже нашли? 👇\n\n#GTA6 #пасхалки",
+      "approved_update_id": "756023652",
+      "approved_at": "2026-11-22T15:35:40Z",
+      "channel_message_id": "78",
+      "published_at": "2026-11-22T16:32:35Z"
     }
   ],
   "published_topics": [
@@ -1324,7 +1328,8 @@
     "bikini-girl-trailer1-yacht-npc",
     "hidden-mechanics-flip-cars-sit-anywhere",
     "hunger-games-hunt-event-hyde-island",
-    "free-leonida-map-cover-poster-download"
+    "free-leonida-map-cover-poster-download",
+    "arthur-morgan-hat-port-gellhorn-yard-sale"
   ],
   "owner_feedback": [
     {
