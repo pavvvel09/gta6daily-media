@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023650,
   "last_published_at": "2026-11-22T13:33:06Z",
-  "next_draft_number": 74,
+  "next_draft_number": 75,
   "drafts": [
     {
       "number": 3,
@@ -1218,6 +1218,21 @@
       "approved_at": "2026-11-22T12:34:23Z",
       "channel_message_id": "76",
       "published_at": "2026-11-22T13:33:06Z"
+    },
+    {
+      "number": "74",
+      "status": "pending",
+      "topic": "free-leonida-map-cover-poster-download",
+      "message_id": "149",
+      "media": "posts/2026-11-22-free-leonida-map.png",
+      "media_type": "photo",
+      "created_at": "2026-11-22T14:47:00Z",
+      "source": "https://beebom.com/gta-6-map-download/",
+      "source_alt": "https://www.gamingbible.com/news/gta-6-claim-free-gift-rockstar-celebrates-launch-651511-20261120",
+      "note": "Free map+cover art at rockstargames.com/VI/media since Nov 19; $0.99 double-sided poster / free with store order per Ofzen (Rockstar Newswire Nov 3)",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@778a3be/posts/2026-11-22-free-leonida-map.png",
+      "photo_file_id": "AgACAgQAAxkDAAOVawL9Ug5Ueh_ZTJCHTqpm-ltjMrYAAvUQaxv8BB1QIcDPt51cAAE_AQADAgADeQADPQQ",
+      "caption": "🗺 <b>Карта Леониды — бесплатно от Rockstar</b>\n\nВ коробке с GTA 6 бумажной карты нет — Rockstar сделала её цифровой. Официальную карту Леониды и постер с обложкой игры можно бесплатно скачать на сайте Rockstar (rockstargames.com/VI → Media) и распечатать хоть на всю стену.\n\nКому нужен готовый вариант: в Rockstar Store обещали двусторонний постер (карта + обложка) за $0,99, а к любому заказу в магазине — бесплатно. Доставка оплачивается отдельно.\n\nПовесите карту рядом с монитором? 👇\n\n#GTA6 #гайды"
     }
   ],
   "published_topics": [
@@ -1305,8 +1320,8 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-22T13:45:00Z",
-    "summary": "owner approved #73 (update 756023650) → published to channel (msg 76); searched for new topic (Cyberleek leak/crypto skipped, conspiracy board = dup of San Andreas house, others old) — no worthy fresh topic, no draft; pending 31,41 (2)",
-    "note": "published 1, drafted 0"
+    "at": "2026-11-22T14:48:00Z",
+    "summary": "no new updates (offset 756023651); nothing approved to publish; drafted #74 free Leonida map/poster (msg 149); pending 31,41,74 (3)",
+    "note": "published 0, drafted 1"
   }
 }
