@@ -1,7 +1,7 @@
 {
-  "last_update_id": 756023654,
-  "last_published_at": "2026-11-22T18:33:14Z",
-  "next_draft_number": 79,
+  "last_update_id": 756023655,
+  "last_published_at": "2026-11-22T19:33:35Z",
+  "next_draft_number": 80,
   "drafts": [
     {
       "number": 3,
@@ -1296,7 +1296,7 @@
     },
     {
       "number": "78",
-      "status": "pending",
+      "status": "published",
       "topic": "endings-factors-rob-nelson",
       "message_id": "157",
       "media": "posts/2026-11-22-gta6-endings-factors.png",
@@ -1307,7 +1307,25 @@
       "note": "Metaratings Nov 22 (cites IGN); el-balad/others cite Polygon: 'several' endings. '10+' number unverified -> flagged as rumor in post.",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@14b63a6/posts/2026-11-22-gta6-endings-factors.png",
       "photo_file_id": "AgACAgQAAxkDAAOdawM2CmljS83LndMlf-i1c83Nq9MAAvIQaxth5RxQUzwLsDBqcvoBAAMCAAN5AAM9BA",
-      "caption": "🎬 <b>Сколько концовок в GTA 6 и от чего они зависят</b>\n\nРоб Нельсон из Rockstar North рассказал: финалов у истории Джейсона и Люсии несколько. Одни отличаются парой реплик, другие меняют исход сильнее. Делить их на «хорошие» и «плохие» в Rockstar не стали.\n\nНа финал влияют:\n❤️ отношения Джейсона и Люсии;\n🔫 криминальный профиль — аккуратность или хаос;\n💰 сколько денег на семейном счёте к титрам;\n⚖️ ключевые решения в миссиях.\n\n🔎 Цифра «больше 10 концовок» гуляет по сети, но Rockstar точное число не называла.\n\nКакой финал вышел у вас? Только без спойлеров 👇\n\n#GTA6 #факты"
+      "caption": "🎬 <b>Сколько концовок в GTA 6 и от чего они зависят</b>\n\nРоб Нельсон из Rockstar North рассказал: финалов у истории Джейсона и Люсии несколько. Одни отличаются парой реплик, другие меняют исход сильнее. Делить их на «хорошие» и «плохие» в Rockstar не стали.\n\nНа финал влияют:\n❤️ отношения Джейсона и Люсии;\n🔫 криминальный профиль — аккуратность или хаос;\n💰 сколько денег на семейном счёте к титрам;\n⚖️ ключевые решения в миссиях.\n\n🔎 Цифра «больше 10 концовок» гуляет по сети, но Rockstar точное число не называла.\n\nКакой финал вышел у вас? Только без спойлеров 👇\n\n#GTA6 #факты",
+      "approved_update_id": 756023655,
+      "channel_message_id": "81",
+      "published_at": "2026-11-22T19:33:35Z"
+    },
+    {
+      "number": "79",
+      "status": "pending",
+      "topic": "venturas-blvd-elegy-gta-plus-unlock",
+      "message_id": "159",
+      "media": "posts/2026-11-22-elegy-gta-plus-unlock.png",
+      "media_type": "photo",
+      "created_at": "2026-11-22T19:34:22Z",
+      "source": "https://rockstarintel.com/how-to-unlock-the-venturas-blvd-elegy-in-gta-vi/",
+      "source_alt": "https://x.com/GTAGFX/status/2123728685953855503",
+      "note": "RockstarINTEL Nov 20 (upd Nov 22), credits GTAGFX. GTA+ exclusive; mission names only spoiler.",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@7c19c9f/posts/2026-11-22-elegy-gta-plus-unlock.png",
+      "photo_file_id": "AgACAgQAAxkDAAOfawNDvgfOTGpw0w4lWVZOn5TFJqEAAqURaxs4axxQmyUZOMVeLmsBAAMCAAN5AAM9BA",
+      "caption": "🚗 <b>Как забрать Elegy из 90-х в GTA 6</b>\n\nAnnis Venturas Blvd Elegy — машина-бонус для подписчиков GTA+. Нашёл её GTAGFX, порядок расписал RockstarINTEL.\n\nКак получить:\n1️⃣ активная подписка GTA+;\n2️⃣ дойти минимум до 3-й главы;\n3️⃣ зайти к Брайану в квартиру — откроется миссия «Meet the Heders»;\n4️⃣ после неё Рауль даст миссию «Car Service»;\n5️⃣ придёт уведомление и метка на карте — забираете машину.\n\n⚠️ Отмените GTA+ — доступ к Elegy пропадёт.\n\nУже катаетесь на ней? 👇\n\n#GTA6 #гайды"
     }
   ],
   "published_topics": [
@@ -1383,7 +1401,8 @@
     "free-leonida-map-cover-poster-download",
     "arthur-morgan-hat-port-gellhorn-yard-sale",
     "vault-radio-secret-station-dj-pretzel",
-    "raina-koleva-bodybuilder-oksana-grishina"
+    "raina-koleva-bodybuilder-oksana-grishina",
+    "endings-factors-rob-nelson"
   ],
   "owner_feedback": [
     {
@@ -1399,8 +1418,8 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-22T18:36:30Z",
-    "summary": "update 756023654: ok on #77 -> published (msg 80); drafted #78 endings factors (msg 157); pending 31,41,78 (3)",
+    "at": "2026-11-22T19:35:00Z",
+    "summary": "update 756023655: ok on #78 -> published (msg 81); drafted #79 Elegy GTA+ unlock (msg 159); pending 31,41,79 (3)",
     "note": "published 1, drafted 1"
   }
 }
