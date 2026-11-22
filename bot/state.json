@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023647,
   "last_published_at": "2026-11-22T10:33:18Z",
-  "next_draft_number": 71,
+  "next_draft_number": 72,
   "drafts": [
     {
       "number": 3,
@@ -1164,6 +1164,20 @@
       "approved_at": "2026-11-22T10:14:19Z",
       "channel_message_id": 73,
       "published_at": "2026-11-22T10:33:18Z"
+    },
+    {
+      "number": "71",
+      "status": "pending",
+      "topic": "bikini-girl-trailer1-yacht-npc",
+      "message_id": "143",
+      "media": "posts/2026-11-22-bikini-girl-found.png",
+      "media_type": "photo",
+      "created_at": "2026-11-22T10:35:03Z",
+      "source": "https://www.uniladtech.com/gaming/gta-6-bikini-girl-where-to-find-leonida-700501-20261120",
+      "note": "UNILAD Tech Nov 20 (Reddit u/bubzbeex, Day Release yacht party); Yahoo Tech headline 'She's a Background NPC'",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@8e44af0/posts/2026-11-22-bikini-girl-found.png",
+      "photo_file_id": "AgACAgQAAxkDAAOPawLFV_8lQZqIPTx14YPkDLLZ2P8AAngQaxv0vx1QiLw1d1qpXN8BAAMCAAN5AAM9BA",
+      "caption": "👙 <b>«Девушку в бикини» из трейлера нашли</b>\n\nПомните вирусный кадр с девушкой в бикини из первого трейлера 2023 года? Фанаты годами гадали, кто она и будет ли в игре.\n\nОтвет нашёл пользователь Reddit: это обычный NPC на вечеринке на яхте в миссии «Day Release» (глава 1). Ищите её на корме.\n\nЛучшая деталь: когда Люсия подходит ближе, девушка спрашивает, не знаменитость ли она, — похоже на шутку Rockstar про её интернет-славу.\n\nУже видели её? Пишите в комментах 👇\n\n#GTA6 #пасхалки #секреты"
     }
   ],
   "published_topics": [
@@ -1248,8 +1262,8 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-22T09:32:00Z",
-    "summary": "no new updates; no approved drafts; pending 31,41,70 (3) — no new draft",
-    "note": "published 0, drafted 0"
+    "at": "2026-11-22T10:35:30Z",
+    "summary": "owner approved #70 (update 756023647) → published to channel (msg 73); new draft #71 bikini girl sent (msg 143); pending 31,41,71 (3)",
+    "note": "published 1, drafted 1"
   }
 }
