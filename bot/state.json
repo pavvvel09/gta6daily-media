@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023653,
   "last_published_at": "2026-11-22T17:32:50Z",
-  "next_draft_number": 77,
+  "next_draft_number": 78,
   "drafts": [
     {
       "number": 3,
@@ -1275,6 +1275,20 @@
       "approved_at": "2026-11-22T17:31:15Z",
       "channel_message_id": "79",
       "published_at": "2026-11-22T17:32:50Z"
+    },
+    {
+      "number": "77",
+      "status": "pending",
+      "topic": "raina-koleva-bodybuilder-oksana-grishina",
+      "message_id": "155",
+      "media": "posts/2026-11-22-raina-koleva-grishina.png",
+      "media_type": "photo",
+      "created_at": "2026-11-22T17:35:03Z",
+      "source": "https://www.championat.com/cybersport/news-6709726-v-gta-6-est-bodibildersha-raina-koleva-eyo-sygrala-rossijskaya-sportsmenka.html",
+      "note": "Championat Nov 22 17:01 MSK; Grishina's own social post; name in credits. Single outlet.",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@636f726/posts/2026-11-22-raina-koleva-grishina.png",
+      "photo_file_id": "AgACAgQAAxkDAAObawMnxxeIuFd_y4McdOXS_pjMpmEAAlURaxsx5R1Q6mQ7F8RGoNcBAAMCAAN5AAM9BA",
+      "caption": "🏋️ <b>Бодибилдершу в GTA 6 сыграла россиянка</b>\n\nВ четвёртой главе, в миссии «Грязная работа», появляется бодибилдерша Раина Колева. Внешность и голос ей подарила Оксана Гришина — спортсменка из Калининграда, четырёхкратная чемпионка Olympia. Её имя есть в титрах игры.\n\n🗣 Раина говорит и по-английски, и по-русски.\n⏳ Гришина рассказала, что работала над проектом почти пять лет и молчала до релиза.\n\nУже встретили Раину? 👇\n\n#GTA6 #факты"
     }
   ],
   "published_topics": [
@@ -1365,8 +1379,8 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-22T17:33:00Z",
-    "summary": "update 756023653: ok on #76 -> published (msg 79); pending 31,41",
-    "note": "published 1"
+    "at": "2026-11-22T17:36:00Z",
+    "summary": "update 756023653: ok on #76 -> published (msg 79); drafted #77 Raina Koleva/Grishina (msg 155); pending 31,41,77 (3)",
+    "note": "published 1, drafted 1"
   }
 }
