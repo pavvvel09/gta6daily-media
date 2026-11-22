@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023657,
   "last_published_at": "2026-11-22T21:34:21Z",
-  "next_draft_number": 81,
+  "next_draft_number": 82,
   "drafts": [
     {
       "number": 3,
@@ -1349,6 +1349,21 @@
       "approved_at": "2026-11-22T20:36:40Z",
       "channel_message_id": "83",
       "published_at": "2026-11-22T21:34:21Z"
+    },
+    {
+      "number": "81",
+      "status": "pending",
+      "topic": "cyberleek-xbox-build-leak",
+      "message_id": "163",
+      "media": "posts/2026-11-22-cyberleek-xbox-build.png",
+      "media_type": "photo",
+      "created_at": "2026-11-22T21:36:25Z",
+      "source": "https://www.videogameschronicle.com/news/cyberleek-claims-to-release-development-build-of-gta-6/",
+      "source_alt": "https://www.tweaktown.com/news/114815/cyberleek-claims-modders-could-get-gta-6-running-on-pc-within-a-week-after-reported-xbox-build-leak/index.html",
+      "note": "VGC/Notebookcheck Nov 19, TweakTown Nov 22. Unverified leak; exe timer ~Nov 23; no Rockstar statement on build. If exe drops before approval, update text.",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@cd9ff52/posts/2026-11-22-cyberleek-xbox-build.png",
+      "photo_file_id": "AgACAgQAAxkDAAOjawNgWU1kfV-1efXklWntiCAfS-UAArcRaxuFkx1QMpTvi5MqHdYBAAMCAAN5AAM9BA",
+      "caption": "🔎 <b>Хакеры выложили Xbox-билд GTA 6</b>\n\nГруппа Cyberleek, которая весь год сливала геймплей, выложила сборку GTA 6 для Xbox (версия 1.0.2.1) — около 209 ГБ файлов. Не хватает главного: исполняемого файла, без которого игра не запустится.\n\n⏳ Его обещают выложить по таймеру 23 ноября — или раньше, если их мем-коин дорастёт до $15 млн капитализации.\n💻 Хакеры уверяют, что через неделю игру запустят на ПК. Пока это только слова: работающий порт никто не показал.\n🤐 Rockstar и Take-Two по этой сборке не высказывались.\n\n⚠️ Не качайте «билды» и «ПК-версии» по ссылкам из чатов — под видом утечек часто раздают вирусы и стилеры.\n\n#GTA6 #новости"
     }
   ],
   "published_topics": [
@@ -1443,8 +1458,8 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-22T20:36:00Z",
-    "summary": "update 756023656: ok on #79 -> published (msg 82); drafted #80 SMG decal plagiarism (msg 161); pending 31,41,80 (3)",
+    "at": "2026-11-22T21:37:00Z",
+    "summary": "update 756023657: ok on #80 -> published (msg 83); drafted #81 Cyberleek Xbox build leak (msg 163); pending 31,41,81 (3)",
     "note": "published 1, drafted 1"
   }
 }
