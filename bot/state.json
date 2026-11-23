@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023663,
   "last_published_at": "2026-11-23T09:32:54Z",
-  "next_draft_number": 87,
+  "next_draft_number": 88,
   "drafts": [
     {
       "number": 3,
@@ -1459,9 +1459,24 @@
       "photo_file_id": "AgACAgQAAxkDAAOtawP6ucfumA3cXfWm3sZUwcnybjQAAsMQaxspLCRQOdAqJZdOAdABAAMCAAN5AAM9BA",
       "caption": "🎙 <b>Майкл, Франклин и «тот, кого нельзя называть»</b>\n\nВ GTA 6 нашли привет героям GTA 5. В тру-крайм подкасте Vice City True Stories гостем стал Уэйд — тот самый наивный друг Тревора.\n\n🗣 Ведущая показывает ему старое фото. Майкла Де Санту Уэйд называет умником и примерным семьянином, Франклина — уличным хулиганом, а имя своего «лучшего друга» вслух не произносит.\n🏦 Убийство Флойда и Дебры, ограбления банков? По словам Уэйда, эти уважаемые бизнесмены тут ни при чём.\n\nВключите подкасты в машине и послушайте сами. Тревор жив? 👇\n\n#GTA6 #пасхалки",
       "approved_update_id": "756023663",
-      "approved_at": "2026-11-23T09:17:36Z",
+      "approved_at": "2026-11-23T08:37:36Z",
       "channel_message_id": "89",
       "published_at": "2026-11-23T09:32:54Z"
+    },
+    {
+      "number": "87",
+      "status": "pending",
+      "topic": "gta6-album-spotify-first-day-record-29-85m",
+      "message_id": "175",
+      "media": "posts/2026-11-23-gta6-album-spotify-record.png",
+      "media_type": "photo",
+      "created_at": "2026-11-23T09:42:09Z",
+      "source": "https://www.pushsquare.com/news/2026/11/gta-6-just-cant-stop-breaking-records-it-seems",
+      "source_alt": "https://playfront.de/en/gta-6-offizieller-soundtrack-stellt-streaming-rekord-auf-spotify-auf",
+      "note": "29.85M first-day Spotify streams, biggest soundtrack opening day; primary source Pop Base tweet Nov 22; album released Nov 19, 34 tracks",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@6b20344/posts/2026-11-23-gta6-album-spotify-record.png",
+      "photo_file_id": "AgACAgQAAxkDAAOvawQKcWwE1WotS3fP13JbqdyO7gUAAgMRaxtOlCVQKtKb12xflp8BAAMCAAN5AAM9BA",
+      "caption": "🎧 <b>Саундтрек GTA 6 побил рекорд Spotify</b>\n\nОфициальный альбом GTA VI: The Album вышел вместе с игрой 19 ноября — и сразу вошёл в историю.\n\n📈 29,85 млн прослушиваний на Spotify за первый день — это лучший старт саундтрека за всю историю платформы (данные Pop Base).\n🎤 34 трека: Трэвис Скотт, Морган Уоллен, Metro Boomin, Future, PinkPantheress, Fred Again и другие.\n\nКакой трек из игры у вас на повторе? 👇\n\n#GTA6 #новости"
     }
   ],
   "published_topics": [
@@ -1562,8 +1577,8 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-23T08:36:00Z",
-    "summary": "update 756023662: owner 'ок' to #85 → published #85 (unkillable demon NPC) to channel msg 88; draft #86 (Wade podcast / GTA 5 trio) sent; pending 31,41,86 (3)",
+    "at": "2026-11-23T09:42:30Z",
+    "summary": "update 756023663: owner 'ок' to #86 → published #86 (Wade podcast) to channel msg 89; draft #87 (album Spotify record) sent; pending 31,41,87 (3)",
     "note": "published 1, drafted 1"
   }
 }
