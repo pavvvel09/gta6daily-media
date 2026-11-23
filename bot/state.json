@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023662,
-  "last_published_at": "2026-11-23T08:32:36Z",
+  "last_update_id": 756023663,
+  "last_published_at": "2026-11-23T09:32:54Z",
   "next_draft_number": 87,
   "drafts": [
     {
@@ -1446,7 +1446,7 @@
     },
     {
       "number": "86",
-      "status": "pending",
+      "status": "published",
       "topic": "wade-podcast-gta5-trio-vice-city-true-stories",
       "message_id": "173",
       "media": "posts/2026-11-23-wade-podcast-gta5-trio.png",
@@ -1457,7 +1457,11 @@
       "note": "GamesRadar Nov 20 (names podcast Vice City True Stories), TheGamer Nov 20 (Wade avoids Trevor's name); clip via DiscussingFilm on X.",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@c979f11/posts/2026-11-23-wade-podcast-gta5-trio.png",
       "photo_file_id": "AgACAgQAAxkDAAOtawP6ucfumA3cXfWm3sZUwcnybjQAAsMQaxspLCRQOdAqJZdOAdABAAMCAAN5AAM9BA",
-      "caption": "🎙 <b>Майкл, Франклин и «тот, кого нельзя называть»</b>\n\nВ GTA 6 нашли привет героям GTA 5. В тру-крайм подкасте Vice City True Stories гостем стал Уэйд — тот самый наивный друг Тревора.\n\n🗣 Ведущая показывает ему старое фото. Майкла Де Санту Уэйд называет умником и примерным семьянином, Франклина — уличным хулиганом, а имя своего «лучшего друга» вслух не произносит.\n🏦 Убийство Флойда и Дебры, ограбления банков? По словам Уэйда, эти уважаемые бизнесмены тут ни при чём.\n\nВключите подкасты в машине и послушайте сами. Тревор жив? 👇\n\n#GTA6 #пасхалки"
+      "caption": "🎙 <b>Майкл, Франклин и «тот, кого нельзя называть»</b>\n\nВ GTA 6 нашли привет героям GTA 5. В тру-крайм подкасте Vice City True Stories гостем стал Уэйд — тот самый наивный друг Тревора.\n\n🗣 Ведущая показывает ему старое фото. Майкла Де Санту Уэйд называет умником и примерным семьянином, Франклина — уличным хулиганом, а имя своего «лучшего друга» вслух не произносит.\n🏦 Убийство Флойда и Дебры, ограбления банков? По словам Уэйда, эти уважаемые бизнесмены тут ни при чём.\n\nВключите подкасты в машине и послушайте сами. Тревор жив? 👇\n\n#GTA6 #пасхалки",
+      "approved_update_id": "756023663",
+      "approved_at": "2026-11-23T09:17:36Z",
+      "channel_message_id": "89",
+      "published_at": "2026-11-23T09:32:54Z"
     }
   ],
   "published_topics": [
@@ -1541,7 +1545,8 @@
     "ishowspeed-52h-finish-tears",
     "ps5-crash-ce-108255-1",
     "marbelle-hotel-silent-hill-safe-955214",
-    "unkillable-demon-npc-key-lento-tower"
+    "unkillable-demon-npc-key-lento-tower",
+    "wade-podcast-gta5-trio-vice-city-true-stories"
   ],
   "owner_feedback": [
     {
