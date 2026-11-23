@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023667,
-  "last_published_at": "2026-11-23T14:32:27Z",
+  "last_update_id": 756023668,
+  "last_published_at": "2026-11-23T15:32:31Z",
   "next_draft_number": 92,
   "drafts": [
     {
@@ -1541,7 +1541,7 @@
     },
     {
       "number": "91",
-      "status": "pending",
+      "status": "published",
       "topic": "fake-steam-listing-f2p-app-2869070",
       "message_id": "183",
       "media": "posts/2026-11-23-fake-steam-listing.png",
@@ -1551,7 +1551,11 @@
       "note": "PC Guide Nov 23: blank unlisted Steam app 2869070, F2P, no dev/publisher, since Mar 1 2024, SteamDB flags suspicious; no official PC date",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@e7f3e3d/posts/2026-11-23-fake-steam-listing.png",
       "photo_file_id": "AgACAgQAAxkDAAO3awRAwJ6u0XxGZBaaH9GcJrsRZOwAAt8QaxvGwyVQPBdgGIppP0YBAAMCAAN5AAM9BA",
-      "caption": "⚠️ <b>«GTA 6» в Steam — это фейк</b>\n\nВ Steam всплыла страница «Grand Theft Auto 6» с пометкой Free To Play. Не ведитесь:\n\n• страница пустая — ни скриншотов, ни описания, ни кнопки загрузки;\n• разработчик и издатель не указаны;\n• заведена ещё в марте 2024-го, SteamDB помечает её как подозрительную.\n\nОфициальной PC-версии GTA 6 нет, дату для ПК Rockstar не объявляла. Любые «скачать GTA 6 на ПК» сейчас — развод или вирус.\n\n#GTA6 #новости"
+      "caption": "⚠️ <b>«GTA 6» в Steam — это фейк</b>\n\nВ Steam всплыла страница «Grand Theft Auto 6» с пометкой Free To Play. Не ведитесь:\n\n• страница пустая — ни скриншотов, ни описания, ни кнопки загрузки;\n• разработчик и издатель не указаны;\n• заведена ещё в марте 2024-го, SteamDB помечает её как подозрительную.\n\nОфициальной PC-версии GTA 6 нет, дату для ПК Rockstar не объявляла. Любые «скачать GTA 6 на ПК» сейчас — развод или вирус.\n\n#GTA6 #новости",
+      "approved_at": "2026-11-23T14:53:40Z",
+      "approved_update_id": 756023668,
+      "channel_message_id": "94",
+      "published_at": "2026-11-23T15:32:31Z"
     }
   ],
   "published_topics": [
@@ -1640,7 +1644,8 @@
     "gta6-album-spotify-first-day-record-29-85m",
     "belville-garage-simulation-conspiracy-board",
     "train-can-be-stopped-derailed",
-    "first-patch-1-002-002-nov23"
+    "first-patch-1-002-002-nov23",
+    "fake-steam-listing-f2p-app-2869070"
   ],
   "owner_feedback": [
     {
