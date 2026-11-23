@@ -1695,8 +1695,8 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-23T17:33:00Z",
-    "summary": "AnythingMCP trial ended 2026-11-23: telegram_bot_get_updates refused; nothing read/published/drafted",
-    "note": "connector down"
+    "at": "2026-11-23T18:31:00Z",
+    "summary": "AnythingMCP trial still ended: telegram_bot_get_updates refused; nothing read/published/drafted",
+    "note": "connector down; owner notified via app push (bot unavailable)"
   }
 }
