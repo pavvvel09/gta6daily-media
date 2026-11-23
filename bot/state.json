@@ -1695,8 +1695,8 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-23T16:35:00Z",
-    "summary": "#92 approved (update 756023669) and published as channel msg 95; pending 31,41 → drafted #93 (Tommy Vercetti shirt portal)",
-    "note": "published 1, drafted 1"
+    "at": "2026-11-23T17:33:00Z",
+    "summary": "AnythingMCP trial ended 2026-11-23: telegram_bot_get_updates refused; nothing read/published/drafted",
+    "note": "connector down"
   }
 }
