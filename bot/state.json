@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023668,
-  "last_published_at": "2026-11-23T15:32:31Z",
+  "last_update_id": 756023669,
+  "last_published_at": "2026-11-23T16:32:57Z",
   "next_draft_number": 93,
   "drafts": [
     {
@@ -1559,7 +1559,7 @@
     },
     {
       "number": "92",
-      "status": "pending",
+      "status": "published",
       "topic": "patch-notes-1-002-002-fixes",
       "message_id": "185",
       "media": "posts/2026-11-23-patch-notes-1-002-002.png",
@@ -1570,7 +1570,11 @@
       "note": "Notes on Rockstar support article (launch updates PS5/Xbox); 7 fix items; PS5 603.7MB, Xbox 1.6GB per Gamerant",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@daf5bdd/posts/2026-11-23-patch-notes-1-002-002.png",
       "photo_file_id": "AgACAgQAAxkDAAO5awRc2rOJvsz0wX3-KEc5WV9cTdEAAjMRaxtuySVQ9qM9sD4AAYz9AQADAgADeQADPQQ",
-      "caption": "🛠 <b>Что исправил первый патч GTA 6</b>\n\nRockstar выложила на сайте поддержки список изменений обновления 1.002.002 (PS5 и Xbox Series):\n\n• меньше вылетов игры;\n• звонки, которые двигают сюжет и открывают миссии, снова срабатывают;\n• розыск теперь можно сбросить;\n• починили автосохранение и «застывшую» погоду;\n• напарники снова отдают сумки для скупщиков, а штанга в спортзале работает.\n\n📦 PS5 — 604 МБ, Xbox Series — 1,6 ГБ. Про ошибку CE-108255-1 в патчноуте отдельно ничего не сказано.\n\nУ вас застревал сюжет из-за звонка? 👇\n\n#GTA6 #новости"
+      "caption": "🛠 <b>Что исправил первый патч GTA 6</b>\n\nRockstar выложила на сайте поддержки список изменений обновления 1.002.002 (PS5 и Xbox Series):\n\n• меньше вылетов игры;\n• звонки, которые двигают сюжет и открывают миссии, снова срабатывают;\n• розыск теперь можно сбросить;\n• починили автосохранение и «застывшую» погоду;\n• напарники снова отдают сумки для скупщиков, а штанга в спортзале работает.\n\n📦 PS5 — 604 МБ, Xbox Series — 1,6 ГБ. Про ошибку CE-108255-1 в патчноуте отдельно ничего не сказано.\n\nУ вас застревал сюжет из-за звонка? 👇\n\n#GTA6 #новости",
+      "approved_at": "2026-11-23T15:33:55Z",
+      "approved_update_id": "756023669",
+      "channel_message_id": "95",
+      "published_at": "2026-11-23T16:32:57Z"
     }
   ],
   "published_topics": [
@@ -1660,7 +1664,8 @@
     "belville-garage-simulation-conspiracy-board",
     "train-can-be-stopped-derailed",
     "first-patch-1-002-002-nov23",
-    "fake-steam-listing-f2p-app-2869070"
+    "fake-steam-listing-f2p-app-2869070",
+    "patch-notes-1-002-002-fixes"
   ],
   "owner_feedback": [
     {
