@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023664,
-  "last_published_at": "2026-11-23T10:33:13Z",
+  "last_update_id": 756023665,
+  "last_published_at": "2026-11-23T11:33:51Z",
   "next_draft_number": 89,
   "drafts": [
     {
@@ -1484,7 +1484,7 @@
     },
     {
       "number": "88",
-      "status": "pending",
+      "status": "published",
       "topic": "belville-garage-simulation-conspiracy-board",
       "message_id": "177",
       "media": "posts/2026-11-23-belville-simulation-npc.png",
@@ -1495,7 +1495,11 @@
       "note": "LADbible Nov 22: garage of the Belville house (SA DE easter egg house) has conspiracy notes; NPC believes Leonida is a simulation; follow-up to gta6-house-hidden-in-san-andreas-de",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@5fe1ad6/posts/2026-11-23-belville-simulation-npc.png",
       "photo_file_id": "AgACAgQAAxkDAAOxawQW0mcSStekcq9RzQTetdA5iPAAAtkQaxvtWCRQOo1R4BsdkNgBAAMCAAN5AAM9BA",
-      "caption": "👁 <b>NPC из GTA 6 понял, что он в игре</b>\n\nПомните дом из Belville, который «засветился» ещё в ремастере San Andreas? У него нашёлся жилец с секретом.\n\n📌 В гараже — доска конспиролога с записками: «Они следят за нами», «Почему мимо всё время ездит одна и та же машина?», «Почему люди исчезают, когда я отворачиваюсь?»\n🧠 Игроки считают, что хозяин дома уверен: Леонида — симуляция, и выбраться из неё нельзя.\n\nRockstar находку не комментировала — но шутка про NPC и прогрузку мира удалась 😄\n\n#GTA6 #пасхалки"
+      "caption": "👁 <b>NPC из GTA 6 понял, что он в игре</b>\n\nПомните дом из Belville, который «засветился» ещё в ремастере San Andreas? У него нашёлся жилец с секретом.\n\n📌 В гараже — доска конспиролога с записками: «Они следят за нами», «Почему мимо всё время ездит одна и та же машина?», «Почему люди исчезают, когда я отворачиваюсь?»\n🧠 Игроки считают, что хозяин дома уверен: Леонида — симуляция, и выбраться из неё нельзя.\n\nRockstar находку не комментировала — но шутка про NPC и прогрузку мира удалась 😄\n\n#GTA6 #пасхалки",
+      "approved_update_id": "756023665",
+      "approved_at": "2026-11-23T11:35:24Z",
+      "channel_message_id": "91",
+      "published_at": "2026-11-23T11:33:51Z"
     }
   ],
   "published_topics": [
@@ -1581,7 +1585,8 @@
     "marbelle-hotel-silent-hill-safe-955214",
     "unkillable-demon-npc-key-lento-tower",
     "wade-podcast-gta5-trio-vice-city-true-stories",
-    "gta6-album-spotify-first-day-record-29-85m"
+    "gta6-album-spotify-first-day-record-29-85m",
+    "belville-garage-simulation-conspiracy-board"
   ],
   "owner_feedback": [
     {
