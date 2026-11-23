@@ -1,7 +1,7 @@
 {
-  "last_update_id": 756023660,
-  "last_published_at": "2026-11-23T00:35:56Z",
-  "next_draft_number": 85,
+  "last_update_id": 756023661,
+  "last_published_at": "2026-11-23T07:32:23Z",
+  "next_draft_number": 86,
   "drafts": [
     {
       "number": 3,
@@ -1410,7 +1410,7 @@
     },
     {
       "number": "84",
-      "status": "pending",
+      "status": "published",
       "topic": "marbelle-hotel-silent-hill-safe-955214",
       "message_id": "169",
       "media": "posts/2026-11-23-marbelle-hotel-silent-hill.png",
@@ -1421,7 +1421,24 @@
       "note": "GameRant Nov 20, TheGamer Nov 22 agree on code 955214 and Crowex Ambassador Breakfast watch; also Sportskeeda, AddictingGames (@xGarbett X post).",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@e3b8865/posts/2026-11-23-marbelle-hotel-silent-hill.png",
       "photo_file_id": "AgACAgQAAxkDAAOpawPee34sSEV20e0EHFy28IOcBUoAAkoQaxs6lyRQEHTIxB0zHmwBAAMCAAN5AAM9BA",
-      "caption": "👻 <b>Пасхалка Silent Hill в GTA 6</b>\n\nВ Кростауне (Вайс-Сити) стоит заброшенный отель Marbelle — в квартале к востоку от Pawn &amp; Gun. Парадная заперта, заходите с чёрного хода.\n\n🌫 На третьем этаже дверь откроется сама. Поднимитесь к крыше — проход за вами захлопнется, стены покроются символами, погаснет свет, а всё вокруг затянет туманом.\n📝 На крыше лежит записка с историей отеля и обведённым кодом.\n🔐 Сейф внизу у входа: 955214. Внутри — часы Crowex Ambassador «Breakfast» и наличные.\n🔩 Бонус: снаружи можно подобрать трубу — привет главному оружию Silent Hill.\n\nМонстров нет, только атмосфера. Уже заглядывали? 👇\n\n#GTA6 #пасхалки #секреты"
+      "caption": "👻 <b>Пасхалка Silent Hill в GTA 6</b>\n\nВ Кростауне (Вайс-Сити) стоит заброшенный отель Marbelle — в квартале к востоку от Pawn &amp; Gun. Парадная заперта, заходите с чёрного хода.\n\n🌫 На третьем этаже дверь откроется сама. Поднимитесь к крыше — проход за вами захлопнется, стены покроются символами, погаснет свет, а всё вокруг затянет туманом.\n📝 На крыше лежит записка с историей отеля и обведённым кодом.\n🔐 Сейф внизу у входа: 955214. Внутри — часы Crowex Ambassador «Breakfast» и наличные.\n🔩 Бонус: снаружи можно подобрать трубу — привет главному оружию Silent Hill.\n\nМонстров нет, только атмосфера. Уже заглядывали? 👇\n\n#GTA6 #пасхалки #секреты",
+      "published_at": "2026-11-23T07:32:23Z",
+      "channel_message_id": 87,
+      "approved_update_id": 756023661
+    },
+    {
+      "number": "85",
+      "status": "pending",
+      "topic": "unkillable-demon-npc-key-lento-tower",
+      "message_id": "171",
+      "media": "posts/2026-11-23-unkillable-demon-npc.png",
+      "media_type": "photo",
+      "created_at": "2026-11-23T07:33:40Z",
+      "source": "https://gamerant.com/gta-6-strange-demonic-npc-encounter/",
+      "note": "GameRant Nov 22; Reddit u/seepa-man video, X @Millzaatv_ video; player-reported, unconfirmed by Rockstar",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@142c1f2/posts/2026-11-23-unkillable-demon-npc.png",
+      "photo_file_id": "AgACAgQAAxkDAAOrawPsVDamwcyGbsILX_lxPmPR26cAAjsSaxsbsB1QTiRNM7J-JO8BAAMCAAN5AAM9BA",
+      "caption": "😈 <b>Неубиваемый «демон» среди NPC</b>\n\n🔎 Игроки выкладывают странные видео: некоторые прохожие в GTA 6 не умирают от выстрелов.\n\n🎯 Как ловят: залезьте на радиовышку у дома Джейсона в Key Lento, возьмите наверху снайперку Shrewsbury SM-69 и стреляйте по NPC внизу.\n👁 Иногда «жертва» не падает: смотрит прямо на вас, проводит пальцем по горлу — и через секунду уже стоит за спиной. Мгновенная смерть, «Wasted».\n\nКакой именно NPC это делает — пока неясно, Rockstar молчит. Баг или очередная мистика Леониды? 👇\n\n#GTA6 #секреты"
     }
   ],
   "published_topics": [
@@ -1503,7 +1520,8 @@
     "smg-decal-plagiarism-gabyt",
     "cyberleek-xbox-build-leak",
     "ishowspeed-52h-finish-tears",
-    "ps5-crash-ce-108255-1"
+    "ps5-crash-ce-108255-1",
+    "marbelle-hotel-silent-hill-safe-955214"
   ],
   "owner_feedback": [
     {
@@ -1519,8 +1537,8 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-23T06:35:00Z",
-    "summary": "no new updates after 756023660; no approved drafts to publish; draft #84 (Marbelle Hotel Silent Hill) sent; pending 31,41,84 (3)",
-    "note": "published 0, drafted 1"
+    "at": "2026-11-23T07:34:00Z",
+    "summary": "update 756023661: owner 'ок' to #84 → published #84 (Marbelle Hotel Silent Hill) to channel msg 87; draft #85 (unkillable demon NPC) sent; pending 31,41,85 (3)",
+    "note": "published 1, drafted 1"
   }
 }
