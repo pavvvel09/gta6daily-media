@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023662,
   "last_published_at": "2026-11-23T08:32:36Z",
-  "next_draft_number": 86,
+  "next_draft_number": 87,
   "drafts": [
     {
       "number": 3,
@@ -1443,6 +1443,21 @@
       "approved_at": "2026-11-23T08:13:50Z",
       "channel_message_id": "88",
       "published_at": "2026-11-23T08:32:36Z"
+    },
+    {
+      "number": "86",
+      "status": "pending",
+      "topic": "wade-podcast-gta5-trio-vice-city-true-stories",
+      "message_id": "173",
+      "media": "posts/2026-11-23-wade-podcast-gta5-trio.png",
+      "media_type": "photo",
+      "created_at": "2026-11-23T08:35:05Z",
+      "source": "https://www.gamesradar.com/games/grand-theft-auto/grand-theft-auto-5-protagonists-are-referenced-in-a-perfect-gta-6-easter-egg-all-about-the-events-of-los-santos/",
+      "source_alt": "https://www.thegamer.com/gta-6-true-crime-podcast-trevor-michael-franklin/",
+      "note": "GamesRadar Nov 20 (names podcast Vice City True Stories), TheGamer Nov 20 (Wade avoids Trevor's name); clip via DiscussingFilm on X.",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@c979f11/posts/2026-11-23-wade-podcast-gta5-trio.png",
+      "photo_file_id": "AgACAgQAAxkDAAOtawP6ucfumA3cXfWm3sZUwcnybjQAAsMQaxspLCRQOdAqJZdOAdABAAMCAAN5AAM9BA",
+      "caption": "🎙 <b>Майкл, Франклин и «тот, кого нельзя называть»</b>\n\nВ GTA 6 нашли привет героям GTA 5. В тру-крайм подкасте Vice City True Stories гостем стал Уэйд — тот самый наивный друг Тревора.\n\n🗣 Ведущая показывает ему старое фото. Майкла Де Санту Уэйд называет умником и примерным семьянином, Франклина — уличным хулиганом, а имя своего «лучшего друга» вслух не произносит.\n🏦 Убийство Флойда и Дебры, ограбления банков? По словам Уэйда, эти уважаемые бизнесмены тут ни при чём.\n\nВключите подкасты в машине и послушайте сами. Тревор жив? 👇\n\n#GTA6 #пасхалки"
     }
   ],
   "published_topics": [
@@ -1542,8 +1557,8 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-23T08:33:00Z",
-    "summary": "update 756023662: owner 'ок' to #85 → published #85 (unkillable demon NPC) to channel msg 88; pending 31,41",
-    "note": "published 1"
+    "at": "2026-11-23T08:36:00Z",
+    "summary": "update 756023662: owner 'ок' to #85 → published #85 (unkillable demon NPC) to channel msg 88; draft #86 (Wade podcast / GTA 5 trio) sent; pending 31,41,86 (3)",
+    "note": "published 1, drafted 1"
   }
 }
