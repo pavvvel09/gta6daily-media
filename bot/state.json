@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023660,
   "last_published_at": "2026-11-23T00:35:56Z",
-  "next_draft_number": 84,
+  "next_draft_number": 85,
   "drafts": [
     {
       "number": 3,
@@ -1407,6 +1407,21 @@
       "channel_message_id": "86",
       "published_at": "2026-11-23T00:35:56Z",
       "disable_notification": true
+    },
+    {
+      "number": "84",
+      "status": "pending",
+      "topic": "marbelle-hotel-silent-hill-safe-955214",
+      "message_id": "169",
+      "media": "posts/2026-11-23-marbelle-hotel-silent-hill.png",
+      "media_type": "photo",
+      "created_at": "2026-11-23T06:34:35Z",
+      "source": "https://gamerant.com/gta-6-silent-hill-easter-egg-haunted-hotel-location/",
+      "source_alt": "https://www.thegamer.com/grand-theft-auto-6-silent-hill-location-marbelle-hotel-safe-code-legendary-watch-how-to-unlock-guide/",
+      "note": "GameRant Nov 20, TheGamer Nov 22 agree on code 955214 and Crowex Ambassador Breakfast watch; also Sportskeeda, AddictingGames (@xGarbett X post).",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@e3b8865/posts/2026-11-23-marbelle-hotel-silent-hill.png",
+      "photo_file_id": "AgACAgQAAxkDAAOpawPee34sSEV20e0EHFy28IOcBUoAAkoQaxs6lyRQEHTIxB0zHmwBAAMCAAN5AAM9BA",
+      "caption": "👻 <b>Пасхалка Silent Hill в GTA 6</b>\n\nВ Кростауне (Вайс-Сити) стоит заброшенный отель Marbelle — в квартале к востоку от Pawn &amp; Gun. Парадная заперта, заходите с чёрного хода.\n\n🌫 На третьем этаже дверь откроется сама. Поднимитесь к крыше — проход за вами захлопнется, стены покроются символами, погаснет свет, а всё вокруг затянет туманом.\n📝 На крыше лежит записка с историей отеля и обведённым кодом.\n🔐 Сейф внизу у входа: 955214. Внутри — часы Crowex Ambassador «Breakfast» и наличные.\n🔩 Бонус: снаружи можно подобрать трубу — привет главному оружию Silent Hill.\n\nМонстров нет, только атмосфера. Уже заглядывали? 👇\n\n#GTA6 #пасхалки #секреты"
     }
   ],
   "published_topics": [
@@ -1504,8 +1519,8 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-23T05:32:00Z",
-    "summary": "no new updates after 756023660; no approved drafts to publish; no new draft (quiet hours 01-07 Warsaw); pending 31,41 (2)",
-    "note": "published 0, drafted 0"
+    "at": "2026-11-23T06:35:00Z",
+    "summary": "no new updates after 756023660; no approved drafts to publish; draft #84 (Marbelle Hotel Silent Hill) sent; pending 31,41,84 (3)",
+    "note": "published 0, drafted 1"
   }
 }
