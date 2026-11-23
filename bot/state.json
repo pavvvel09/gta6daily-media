@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023669,
   "last_published_at": "2026-11-23T16:32:57Z",
-  "next_draft_number": 93,
+  "next_draft_number": 94,
   "drafts": [
     {
       "number": 3,
@@ -1575,6 +1575,20 @@
       "approved_update_id": "756023669",
       "channel_message_id": "95",
       "published_at": "2026-11-23T16:32:57Z"
+    },
+    {
+      "number": "93",
+      "status": "pending",
+      "topic": "tommy-vercetti-shirt-malibu-club-portal",
+      "message_id": "187",
+      "media": "posts/2026-11-23-tommy-vercetti-shirt-portal.png",
+      "media_type": "photo",
+      "created_at": "2026-11-23T16:34:28Z",
+      "source": "https://www.vice.com/en/article/gta-6-tommy-vercetti-shirt-vice-city-easter-egg/",
+      "note": "VICE Nov 23 (Brent Koepp); found by @MemeioYT X video; Badger tower Key Lento -> 12 LPL substations -> SMS U-235 REACTOR2 19-06 -> Turtle Head reactor 2 portal 7PM-6AM -> Malibu Club, Kent Paul, Tommy shirt",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@fd16ea3/posts/2026-11-23-tommy-vercetti-shirt-portal.png",
+      "photo_file_id": "AgACAgQAAxkDAAO7awRrFOo59-K7iiTwtDIUpwF7I4AAAmcRaxsf1S1QTRbvr2g0fWYBAAMCAAN5AAM9BA",
+      "caption": "🌴 <b>Портал в Malibu Club и рубашка Томми</b>\n\nИгрок Memeio нашёл в GTA 6 тайный квест, который отправляет Джейсона в Malibu Club из Vice City 2002 года — с PS2-графикой и камео Кента Пола.\n\n• старт — радиовышка Badger в Key Lento;\n• дальше 12 подстанций LPL в строгом порядке (быстрое перемещение может сбросить прогресс);\n• придёт SMS «U-235 REACTOR2 19-06»;\n• ночью у реактора 2 на станции Turtle Head откроется фиолетовый портал.\n\n🎁 Награда — та самая синяя гавайская рубашка Томми Версетти. Для полной карты может понадобиться 3-я глава.\n\nИсточник: VICE, видео — <a href=\"https://x.com/MemeioYT/status/2124773456231444900\">@MemeioYT</a>\n\n#GTA6 #пасхалки #секреты"
     }
   ],
   "published_topics": [
@@ -1681,8 +1695,8 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-23T15:34:00Z",
-    "summary": "#91 approved (update 756023668) and published as channel msg 94; pending 31,41 → drafted #92 (patch notes 1.002.002)",
+    "at": "2026-11-23T16:35:00Z",
+    "summary": "#92 approved (update 756023669) and published as channel msg 95; pending 31,41 → drafted #93 (Tommy Vercetti shirt portal)",
     "note": "published 1, drafted 1"
   }
 }
