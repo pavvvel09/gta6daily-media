@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023661,
-  "last_published_at": "2026-11-23T07:32:23Z",
+  "last_update_id": 756023662,
+  "last_published_at": "2026-11-23T08:32:36Z",
   "next_draft_number": 86,
   "drafts": [
     {
@@ -1428,7 +1428,7 @@
     },
     {
       "number": "85",
-      "status": "pending",
+      "status": "published",
       "topic": "unkillable-demon-npc-key-lento-tower",
       "message_id": "171",
       "media": "posts/2026-11-23-unkillable-demon-npc.png",
@@ -1438,7 +1438,11 @@
       "note": "GameRant Nov 22; Reddit u/seepa-man video, X @Millzaatv_ video; player-reported, unconfirmed by Rockstar",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@142c1f2/posts/2026-11-23-unkillable-demon-npc.png",
       "photo_file_id": "AgACAgQAAxkDAAOrawPsVDamwcyGbsILX_lxPmPR26cAAjsSaxsbsB1QTiRNM7J-JO8BAAMCAAN5AAM9BA",
-      "caption": "😈 <b>Неубиваемый «демон» среди NPC</b>\n\n🔎 Игроки выкладывают странные видео: некоторые прохожие в GTA 6 не умирают от выстрелов.\n\n🎯 Как ловят: залезьте на радиовышку у дома Джейсона в Key Lento, возьмите наверху снайперку Shrewsbury SM-69 и стреляйте по NPC внизу.\n👁 Иногда «жертва» не падает: смотрит прямо на вас, проводит пальцем по горлу — и через секунду уже стоит за спиной. Мгновенная смерть, «Wasted».\n\nКакой именно NPC это делает — пока неясно, Rockstar молчит. Баг или очередная мистика Леониды? 👇\n\n#GTA6 #секреты"
+      "caption": "😈 <b>Неубиваемый «демон» среди NPC</b>\n\n🔎 Игроки выкладывают странные видео: некоторые прохожие в GTA 6 не умирают от выстрелов.\n\n🎯 Как ловят: залезьте на радиовышку у дома Джейсона в Key Lento, возьмите наверху снайперку Shrewsbury SM-69 и стреляйте по NPC внизу.\n👁 Иногда «жертва» не падает: смотрит прямо на вас, проводит пальцем по горлу — и через секунду уже стоит за спиной. Мгновенная смерть, «Wasted».\n\nКакой именно NPC это делает — пока неясно, Rockstar молчит. Баг или очередная мистика Леониды? 👇\n\n#GTA6 #секреты",
+      "approved_update_id": "756023662",
+      "approved_at": "2026-11-23T08:13:50Z",
+      "channel_message_id": "88",
+      "published_at": "2026-11-23T08:32:36Z"
     }
   ],
   "published_topics": [
@@ -1521,7 +1525,8 @@
     "cyberleek-xbox-build-leak",
     "ishowspeed-52h-finish-tears",
     "ps5-crash-ce-108255-1",
-    "marbelle-hotel-silent-hill-safe-955214"
+    "marbelle-hotel-silent-hill-safe-955214",
+    "unkillable-demon-npc-key-lento-tower"
   ],
   "owner_feedback": [
     {
@@ -1537,8 +1542,8 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-23T07:34:00Z",
-    "summary": "update 756023661: owner 'ок' to #84 → published #84 (Marbelle Hotel Silent Hill) to channel msg 87; draft #85 (unkillable demon NPC) sent; pending 31,41,85 (3)",
-    "note": "published 1, drafted 1"
+    "at": "2026-11-23T08:33:00Z",
+    "summary": "update 756023662: owner 'ок' to #85 → published #85 (unkillable demon NPC) to channel msg 88; pending 31,41",
+    "note": "published 1"
   }
 }
