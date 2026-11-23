@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023665,
   "last_published_at": "2026-11-23T11:33:51Z",
-  "next_draft_number": 89,
+  "next_draft_number": 90,
   "drafts": [
     {
       "number": 3,
@@ -1500,6 +1500,21 @@
       "approved_at": "2026-11-23T11:35:24Z",
       "channel_message_id": "91",
       "published_at": "2026-11-23T11:33:51Z"
+    },
+    {
+      "number": "89",
+      "status": "pending",
+      "topic": "train-can-be-stopped-derailed",
+      "message_id": "179",
+      "media": "posts/2026-11-23-gta6-train-derail.png",
+      "media_type": "photo",
+      "created_at": "2026-11-23T11:41:06Z",
+      "source": "https://www.thegamer.com/grand-theft-auto-6-you-can-stop-the-train/",
+      "source_alt": "https://ixbt.games/en/news/2026/11/22/13-let-igroki-pytalis-ostanovit-poezd-v-gta-v-no-takaia-vozmoznost-poiavilas-tolko-v-gta-vi.html",
+      "note": "TheGamer Nov 21, iXBT Nov 22, Gamemeca Nov 23: stand on tracks -> brakes+horn; truck side ram derails (X jax_caine video); train-on-train collision. No Rockstar comment.",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@792c70b/posts/2026-11-23-gta6-train-derail.png",
+      "photo_file_id": "AgACAgQAAxkDAAOzawQmUuj2NId9Fih0Enn7f6fHFJwAAv8QaxukLCRQUHhsqfZoLTQBAAMCAAN5AAM9BA",
+      "caption": "🚂 <b>Поезд в GTA 6 наконец можно остановить</b>\n\n13 лет игроки пытались остановить неуязвимый поезд в GTA 5 — танками, грузовиками, толпой. В GTA 6 это наконец работает.\n\n🛑 Встань на рельсы — машинист затормозит и посигналит.\n🚛 Протарань состав грузовиком сбоку — он сойдёт с рельсов.\n💥 Поставь на путях второй поезд — будет лобовое столкновение.\n\nИгроки уже выкладывают видео крушений. Теперь поезд — обычный транспорт с честной физикой, а не «неуязвимый босс» 😄\n\n#GTA6 #факты"
     }
   ],
   "published_topics": [
@@ -1602,8 +1617,8 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-23T10:35:30Z",
-    "summary": "update 756023664: owner 'ок' to #87 → published #87 (album Spotify record) to channel msg 90; draft #88 (Belville simulation NPC) sent; pending 31,41,88 (3)",
+    "at": "2026-11-23T11:41:30Z",
+    "summary": "update 756023665: owner 'ок' to #88 → published #88 (Belville simulation NPC) to channel msg 91; draft #89 (train stop/derail) sent; pending 31,41,89 (3)",
     "note": "published 1, drafted 1"
   }
 }
