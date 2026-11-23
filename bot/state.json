@@ -1,7 +1,7 @@
 {
-  "last_update_id": 756023663,
-  "last_published_at": "2026-11-23T09:32:54Z",
-  "next_draft_number": 88,
+  "last_update_id": 756023664,
+  "last_published_at": "2026-11-23T10:33:13Z",
+  "next_draft_number": 89,
   "drafts": [
     {
       "number": 3,
@@ -1465,7 +1465,7 @@
     },
     {
       "number": "87",
-      "status": "pending",
+      "status": "published",
       "topic": "gta6-album-spotify-first-day-record-29-85m",
       "message_id": "175",
       "media": "posts/2026-11-23-gta6-album-spotify-record.png",
@@ -1476,7 +1476,26 @@
       "note": "29.85M first-day Spotify streams, biggest soundtrack opening day; primary source Pop Base tweet Nov 22; album released Nov 19, 34 tracks",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@6b20344/posts/2026-11-23-gta6-album-spotify-record.png",
       "photo_file_id": "AgACAgQAAxkDAAOvawQKcWwE1WotS3fP13JbqdyO7gUAAgMRaxtOlCVQKtKb12xflp8BAAMCAAN5AAM9BA",
-      "caption": "🎧 <b>Саундтрек GTA 6 побил рекорд Spotify</b>\n\nОфициальный альбом GTA VI: The Album вышел вместе с игрой 19 ноября — и сразу вошёл в историю.\n\n📈 29,85 млн прослушиваний на Spotify за первый день — это лучший старт саундтрека за всю историю платформы (данные Pop Base).\n🎤 34 трека: Трэвис Скотт, Морган Уоллен, Metro Boomin, Future, PinkPantheress, Fred Again и другие.\n\nКакой трек из игры у вас на повторе? 👇\n\n#GTA6 #новости"
+      "caption": "🎧 <b>Саундтрек GTA 6 побил рекорд Spotify</b>\n\nОфициальный альбом GTA VI: The Album вышел вместе с игрой 19 ноября — и сразу вошёл в историю.\n\n📈 29,85 млн прослушиваний на Spotify за первый день — это лучший старт саундтрека за всю историю платформы (данные Pop Base).\n🎤 34 трека: Трэвис Скотт, Морган Уоллен, Metro Boomin, Future, PinkPantheress, Fred Again и другие.\n\nКакой трек из игры у вас на повторе? 👇\n\n#GTA6 #новости",
+      "approved_update_id": "756023664",
+      "approved_at": "2026-11-23T10:19:46Z",
+      "channel_message_id": "90",
+      "published_at": "2026-11-23T10:33:13Z"
+    },
+    {
+      "number": "88",
+      "status": "pending",
+      "topic": "belville-garage-simulation-conspiracy-board",
+      "message_id": "177",
+      "media": "posts/2026-11-23-belville-simulation-npc.png",
+      "media_type": "photo",
+      "created_at": "2026-11-23T10:34:58Z",
+      "source": "https://www.ladbible.com/entertainment/gaming/grand-theft-auto-gta-six-npc-simulation-812954-20261122",
+      "source_alt": "https://runtimewire.com/article/gta-6-players-find-a-conspiracy-board-that-says-leonida-is-a-simulation",
+      "note": "LADbible Nov 22: garage of the Belville house (SA DE easter egg house) has conspiracy notes; NPC believes Leonida is a simulation; follow-up to gta6-house-hidden-in-san-andreas-de",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@5fe1ad6/posts/2026-11-23-belville-simulation-npc.png",
+      "photo_file_id": "AgACAgQAAxkDAAOxawQW0mcSStekcq9RzQTetdA5iPAAAtkQaxvtWCRQOo1R4BsdkNgBAAMCAAN5AAM9BA",
+      "caption": "👁 <b>NPC из GTA 6 понял, что он в игре</b>\n\nПомните дом из Belville, который «засветился» ещё в ремастере San Andreas? У него нашёлся жилец с секретом.\n\n📌 В гараже — доска конспиролога с записками: «Они следят за нами», «Почему мимо всё время ездит одна и та же машина?», «Почему люди исчезают, когда я отворачиваюсь?»\n🧠 Игроки считают, что хозяин дома уверен: Леонида — симуляция, и выбраться из неё нельзя.\n\nRockstar находку не комментировала — но шутка про NPC и прогрузку мира удалась 😄\n\n#GTA6 #пасхалки"
     }
   ],
   "published_topics": [
@@ -1561,7 +1580,8 @@
     "ps5-crash-ce-108255-1",
     "marbelle-hotel-silent-hill-safe-955214",
     "unkillable-demon-npc-key-lento-tower",
-    "wade-podcast-gta5-trio-vice-city-true-stories"
+    "wade-podcast-gta5-trio-vice-city-true-stories",
+    "gta6-album-spotify-first-day-record-29-85m"
   ],
   "owner_feedback": [
     {
@@ -1577,8 +1597,8 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-23T09:42:30Z",
-    "summary": "update 756023663: owner 'ок' to #86 → published #86 (Wade podcast) to channel msg 89; draft #87 (album Spotify record) sent; pending 31,41,87 (3)",
+    "at": "2026-11-23T10:35:30Z",
+    "summary": "update 756023664: owner 'ок' to #87 → published #87 (album Spotify record) to channel msg 90; draft #88 (Belville simulation NPC) sent; pending 31,41,88 (3)",
     "note": "published 1, drafted 1"
   }
 }
