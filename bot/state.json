@@ -1,7 +1,7 @@
 {
   "last_update_id": 756023666,
   "last_published_at": "2026-11-23T12:34:05Z",
-  "next_draft_number": 90,
+  "next_draft_number": 91,
   "drafts": [
     {
       "number": 3,
@@ -1519,6 +1519,21 @@
       "approved_at": "2026-11-23T12:09:35Z",
       "channel_message_id": "92",
       "published_at": "2026-11-23T12:34:05Z"
+    },
+    {
+      "number": "90",
+      "status": "pending",
+      "topic": "first-patch-1-002-002-nov23",
+      "message_id": "181",
+      "media": "posts/2026-11-23-first-patch-1-002-002.png",
+      "media_type": "photo",
+      "created_at": "2026-11-23T12:34:45Z",
+      "source": "https://mp1st.com/title-updates-and-patches/gta-6-first-update-1-002-002-released-on-november-23",
+      "source_alt": "https://www.playstationlifestyle.net/2026/11/23/gta-6-update-1002002-november-23-2026-patch-notes",
+      "note": "MP1st + PSLS Nov 23: ~600MB PS5, Xbox 1.2-1.6GB (player reports), staggered by region, no patch notes; CE-108255-1 fix unconfirmed",
+      "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@4dba65c/posts/2026-11-23-first-patch-1-002-002.png",
+      "photo_file_id": "AgACAgQAAxkDAAO1awQy5VV-g8csBYpaNv33eF2FK3EAAt8QaxvUqiVQ3ifWuE4OM_8BAAMCAAN5AAM9BA",
+      "caption": "⬇️ <b>Вышел первый патч GTA 6 — 1.002.002</b>\n\nСегодня, 23 ноября, Rockstar начала раскатывать первое обновление после релиза. Приходит волнами по регионам — если у вас ещё нет, просто подождите.\n\n🎮 PS5 — около 600 МБ\n🟩 Xbox — по отзывам игроков 1,2–1,6 ГБ\n📄 Патчноутов пока нет: что именно исправили, официально неизвестно.\n\nИгроки надеются, что патч лечит вылеты на PS5 с ошибкой CE-108255-1, но подтверждения нет. Обновитесь и напишите в комментариях — стало стабильнее? 👇\n\n#GTA6 #новости"
     }
   ],
   "published_topics": [
@@ -1622,8 +1637,8 @@
     "note": "published on owner's direct request in chat; owner adds partner links himself"
   },
   "last_run": {
-    "at": "2026-11-23T11:41:30Z",
-    "summary": "update 756023665: owner 'ок' to #88 → published #88 (Belville simulation NPC) to channel msg 91; draft #89 (train stop/derail) sent; pending 31,41,89 (3)",
+    "at": "2026-11-23T12:35:00Z",
+    "summary": "update 756023666: owner 'ок' to #89 → published #89 (train stop/derail) to channel msg 92; draft #90 (first patch 1.002.002) sent; pending 31,41,90 (3)",
     "note": "published 1, drafted 1"
   }
 }
