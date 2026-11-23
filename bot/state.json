@@ -1,6 +1,6 @@
 {
-  "last_update_id": 756023665,
-  "last_published_at": "2026-11-23T11:33:51Z",
+  "last_update_id": 756023666,
+  "last_published_at": "2026-11-23T12:34:05Z",
   "next_draft_number": 90,
   "drafts": [
     {
@@ -1503,7 +1503,7 @@
     },
     {
       "number": "89",
-      "status": "pending",
+      "status": "published",
       "topic": "train-can-be-stopped-derailed",
       "message_id": "179",
       "media": "posts/2026-11-23-gta6-train-derail.png",
@@ -1514,7 +1514,11 @@
       "note": "TheGamer Nov 21, iXBT Nov 22, Gamemeca Nov 23: stand on tracks -> brakes+horn; truck side ram derails (X jax_caine video); train-on-train collision. No Rockstar comment.",
       "media_url": "https://cdn.jsdelivr.net/gh/pavvvel09/gta6daily-media@792c70b/posts/2026-11-23-gta6-train-derail.png",
       "photo_file_id": "AgACAgQAAxkDAAOzawQmUuj2NId9Fih0Enn7f6fHFJwAAv8QaxukLCRQUHhsqfZoLTQBAAMCAAN5AAM9BA",
-      "caption": "🚂 <b>Поезд в GTA 6 наконец можно остановить</b>\n\n13 лет игроки пытались остановить неуязвимый поезд в GTA 5 — танками, грузовиками, толпой. В GTA 6 это наконец работает.\n\n🛑 Встань на рельсы — машинист затормозит и посигналит.\n🚛 Протарань состав грузовиком сбоку — он сойдёт с рельсов.\n💥 Поставь на путях второй поезд — будет лобовое столкновение.\n\nИгроки уже выкладывают видео крушений. Теперь поезд — обычный транспорт с честной физикой, а не «неуязвимый босс» 😄\n\n#GTA6 #факты"
+      "caption": "🚂 <b>Поезд в GTA 6 наконец можно остановить</b>\n\n13 лет игроки пытались остановить неуязвимый поезд в GTA 5 — танками, грузовиками, толпой. В GTA 6 это наконец работает.\n\n🛑 Встань на рельсы — машинист затормозит и посигналит.\n🚛 Протарань состав грузовиком сбоку — он сойдёт с рельсов.\n💥 Поставь на путях второй поезд — будет лобовое столкновение.\n\nИгроки уже выкладывают видео крушений. Теперь поезд — обычный транспорт с честной физикой, а не «неуязвимый босс» 😄\n\n#GTA6 #факты",
+      "approved_update_id": "756023666",
+      "approved_at": "2026-11-23T12:09:35Z",
+      "channel_message_id": "92",
+      "published_at": "2026-11-23T12:34:05Z"
     }
   ],
   "published_topics": [
@@ -1601,7 +1605,8 @@
     "unkillable-demon-npc-key-lento-tower",
     "wade-podcast-gta5-trio-vice-city-true-stories",
     "gta6-album-spotify-first-day-record-29-85m",
-    "belville-garage-simulation-conspiracy-board"
+    "belville-garage-simulation-conspiracy-board",
+    "train-can-be-stopped-derailed"
   ],
   "owner_feedback": [
     {
